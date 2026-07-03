@@ -1,0 +1,38 @@
+name: CLV Closing Line Capture
+
+on:
+  schedule:
+    # Cron times are UTC and do not auto-adjust for US DST.
+    # 16:55 UTC = 11:55am CT during Central Daylight Time (Mar-Nov, covers MLB season).
+    # 23:55 UTC = 6:55pm CT during Central Daylight Time.
+    # During Central Standard Time (Nov-Mar, mid/late NFL season) these run ~1hr later
+    # than the intended local time (12:55pm / 7:55pm CT) until adjusted.
+    - cron: '55 16 * * *'
+    - cron: '55 23 * * *'
+  workflow_dispatch: {}
+
+permissions:
+  contents: write
+
+jobs:
+  capture:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+
+      - name: Run capture script
+        env:
+          ODDS_API_KEY: ${{ secrets.ODDS_API_KEY }}
+        run: python3 clv_capture.py
+
+      - name: Commit and push if changed
+        run: |
+          git config user.name "clv-capture-bot"
+          git config user.email "actions@users.noreply.github.com"
+          git add clv_closing_lines.csv
+          if git diff --staged --quiet; then
+            echo "No changes to commit"
+          else
+            git commit -m "Capture closing lines $(date -u +'%Y-%m-%d %H:%M UTC')"
+            git push
+          fi
