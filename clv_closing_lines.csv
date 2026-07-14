@@ -1101,9 +1101,9 @@ captured_at,date,sport,home_team,away_team,market,book,home_odds,away_odds,over_
 2026-07-12T17:45:40,2026-07-12,MLB,Texas Rangers,Houston Astros,moneyline,betmgm,-145,118,,,
 2026-07-12T17:45:40,2026-07-12,MLB,Texas Rangers,Houston Astros,spread,betmgm,140,-170,,,
 2026-07-12T17:45:40,2026-07-12,MLB,Texas Rangers,Houston Astros,total,betmgm,,,-105,-115,9.0
-2026-07-14T01:05:37,2026-07-15,MLB,National League,American League,moneyline,fanduel,-142,120,,,
-2026-07-14T01:05:37,2026-07-15,MLB,National League,American League,spread,fanduel,150,-182,,,
-2026-07-14T01:05:37,2026-07-15,MLB,National League,American League,total,fanduel,,,-122,100,7.5
-2026-07-14T01:05:37,2026-07-15,MLB,National League,American League,moneyline,betmgm,-140,115,,,
-2026-07-14T01:05:37,2026-07-15,MLB,National League,American League,spread,betmgm,150,-185,,,
-2026-07-14T01:05:37,2026-07-15,MLB,National League,American League,total,betmgm,,,-110,-110,8.0
+2026-07-14T17:51:47,2026-07-15,MLB,National League,American League,moneyline,fanduel,-132,112,,,
+2026-07-14T17:51:47,2026-07-15,MLB,National League,American League,spread,fanduel,158,-192,,,
+2026-07-14T17:51:47,2026-07-15,MLB,National League,American League,total,fanduel,,,100,-122,8.5
+2026-07-14T17:51:47,2026-07-15,MLB,National League,American League,moneyline,betmgm,-130,110,,,
+2026-07-14T17:51:47,2026-07-15,MLB,National League,American League,spread,betmgm,150,-185,,,
+2026-07-14T17:51:47,2026-07-15,MLB,National League,American League,total,betmgm,,,-115,-105,8.0
