@@ -1107,3 +1107,9 @@ captured_at,date,sport,home_team,away_team,market,book,home_odds,away_odds,over_
 2026-07-15T01:02:45,2026-07-15,MLB,National League,American League,moneyline,betmgm,210,-275,,,
 2026-07-15T01:02:45,2026-07-15,MLB,National League,American League,spread,betmgm,-145,110,,,
 2026-07-15T01:02:45,2026-07-15,MLB,National League,American League,total,betmgm,,,-105,-120,9.5
+2026-07-15T17:58:37,2026-07-16,MLB,Philadelphia Phillies,New York Mets,moneyline,fanduel,-126,108,,,
+2026-07-15T17:58:37,2026-07-16,MLB,Philadelphia Phillies,New York Mets,spread,fanduel,162,-196,,,
+2026-07-15T17:58:37,2026-07-16,MLB,Philadelphia Phillies,New York Mets,total,fanduel,,,-122,100,9.5
+2026-07-15T17:58:37,2026-07-16,MLB,Philadelphia Phillies,New York Mets,moneyline,betmgm,-135,110,,,
+2026-07-15T17:58:37,2026-07-16,MLB,Philadelphia Phillies,New York Mets,spread,betmgm,155,-190,,,
+2026-07-15T17:58:37,2026-07-16,MLB,Philadelphia Phillies,New York Mets,total,betmgm,,,-118,-102,9.5
