@@ -2570,84 +2570,93 @@ captured_at,date,sport,home_team,away_team,market,book,home_odds,away_odds,over_
 2026-07-30T01:05:16,2026-07-29,MLB,New York Mets,Atlanta Braves,moneyline,betmgm,290,-400,,,
 2026-07-30T01:05:16,2026-07-29,MLB,New York Mets,Atlanta Braves,spread,betmgm,-200,155,,,
 2026-07-30T01:05:16,2026-07-29,MLB,New York Mets,Atlanta Braves,total,betmgm,,,-165,130,2.5
-2026-07-30T01:05:16,2026-07-30,MLB,Tampa Bay Rays,Texas Rangers,moneyline,fanduel,-126,108,,,
-2026-07-30T01:05:16,2026-07-30,MLB,Tampa Bay Rays,Texas Rangers,spread,fanduel,176,-215,,,
-2026-07-30T01:05:16,2026-07-30,MLB,Tampa Bay Rays,Texas Rangers,total,fanduel,,,-110,-110,7.5
-2026-07-30T01:05:16,2026-07-30,MLB,Tampa Bay Rays,Texas Rangers,moneyline,betmgm,-120,100,,,
-2026-07-30T01:05:16,2026-07-30,MLB,Tampa Bay Rays,Texas Rangers,spread,betmgm,170,-210,,,
-2026-07-30T01:05:16,2026-07-30,MLB,Tampa Bay Rays,Texas Rangers,total,betmgm,,,-105,-115,7.5
-2026-07-30T01:05:16,2026-07-30,MLB,Tampa Bay Rays,Texas Rangers,moneyline,draftkings,-125,103,,,
-2026-07-30T01:05:16,2026-07-30,MLB,Tampa Bay Rays,Texas Rangers,spread,draftkings,170,-208,,,
-2026-07-30T01:05:16,2026-07-30,MLB,Tampa Bay Rays,Texas Rangers,total,draftkings,,,-107,-112,7.5
-2026-07-30T01:05:16,2026-07-30,MLB,Minnesota Twins,Kansas City Royals,moneyline,fanduel,-136,116,,,
-2026-07-30T01:05:16,2026-07-30,MLB,Minnesota Twins,Kansas City Royals,spread,fanduel,155,-188,,,
-2026-07-30T01:05:16,2026-07-30,MLB,Minnesota Twins,Kansas City Royals,total,fanduel,,,-114,-106,9.5
-2026-07-30T01:05:16,2026-07-30,MLB,Minnesota Twins,Kansas City Royals,moneyline,draftkings,-143,119,,,
-2026-07-30T01:05:16,2026-07-30,MLB,Minnesota Twins,Kansas City Royals,spread,draftkings,144,-175,,,
-2026-07-30T01:05:16,2026-07-30,MLB,Minnesota Twins,Kansas City Royals,total,draftkings,,,-112,-108,9.5
-2026-07-30T01:05:16,2026-07-30,MLB,Chicago White Sox,New York Yankees,moneyline,fanduel,-112,-104,,,
-2026-07-30T01:05:16,2026-07-30,MLB,Chicago White Sox,New York Yankees,spread,fanduel,-192,158,,,
-2026-07-30T01:05:16,2026-07-30,MLB,Chicago White Sox,New York Yankees,total,fanduel,,,-114,-106,8.0
-2026-07-30T01:05:16,2026-07-30,MLB,Chicago White Sox,New York Yankees,moneyline,betmgm,-115,-105,,,
-2026-07-30T01:05:16,2026-07-30,MLB,Chicago White Sox,New York Yankees,spread,betmgm,-200,165,,,
-2026-07-30T01:05:16,2026-07-30,MLB,Chicago White Sox,New York Yankees,total,betmgm,,,-115,-105,8.0
-2026-07-30T01:05:16,2026-07-30,MLB,Chicago White Sox,New York Yankees,moneyline,draftkings,-114,-106,,,
-2026-07-30T01:05:16,2026-07-30,MLB,Chicago White Sox,New York Yankees,spread,draftkings,-193,158,,,
-2026-07-30T01:05:16,2026-07-30,MLB,Chicago White Sox,New York Yankees,total,draftkings,,,-115,-104,8.0
-2026-07-30T01:05:16,2026-07-30,MLB,St. Louis Cardinals,Chicago Cubs,moneyline,fanduel,-120,102,,,
-2026-07-30T01:05:16,2026-07-30,MLB,St. Louis Cardinals,Chicago Cubs,spread,fanduel,-210,172,,,
-2026-07-30T01:05:16,2026-07-30,MLB,St. Louis Cardinals,Chicago Cubs,total,fanduel,,,-110,-110,8.5
-2026-07-30T01:05:16,2026-07-30,MLB,St. Louis Cardinals,Chicago Cubs,moneyline,betmgm,-120,100,,,
-2026-07-30T01:05:16,2026-07-30,MLB,St. Louis Cardinals,Chicago Cubs,spread,betmgm,-200,165,,,
-2026-07-30T01:05:16,2026-07-30,MLB,St. Louis Cardinals,Chicago Cubs,total,betmgm,,,-110,-110,8.5
-2026-07-30T01:05:16,2026-07-30,MLB,St. Louis Cardinals,Chicago Cubs,moneyline,draftkings,-120,100,,,
-2026-07-30T01:05:16,2026-07-30,MLB,St. Louis Cardinals,Chicago Cubs,spread,draftkings,-204,167,,,
-2026-07-30T01:05:16,2026-07-30,MLB,St. Louis Cardinals,Chicago Cubs,total,draftkings,,,-110,-110,8.5
-2026-07-30T01:05:16,2026-07-30,MLB,Cincinnati Reds,Pittsburgh Pirates,moneyline,fanduel,-104,-112,,,
-2026-07-30T01:05:16,2026-07-30,MLB,Cincinnati Reds,Pittsburgh Pirates,spread,fanduel,-164,136,,,
-2026-07-30T01:05:16,2026-07-30,MLB,Cincinnati Reds,Pittsburgh Pirates,total,fanduel,,,-114,-106,9.5
-2026-07-30T01:05:16,2026-07-30,MLB,Cincinnati Reds,Pittsburgh Pirates,moneyline,draftkings,-105,-115,,,
-2026-07-30T01:05:16,2026-07-30,MLB,Cincinnati Reds,Pittsburgh Pirates,spread,draftkings,-163,135,,,
-2026-07-30T01:05:16,2026-07-30,MLB,Cincinnati Reds,Pittsburgh Pirates,total,draftkings,,,-103,-117,10.0
-2026-07-30T01:05:16,2026-07-30,MLB,Cincinnati Reds,Pittsburgh Pirates,moneyline,betmgm,-105,-115,,,
-2026-07-30T01:05:16,2026-07-30,MLB,Cincinnati Reds,Pittsburgh Pirates,spread,betmgm,-160,135,,,
-2026-07-30T01:05:16,2026-07-30,MLB,Cincinnati Reds,Pittsburgh Pirates,total,betmgm,,,100,-120,10.0
-2026-07-30T01:05:16,2026-07-30,MLB,New York Mets,Miami Marlins,moneyline,fanduel,-130,110,,,
-2026-07-30T01:05:16,2026-07-30,MLB,New York Mets,Miami Marlins,spread,fanduel,176,-215,,,
-2026-07-30T01:05:16,2026-07-30,MLB,New York Mets,Miami Marlins,total,fanduel,,,-114,-106,7.0
-2026-07-30T01:05:16,2026-07-30,MLB,New York Mets,Miami Marlins,moneyline,betmgm,-135,110,,,
-2026-07-30T01:05:16,2026-07-30,MLB,New York Mets,Miami Marlins,spread,betmgm,165,-200,,,
-2026-07-30T01:05:16,2026-07-30,MLB,New York Mets,Miami Marlins,total,betmgm,,,-115,-105,7.0
-2026-07-30T01:05:16,2026-07-30,MLB,New York Mets,Miami Marlins,moneyline,draftkings,-131,109,,,
-2026-07-30T01:05:16,2026-07-30,MLB,New York Mets,Miami Marlins,spread,draftkings,169,-207,,,
-2026-07-30T01:05:16,2026-07-30,MLB,New York Mets,Miami Marlins,total,draftkings,,,-112,-108,7.0
-2026-07-30T01:05:16,2026-07-30,MLB,Atlanta Braves,Washington Nationals,moneyline,fanduel,-142,120,,,
-2026-07-30T01:05:16,2026-07-30,MLB,Atlanta Braves,Washington Nationals,spread,fanduel,136,-164,,,
-2026-07-30T01:05:16,2026-07-30,MLB,Atlanta Braves,Washington Nationals,total,fanduel,,,-105,-115,9.5
-2026-07-30T01:05:16,2026-07-30,MLB,Atlanta Braves,Washington Nationals,moneyline,draftkings,-149,123,,,
-2026-07-30T01:05:16,2026-07-30,MLB,Atlanta Braves,Washington Nationals,spread,draftkings,139,-168,,,
-2026-07-30T01:05:16,2026-07-30,MLB,Atlanta Braves,Washington Nationals,total,draftkings,,,-102,-118,9.5
-2026-07-30T01:05:16,2026-07-30,MLB,Atlanta Braves,Washington Nationals,moneyline,betmgm,-150,125,,,
-2026-07-30T01:05:16,2026-07-30,MLB,Atlanta Braves,Washington Nationals,spread,betmgm,135,-165,,,
-2026-07-30T01:05:16,2026-07-30,MLB,Atlanta Braves,Washington Nationals,total,betmgm,,,-102,-118,9.5
-2026-07-30T01:05:16,2026-07-31,MLB,Athletics,Boston Red Sox,moneyline,fanduel,134,-158,,,
-2026-07-30T01:05:16,2026-07-31,MLB,Athletics,Boston Red Sox,spread,fanduel,-118,-102,,,
-2026-07-30T01:05:16,2026-07-31,MLB,Athletics,Boston Red Sox,total,fanduel,,,-110,-110,10.5
-2026-07-30T01:05:16,2026-07-31,MLB,Athletics,Boston Red Sox,moneyline,draftkings,135,-163,,,
-2026-07-30T01:05:16,2026-07-31,MLB,Athletics,Boston Red Sox,spread,draftkings,-122,102,,,
-2026-07-30T01:05:16,2026-07-31,MLB,Athletics,Boston Red Sox,total,draftkings,,,-105,-115,10.5
-2026-07-30T01:05:16,2026-07-31,MLB,San Diego Padres,San Francisco Giants,moneyline,fanduel,-124,106,,,
-2026-07-30T01:05:16,2026-07-31,MLB,San Diego Padres,San Francisco Giants,spread,fanduel,160,-194,,,
-2026-07-30T01:05:16,2026-07-31,MLB,San Diego Padres,San Francisco Giants,total,fanduel,,,-108,-112,8.5
-2026-07-30T01:05:16,2026-07-31,MLB,San Diego Padres,San Francisco Giants,moneyline,draftkings,-131,109,,,
-2026-07-30T01:05:16,2026-07-31,MLB,San Diego Padres,San Francisco Giants,spread,draftkings,158,-193,,,
-2026-07-30T01:05:16,2026-07-31,MLB,San Diego Padres,San Francisco Giants,total,draftkings,,,-110,-110,8.5
-2026-07-30T01:05:16,2026-07-31,MLB,Los Angeles Dodgers,Seattle Mariners,moneyline,fanduel,-154,130,,,
-2026-07-30T01:05:16,2026-07-31,MLB,Los Angeles Dodgers,Seattle Mariners,spread,fanduel,138,-166,,,
-2026-07-30T01:05:16,2026-07-31,MLB,Los Angeles Dodgers,Seattle Mariners,total,fanduel,,,-122,100,8.5
-2026-07-30T01:05:16,2026-07-31,MLB,Los Angeles Dodgers,Seattle Mariners,moneyline,betmgm,-155,125,,,
-2026-07-30T01:05:16,2026-07-31,MLB,Los Angeles Dodgers,Seattle Mariners,spread,betmgm,135,-165,,,
-2026-07-30T01:05:16,2026-07-31,MLB,Los Angeles Dodgers,Seattle Mariners,total,betmgm,,,-115,-105,8.5
-2026-07-30T01:05:16,2026-07-31,MLB,Los Angeles Dodgers,Seattle Mariners,moneyline,draftkings,-156,129,,,
-2026-07-30T01:05:16,2026-07-31,MLB,Los Angeles Dodgers,Seattle Mariners,spread,draftkings,135,-163,,,
-2026-07-30T01:05:16,2026-07-31,MLB,Los Angeles Dodgers,Seattle Mariners,total,draftkings,,,-113,-106,8.5
+2026-07-30T18:04:58,2026-07-30,MLB,Tampa Bay Rays,Texas Rangers,moneyline,fanduel,-178,138,,,
+2026-07-30T18:04:58,2026-07-30,MLB,Tampa Bay Rays,Texas Rangers,spread,fanduel,265,-390,,,
+2026-07-30T18:04:58,2026-07-30,MLB,Tampa Bay Rays,Texas Rangers,total,fanduel,,,-146,110,6.5
+2026-07-30T18:04:58,2026-07-30,MLB,Tampa Bay Rays,Texas Rangers,moneyline,betmgm,-190,150,,,
+2026-07-30T18:04:58,2026-07-30,MLB,Tampa Bay Rays,Texas Rangers,spread,betmgm,240,-325,,,
+2026-07-30T18:04:58,2026-07-30,MLB,Tampa Bay Rays,Texas Rangers,total,betmgm,,,-150,115,6.5
+2026-07-30T18:04:58,2026-07-30,MLB,Tampa Bay Rays,Texas Rangers,moneyline,draftkings,-193,146,,,
+2026-07-30T18:04:58,2026-07-30,MLB,Tampa Bay Rays,Texas Rangers,spread,draftkings,238,-332,,,
+2026-07-30T18:04:58,2026-07-30,MLB,Tampa Bay Rays,Texas Rangers,total,draftkings,,,-149,114,6.5
+2026-07-30T18:04:58,2026-07-30,MLB,Minnesota Twins,Kansas City Royals,moneyline,fanduel,-172,134,,,
+2026-07-30T18:04:58,2026-07-30,MLB,Minnesota Twins,Kansas City Royals,spread,fanduel,124,-166,,,
+2026-07-30T18:04:58,2026-07-30,MLB,Minnesota Twins,Kansas City Royals,total,fanduel,,,-104,-128,7.5
+2026-07-30T18:04:58,2026-07-30,MLB,Minnesota Twins,Kansas City Royals,moneyline,draftkings,-154,118,,,
+2026-07-30T18:04:58,2026-07-30,MLB,Minnesota Twins,Kansas City Royals,spread,draftkings,147,-195,,,
+2026-07-30T18:04:58,2026-07-30,MLB,Minnesota Twins,Kansas City Royals,total,draftkings,,,-104,-125,7.5
+2026-07-30T18:04:58,2026-07-30,MLB,Chicago White Sox,New York Yankees,moneyline,fanduel,-116,-102,,,
+2026-07-30T18:04:58,2026-07-30,MLB,Chicago White Sox,New York Yankees,spread,fanduel,-205,168,,,
+2026-07-30T18:04:58,2026-07-30,MLB,Chicago White Sox,New York Yankees,total,fanduel,,,-102,-120,7.5
+2026-07-30T18:04:58,2026-07-30,MLB,Chicago White Sox,New York Yankees,moneyline,betmgm,-115,-105,,,
+2026-07-30T18:04:58,2026-07-30,MLB,Chicago White Sox,New York Yankees,spread,betmgm,-200,165,,,
+2026-07-30T18:04:58,2026-07-30,MLB,Chicago White Sox,New York Yankees,total,betmgm,,,100,-120,7.5
+2026-07-30T18:04:58,2026-07-30,MLB,Chicago White Sox,New York Yankees,moneyline,draftkings,-110,-110,,,
+2026-07-30T18:04:58,2026-07-30,MLB,Chicago White Sox,New York Yankees,spread,draftkings,-199,163,,,
+2026-07-30T18:04:58,2026-07-30,MLB,Chicago White Sox,New York Yankees,total,draftkings,,,-101,-120,7.5
+2026-07-30T18:04:58,2026-07-30,MLB,St. Louis Cardinals,Chicago Cubs,moneyline,fanduel,-116,-102,,,
+2026-07-30T18:04:58,2026-07-30,MLB,St. Louis Cardinals,Chicago Cubs,spread,fanduel,-194,160,,,
+2026-07-30T18:04:58,2026-07-30,MLB,St. Louis Cardinals,Chicago Cubs,total,fanduel,,,-102,-120,8.5
+2026-07-30T18:04:58,2026-07-30,MLB,St. Louis Cardinals,Chicago Cubs,moneyline,betmgm,-115,-105,,,
+2026-07-30T18:04:58,2026-07-30,MLB,St. Louis Cardinals,Chicago Cubs,spread,betmgm,-190,155,,,
+2026-07-30T18:04:58,2026-07-30,MLB,St. Louis Cardinals,Chicago Cubs,total,betmgm,,,-118,-102,8.0
+2026-07-30T18:04:58,2026-07-30,MLB,St. Louis Cardinals,Chicago Cubs,moneyline,draftkings,-114,-106,,,
+2026-07-30T18:04:58,2026-07-30,MLB,St. Louis Cardinals,Chicago Cubs,spread,draftkings,-197,161,,,
+2026-07-30T18:04:58,2026-07-30,MLB,St. Louis Cardinals,Chicago Cubs,total,draftkings,,,-105,-115,8.5
+2026-07-30T18:04:58,2026-07-30,MLB,Cincinnati Reds,Pittsburgh Pirates,moneyline,fanduel,-104,-112,,,
+2026-07-30T18:04:58,2026-07-30,MLB,Cincinnati Reds,Pittsburgh Pirates,spread,fanduel,-164,136,,,
+2026-07-30T18:04:58,2026-07-30,MLB,Cincinnati Reds,Pittsburgh Pirates,total,fanduel,,,-114,-106,9.5
+2026-07-30T18:04:58,2026-07-30,MLB,Cincinnati Reds,Pittsburgh Pirates,moneyline,draftkings,-103,-117,,,
+2026-07-30T18:04:58,2026-07-30,MLB,Cincinnati Reds,Pittsburgh Pirates,spread,draftkings,-157,130,,,
+2026-07-30T18:04:58,2026-07-30,MLB,Cincinnati Reds,Pittsburgh Pirates,total,draftkings,,,-112,-108,9.5
+2026-07-30T18:04:58,2026-07-30,MLB,Cincinnati Reds,Pittsburgh Pirates,moneyline,betmgm,-105,-115,,,
+2026-07-30T18:04:58,2026-07-30,MLB,Cincinnati Reds,Pittsburgh Pirates,spread,betmgm,-160,135,,,
+2026-07-30T18:04:58,2026-07-30,MLB,Cincinnati Reds,Pittsburgh Pirates,total,betmgm,,,-110,-110,9.5
+2026-07-30T18:04:58,2026-07-30,MLB,New York Mets,Miami Marlins,moneyline,fanduel,-130,110,,,
+2026-07-30T18:04:58,2026-07-30,MLB,New York Mets,Miami Marlins,spread,fanduel,172,-210,,,
+2026-07-30T18:04:58,2026-07-30,MLB,New York Mets,Miami Marlins,total,fanduel,,,-115,-105,7.0
+2026-07-30T18:04:58,2026-07-30,MLB,New York Mets,Miami Marlins,moneyline,betmgm,-130,110,,,
+2026-07-30T18:04:58,2026-07-30,MLB,New York Mets,Miami Marlins,spread,betmgm,170,-210,,,
+2026-07-30T18:04:58,2026-07-30,MLB,New York Mets,Miami Marlins,total,betmgm,,,-110,-110,7.0
+2026-07-30T18:04:58,2026-07-30,MLB,New York Mets,Miami Marlins,moneyline,draftkings,-131,109,,,
+2026-07-30T18:04:58,2026-07-30,MLB,New York Mets,Miami Marlins,spread,draftkings,168,-205,,,
+2026-07-30T18:04:58,2026-07-30,MLB,New York Mets,Miami Marlins,total,draftkings,,,-114,-105,7.0
+2026-07-30T18:04:58,2026-07-30,MLB,Atlanta Braves,Washington Nationals,moneyline,fanduel,-154,130,,,
+2026-07-30T18:04:58,2026-07-30,MLB,Atlanta Braves,Washington Nationals,spread,fanduel,126,-152,,,
+2026-07-30T18:04:58,2026-07-30,MLB,Atlanta Braves,Washington Nationals,total,fanduel,,,-122,100,9.5
+2026-07-30T18:04:58,2026-07-30,MLB,Atlanta Braves,Washington Nationals,moneyline,draftkings,-156,129,,,
+2026-07-30T18:04:58,2026-07-30,MLB,Atlanta Braves,Washington Nationals,spread,draftkings,129,-156,,,
+2026-07-30T18:04:58,2026-07-30,MLB,Atlanta Braves,Washington Nationals,total,draftkings,,,-118,-102,9.5
+2026-07-30T18:04:58,2026-07-30,MLB,Atlanta Braves,Washington Nationals,moneyline,betmgm,-155,130,,,
+2026-07-30T18:04:58,2026-07-30,MLB,Atlanta Braves,Washington Nationals,spread,betmgm,125,-150,,,
+2026-07-30T18:04:58,2026-07-30,MLB,Atlanta Braves,Washington Nationals,total,betmgm,,,-120,100,9.5
+2026-07-30T18:04:58,2026-07-31,MLB,Athletics,Boston Red Sox,moneyline,fanduel,158,-188,,,
+2026-07-30T18:04:58,2026-07-31,MLB,Athletics,Boston Red Sox,spread,fanduel,-102,-118,,,
+2026-07-30T18:04:58,2026-07-31,MLB,Athletics,Boston Red Sox,total,fanduel,,,-114,-106,10.0
+2026-07-30T18:04:58,2026-07-31,MLB,Athletics,Boston Red Sox,moneyline,draftkings,157,-191,,,
+2026-07-30T18:04:58,2026-07-31,MLB,Athletics,Boston Red Sox,spread,draftkings,-102,-118,,,
+2026-07-30T18:04:58,2026-07-31,MLB,Athletics,Boston Red Sox,total,draftkings,,,-113,-107,10.0
+2026-07-30T18:04:58,2026-07-31,MLB,San Diego Padres,San Francisco Giants,moneyline,fanduel,-154,130,,,
+2026-07-30T18:04:58,2026-07-31,MLB,San Diego Padres,San Francisco Giants,spread,fanduel,136,-164,,,
+2026-07-30T18:04:58,2026-07-31,MLB,San Diego Padres,San Francisco Giants,total,fanduel,,,100,-122,8.5
+2026-07-30T18:04:58,2026-07-31,MLB,San Diego Padres,San Francisco Giants,moneyline,draftkings,-161,133,,,
+2026-07-30T18:04:58,2026-07-31,MLB,San Diego Padres,San Francisco Giants,spread,draftkings,135,-163,,,
+2026-07-30T18:04:58,2026-07-31,MLB,San Diego Padres,San Francisco Giants,total,draftkings,,,-102,-118,8.5
+2026-07-30T18:04:58,2026-07-31,MLB,Los Angeles Dodgers,Seattle Mariners,moneyline,fanduel,-156,132,,,
+2026-07-30T18:04:58,2026-07-31,MLB,Los Angeles Dodgers,Seattle Mariners,spread,fanduel,128,-154,,,
+2026-07-30T18:04:58,2026-07-31,MLB,Los Angeles Dodgers,Seattle Mariners,total,fanduel,,,-124,102,8.5
+2026-07-30T18:04:58,2026-07-31,MLB,Los Angeles Dodgers,Seattle Mariners,moneyline,betmgm,-160,135,,,
+2026-07-30T18:04:58,2026-07-31,MLB,Los Angeles Dodgers,Seattle Mariners,spread,betmgm,125,-150,,,
+2026-07-30T18:04:58,2026-07-31,MLB,Los Angeles Dodgers,Seattle Mariners,total,betmgm,,,-120,100,8.5
+2026-07-30T18:04:58,2026-07-31,MLB,Los Angeles Dodgers,Seattle Mariners,moneyline,draftkings,-162,134,,,
+2026-07-30T18:04:58,2026-07-31,MLB,Los Angeles Dodgers,Seattle Mariners,spread,draftkings,130,-157,,,
+2026-07-30T18:04:58,2026-07-31,MLB,Los Angeles Dodgers,Seattle Mariners,total,draftkings,,,-102,-118,9.0
+2026-07-30T18:04:58,2026-07-30,MLB,Minnesota Twins,Kansas City Royals,moneyline,betmgm,-175,140,,,
+2026-07-30T18:04:58,2026-07-30,MLB,Minnesota Twins,Kansas City Royals,spread,betmgm,140,-180,,,
+2026-07-30T18:04:58,2026-07-30,MLB,Minnesota Twins,Kansas City Royals,total,betmgm,,,105,-135,7.5
+2026-07-30T18:04:58,2026-07-31,MLB,Athletics,Boston Red Sox,moneyline,betmgm,155,-190,,,
+2026-07-30T18:04:58,2026-07-31,MLB,Athletics,Boston Red Sox,spread,betmgm,100,-120,,,
+2026-07-30T18:04:58,2026-07-31,MLB,Athletics,Boston Red Sox,total,betmgm,,,-115,-105,10.0
+2026-07-30T18:04:58,2026-07-31,MLB,San Diego Padres,San Francisco Giants,moneyline,betmgm,-160,135,,,
+2026-07-30T18:04:58,2026-07-31,MLB,San Diego Padres,San Francisco Giants,spread,betmgm,135,-160,,,
+2026-07-30T18:04:58,2026-07-31,MLB,San Diego Padres,San Francisco Giants,total,betmgm,,,-102,-118,8.5
