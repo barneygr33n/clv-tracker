@@ -2905,545 +2905,545 @@ captured_at,date,sport,home_team,away_team,market,book,home_odds,away_odds,over_
 2026-08-03T01:18:13,2026-08-02,MLB,Los Angeles Dodgers,Boston Red Sox,total,betmgm,,,-118,-110,11.5
 2026-08-02T17:45:56,2026-08-02,MLB,Los Angeles Angels,Milwaukee Brewers,spread,draftkings,113,-137,,,
 2026-08-02T17:45:56,2026-08-02,MLB,Athletics,Detroit Tigers,spread,draftkings,-150,124,,,
-2026-08-15T17:04:54,2026-08-29,NCAAF,TCU Horned Frogs,North Carolina Tar Heels,moneyline,fanduel,-330,260,,,
-2026-08-15T17:04:54,2026-08-29,NCAAF,TCU Horned Frogs,North Carolina Tar Heels,spread,fanduel,-110,-110,,,
-2026-08-15T17:04:54,2026-08-29,NCAAF,TCU Horned Frogs,North Carolina Tar Heels,total,fanduel,,,-115,-105,47.5
-2026-08-15T17:04:54,2026-08-29,NCAAF,TCU Horned Frogs,North Carolina Tar Heels,moneyline,draftkings,-325,260,,,
-2026-08-15T17:04:54,2026-08-29,NCAAF,TCU Horned Frogs,North Carolina Tar Heels,spread,draftkings,-118,-102,,,
-2026-08-15T17:04:54,2026-08-29,NCAAF,TCU Horned Frogs,North Carolina Tar Heels,total,draftkings,,,-110,-110,47.5
-2026-08-15T17:04:54,2026-08-29,NCAAF,TCU Horned Frogs,North Carolina Tar Heels,spread,betmgm,-115,-105,,,
-2026-08-15T17:04:54,2026-08-29,NCAAF,TCU Horned Frogs,North Carolina Tar Heels,total,betmgm,,,-110,-110,47.5
-2026-08-15T17:04:54,2026-08-29,NCAAF,USC Trojans,San Jose State Spartans,spread,draftkings,-105,-115,,,
-2026-08-15T17:04:54,2026-08-29,NCAAF,USC Trojans,San Jose State Spartans,total,draftkings,,,-110,-110,60.5
-2026-08-15T17:04:54,2026-08-29,NCAAF,USC Trojans,San Jose State Spartans,spread,fanduel,-105,-115,,,
-2026-08-15T17:04:54,2026-08-29,NCAAF,USC Trojans,San Jose State Spartans,total,fanduel,,,-110,-110,60.5
-2026-08-15T17:04:54,2026-08-29,NCAAF,USC Trojans,San Jose State Spartans,spread,betmgm,-110,-110,,,
-2026-08-15T17:04:54,2026-08-29,NCAAF,USC Trojans,San Jose State Spartans,total,betmgm,,,-110,-110,60.5
-2026-08-15T17:04:54,2026-08-29,NCAAF,Virginia Cavaliers,NC State Wolfpack,moneyline,fanduel,-210,172,,,
-2026-08-15T17:04:54,2026-08-29,NCAAF,Virginia Cavaliers,NC State Wolfpack,spread,fanduel,-114,-106,,,
-2026-08-15T17:04:54,2026-08-29,NCAAF,Virginia Cavaliers,NC State Wolfpack,total,fanduel,,,-110,-110,53.5
-2026-08-15T17:04:54,2026-08-29,NCAAF,Virginia Cavaliers,NC State Wolfpack,moneyline,draftkings,-218,180,,,
-2026-08-15T17:04:54,2026-08-29,NCAAF,Virginia Cavaliers,NC State Wolfpack,spread,draftkings,-110,-110,,,
-2026-08-15T17:04:54,2026-08-29,NCAAF,Virginia Cavaliers,NC State Wolfpack,total,draftkings,,,-108,-112,53.5
-2026-08-15T17:04:54,2026-08-29,NCAAF,Virginia Cavaliers,NC State Wolfpack,spread,betmgm,-110,-110,,,
-2026-08-15T17:04:54,2026-08-29,NCAAF,Virginia Cavaliers,NC State Wolfpack,total,betmgm,,,-110,-110,53.5
-2026-08-15T17:04:54,2026-08-29,NCAAF,North Dakota State Bison,Jacksonville State Gamecocks,moneyline,draftkings,-270,220,,,
-2026-08-15T17:04:54,2026-08-29,NCAAF,North Dakota State Bison,Jacksonville State Gamecocks,spread,draftkings,-108,-112,,,
-2026-08-15T17:04:54,2026-08-29,NCAAF,North Dakota State Bison,Jacksonville State Gamecocks,total,draftkings,,,-110,-110,47.5
-2026-08-15T17:04:54,2026-08-29,NCAAF,North Dakota State Bison,Jacksonville State Gamecocks,moneyline,fanduel,-255,205,,,
-2026-08-15T17:04:54,2026-08-29,NCAAF,North Dakota State Bison,Jacksonville State Gamecocks,spread,fanduel,-120,-102,,,
-2026-08-15T17:04:54,2026-08-29,NCAAF,North Dakota State Bison,Jacksonville State Gamecocks,total,fanduel,,,-110,-110,47.5
-2026-08-15T17:04:54,2026-08-29,NCAAF,North Dakota State Bison,Jacksonville State Gamecocks,spread,betmgm,-110,-110,,,
-2026-08-15T17:04:54,2026-08-29,NCAAF,North Dakota State Bison,Jacksonville State Gamecocks,total,betmgm,,,-110,-110,47.5
-2026-08-15T17:04:54,2026-08-29,NCAAF,Eastern Michigan Eagles,Sacramento State Hornets,moneyline,draftkings,-310,250,,,
-2026-08-15T17:04:54,2026-08-29,NCAAF,Eastern Michigan Eagles,Sacramento State Hornets,spread,draftkings,-108,-112,,,
-2026-08-15T17:04:54,2026-08-29,NCAAF,Eastern Michigan Eagles,Sacramento State Hornets,total,draftkings,,,-110,-110,52.5
-2026-08-15T17:04:54,2026-08-29,NCAAF,Eastern Michigan Eagles,Sacramento State Hornets,moneyline,fanduel,-330,260,,,
-2026-08-15T17:04:54,2026-08-29,NCAAF,Eastern Michigan Eagles,Sacramento State Hornets,spread,fanduel,-105,-115,,,
-2026-08-15T17:04:54,2026-08-29,NCAAF,Eastern Michigan Eagles,Sacramento State Hornets,total,fanduel,,,-114,-106,52.5
-2026-08-15T17:04:54,2026-08-29,NCAAF,Eastern Michigan Eagles,Sacramento State Hornets,spread,betmgm,-110,-110,,,
-2026-08-15T17:04:54,2026-08-29,NCAAF,Eastern Michigan Eagles,Sacramento State Hornets,total,betmgm,,,-110,-110,52.5
-2026-08-15T17:04:54,2026-08-29,NCAAF,Florida State Seminoles,New Mexico State Aggies,moneyline,draftkings,-8000,2200,,,
-2026-08-15T17:04:54,2026-08-29,NCAAF,Florida State Seminoles,New Mexico State Aggies,spread,draftkings,-108,-112,,,
-2026-08-15T17:04:54,2026-08-29,NCAAF,Florida State Seminoles,New Mexico State Aggies,total,draftkings,,,-110,-110,53.5
-2026-08-15T17:04:54,2026-08-29,NCAAF,Florida State Seminoles,New Mexico State Aggies,moneyline,fanduel,-10000,3000,,,
-2026-08-15T17:04:54,2026-08-29,NCAAF,Florida State Seminoles,New Mexico State Aggies,spread,fanduel,-114,-106,,,
-2026-08-15T17:04:54,2026-08-29,NCAAF,Florida State Seminoles,New Mexico State Aggies,total,fanduel,,,-115,-105,52.5
-2026-08-15T17:04:54,2026-08-29,NCAAF,Florida State Seminoles,New Mexico State Aggies,spread,betmgm,-110,-110,,,
-2026-08-15T17:04:54,2026-08-29,NCAAF,Florida State Seminoles,New Mexico State Aggies,total,betmgm,,,-115,-105,52.5
-2026-08-15T17:04:54,2026-08-29,NCAAF,Stanford Cardinal,Hawaii Rainbow Warriors,moneyline,draftkings,-218,180,,,
-2026-08-15T17:04:54,2026-08-29,NCAAF,Stanford Cardinal,Hawaii Rainbow Warriors,spread,draftkings,-110,-110,,,
-2026-08-15T17:04:54,2026-08-29,NCAAF,Stanford Cardinal,Hawaii Rainbow Warriors,total,draftkings,,,-105,-115,49.5
-2026-08-15T17:04:54,2026-08-29,NCAAF,Stanford Cardinal,Hawaii Rainbow Warriors,moneyline,fanduel,-220,180,,,
-2026-08-15T17:04:54,2026-08-29,NCAAF,Stanford Cardinal,Hawaii Rainbow Warriors,spread,fanduel,-115,-105,,,
-2026-08-15T17:04:54,2026-08-29,NCAAF,Stanford Cardinal,Hawaii Rainbow Warriors,total,fanduel,,,-105,-115,49.5
-2026-08-15T17:04:54,2026-08-29,NCAAF,Stanford Cardinal,Hawaii Rainbow Warriors,spread,betmgm,-110,-110,,,
-2026-08-15T17:04:54,2026-08-29,NCAAF,Stanford Cardinal,Hawaii Rainbow Warriors,total,betmgm,,,-110,-110,48.5
-2026-08-15T17:04:54,2026-08-30,NCAAF,UNLV Rebels,Memphis Tigers,moneyline,draftkings,-225,185,,,
-2026-08-15T17:04:54,2026-08-30,NCAAF,UNLV Rebels,Memphis Tigers,spread,draftkings,-110,-110,,,
-2026-08-15T17:04:54,2026-08-30,NCAAF,UNLV Rebels,Memphis Tigers,total,draftkings,,,-108,-112,57.5
-2026-08-15T17:04:54,2026-08-30,NCAAF,UNLV Rebels,Memphis Tigers,moneyline,fanduel,-240,195,,,
-2026-08-15T17:04:54,2026-08-30,NCAAF,UNLV Rebels,Memphis Tigers,spread,fanduel,-124,102,,,
-2026-08-15T17:04:54,2026-08-30,NCAAF,UNLV Rebels,Memphis Tigers,total,fanduel,,,-110,-110,57.5
-2026-08-15T17:04:54,2026-08-30,NCAAF,UNLV Rebels,Memphis Tigers,spread,betmgm,-110,-110,,,
-2026-08-15T17:04:54,2026-08-30,NCAAF,UNLV Rebels,Memphis Tigers,total,betmgm,,,-110,-110,57.5
-2026-08-15T17:04:54,2026-09-03,NCAAF,Rutgers Scarlet Knights,UMass Minutemen,moneyline,draftkings,-10000,3000,,,
-2026-08-15T17:04:54,2026-09-03,NCAAF,Rutgers Scarlet Knights,UMass Minutemen,spread,draftkings,-112,-108,,,
-2026-08-15T17:04:54,2026-09-03,NCAAF,Rutgers Scarlet Knights,UMass Minutemen,total,draftkings,,,-110,-110,54.5
-2026-08-15T17:04:54,2026-09-03,NCAAF,Rutgers Scarlet Knights,UMass Minutemen,spread,betmgm,-110,-110,,,
-2026-08-15T17:04:54,2026-09-03,NCAAF,Rutgers Scarlet Knights,UMass Minutemen,total,betmgm,,,-105,-115,54.5
-2026-08-15T17:04:54,2026-09-03,NCAAF,Wake Forest Demon Deacons,Akron Zips,moneyline,draftkings,-3600,1500,,,
-2026-08-15T17:04:54,2026-09-03,NCAAF,Wake Forest Demon Deacons,Akron Zips,spread,draftkings,-110,-110,,,
-2026-08-15T17:04:54,2026-09-03,NCAAF,Wake Forest Demon Deacons,Akron Zips,total,draftkings,,,-108,-112,49.5
-2026-08-15T17:04:54,2026-09-03,NCAAF,Wake Forest Demon Deacons,Akron Zips,moneyline,fanduel,-3500,1280,,,
-2026-08-15T17:04:54,2026-09-03,NCAAF,Wake Forest Demon Deacons,Akron Zips,spread,fanduel,-120,-102,,,
-2026-08-15T17:04:54,2026-09-03,NCAAF,Wake Forest Demon Deacons,Akron Zips,total,fanduel,,,-114,-106,49.5
-2026-08-15T17:04:54,2026-09-03,NCAAF,Wake Forest Demon Deacons,Akron Zips,spread,betmgm,-110,-110,,,
-2026-08-15T17:04:54,2026-09-03,NCAAF,Wake Forest Demon Deacons,Akron Zips,total,betmgm,,,-115,-105,49.5
-2026-08-15T17:04:54,2026-09-03,NCAAF,Buffalo Bulls,Albany,moneyline,fanduel,-7000,2000,,,
-2026-08-15T17:04:54,2026-09-03,NCAAF,Buffalo Bulls,Albany,spread,fanduel,-115,-105,,,
-2026-08-15T17:04:54,2026-09-03,NCAAF,Buffalo Bulls,Albany,total,fanduel,,,-110,-110,48.5
-2026-08-15T17:04:54,2026-09-03,NCAAF,UCF Knights,Bethune-Cookman Wildcats,spread,fanduel,-115,-105,,,
-2026-08-15T17:04:54,2026-09-03,NCAAF,UCF Knights,Bethune-Cookman Wildcats,total,fanduel,,,-108,-112,57.5
-2026-08-15T17:04:54,2026-09-03,NCAAF,Delaware Blue Hens,Merrimack Warriors,moneyline,fanduel,-10000,2400,,,
-2026-08-15T17:04:54,2026-09-03,NCAAF,Delaware Blue Hens,Merrimack Warriors,spread,fanduel,-115,-105,,,
-2026-08-15T17:04:54,2026-09-03,NCAAF,Delaware Blue Hens,Merrimack Warriors,total,fanduel,,,-110,-110,56.5
-2026-08-15T17:04:54,2026-09-03,NCAAF,Kennesaw State Owls,West Georgia Wolves,moneyline,fanduel,-3500,1280,,,
-2026-08-15T17:04:54,2026-09-03,NCAAF,Kennesaw State Owls,West Georgia Wolves,spread,fanduel,-115,-105,,,
-2026-08-15T17:04:54,2026-09-03,NCAAF,Kennesaw State Owls,West Georgia Wolves,total,fanduel,,,-110,-110,53.5
-2026-08-15T17:04:54,2026-09-04,NCAAF,Missouri Tigers,Arkansas Pine Bluff Golden Lions,spread,fanduel,-110,-110,,,
-2026-08-15T17:04:54,2026-09-04,NCAAF,Missouri Tigers,Arkansas Pine Bluff Golden Lions,total,fanduel,,,-112,-108,60.5
-2026-08-15T17:04:54,2026-09-04,NCAAF,Georgia Tech Yellow Jackets,Colorado Buffaloes,moneyline,draftkings,-270,220,,,
-2026-08-15T17:04:54,2026-09-04,NCAAF,Georgia Tech Yellow Jackets,Colorado Buffaloes,spread,draftkings,-108,-112,,,
-2026-08-15T17:04:54,2026-09-04,NCAAF,Georgia Tech Yellow Jackets,Colorado Buffaloes,total,draftkings,,,-112,-108,50.5
-2026-08-15T17:04:54,2026-09-04,NCAAF,Georgia Tech Yellow Jackets,Colorado Buffaloes,moneyline,fanduel,-260,210,,,
-2026-08-15T17:04:54,2026-09-04,NCAAF,Georgia Tech Yellow Jackets,Colorado Buffaloes,spread,fanduel,-118,-104,,,
-2026-08-15T17:04:54,2026-09-04,NCAAF,Georgia Tech Yellow Jackets,Colorado Buffaloes,total,fanduel,,,-115,-105,50.5
-2026-08-15T17:04:54,2026-09-04,NCAAF,Georgia Tech Yellow Jackets,Colorado Buffaloes,spread,betmgm,-110,-110,,,
-2026-08-15T17:04:54,2026-09-04,NCAAF,Georgia Tech Yellow Jackets,Colorado Buffaloes,total,betmgm,,,-110,-110,50.5
-2026-08-15T17:04:54,2026-09-04,NCAAF,Minnesota Golden Gophers,Eastern Illinois Panthers,spread,fanduel,-110,-110,,,
-2026-08-15T17:04:54,2026-09-04,NCAAF,Minnesota Golden Gophers,Eastern Illinois Panthers,total,fanduel,,,-108,-112,51.5
-2026-08-15T17:04:54,2026-09-04,NCAAF,Utah Utes,Idaho Vandals,moneyline,fanduel,-30000,4000,,,
-2026-08-15T17:04:54,2026-09-04,NCAAF,Utah Utes,Idaho Vandals,spread,fanduel,-110,-110,,,
-2026-08-15T17:04:54,2026-09-04,NCAAF,Utah Utes,Idaho Vandals,total,fanduel,,,-110,-110,57.5
-2026-08-15T17:04:54,2026-09-04,NCAAF,Illinois Fighting Illini,UAB Blazers,moneyline,draftkings,-6500,2000,,,
-2026-08-15T17:04:54,2026-09-04,NCAAF,Illinois Fighting Illini,UAB Blazers,spread,draftkings,-110,-110,,,
-2026-08-15T17:04:54,2026-09-04,NCAAF,Illinois Fighting Illini,UAB Blazers,total,draftkings,,,-110,-110,56.5
-2026-08-15T17:04:54,2026-09-04,NCAAF,Illinois Fighting Illini,UAB Blazers,moneyline,fanduel,-7000,2000,,,
-2026-08-15T17:04:54,2026-09-04,NCAAF,Illinois Fighting Illini,UAB Blazers,spread,fanduel,-114,-106,,,
-2026-08-15T17:04:54,2026-09-04,NCAAF,Illinois Fighting Illini,UAB Blazers,total,fanduel,,,-110,-110,56.5
-2026-08-15T17:04:54,2026-09-04,NCAAF,Illinois Fighting Illini,UAB Blazers,spread,betmgm,-110,-110,,,
-2026-08-15T17:04:54,2026-09-04,NCAAF,Illinois Fighting Illini,UAB Blazers,total,betmgm,,,-110,-110,56.5
-2026-08-15T17:04:54,2026-09-04,NCAAF,Eastern Michigan Eagles,San Jose State Spartans,moneyline,draftkings,-205,170,,,
-2026-08-15T17:04:54,2026-09-04,NCAAF,Eastern Michigan Eagles,San Jose State Spartans,spread,draftkings,-112,-108,,,
-2026-08-15T17:04:54,2026-09-04,NCAAF,Eastern Michigan Eagles,San Jose State Spartans,total,draftkings,,,-108,-112,53.5
-2026-08-15T17:04:54,2026-09-04,NCAAF,Eastern Michigan Eagles,San Jose State Spartans,moneyline,fanduel,-192,158,,,
-2026-08-15T17:04:54,2026-09-04,NCAAF,Eastern Michigan Eagles,San Jose State Spartans,spread,fanduel,-110,-110,,,
-2026-08-15T17:04:54,2026-09-04,NCAAF,Eastern Michigan Eagles,San Jose State Spartans,total,fanduel,,,-110,-110,53.5
-2026-08-15T17:04:54,2026-09-04,NCAAF,Eastern Michigan Eagles,San Jose State Spartans,spread,betmgm,-110,-110,,,
-2026-08-15T17:04:54,2026-09-04,NCAAF,Eastern Michigan Eagles,San Jose State Spartans,total,betmgm,,,-110,-110,53.5
-2026-08-15T17:04:54,2026-09-04,NCAAF,Georgia State Panthers,North Carolina A&T Aggies,moneyline,fanduel,-4500,1600,,,
-2026-08-15T17:04:54,2026-09-04,NCAAF,Georgia State Panthers,North Carolina A&T Aggies,spread,fanduel,-120,-102,,,
-2026-08-15T17:04:54,2026-09-04,NCAAF,Georgia State Panthers,North Carolina A&T Aggies,total,fanduel,,,-110,-110,66.5
-2026-08-15T17:04:54,2026-09-04,NCAAF,Purdue Boilermakers,Indiana State Sycamores,spread,fanduel,-115,-105,,,
-2026-08-15T17:04:54,2026-09-04,NCAAF,Purdue Boilermakers,Indiana State Sycamores,total,fanduel,,,-110,-110,57.5
-2026-08-15T17:04:54,2026-09-05,NCAAF,Kansas Jayhawks,LIU Sharks,spread,fanduel,-105,-115,,,
-2026-08-15T17:04:54,2026-09-05,NCAAF,Kansas Jayhawks,LIU Sharks,total,fanduel,,,-110,-110,52.5
-2026-08-15T17:04:54,2026-09-05,NCAAF,Michigan State Spartans,Toledo Rockets,moneyline,draftkings,-410,320,,,
-2026-08-15T17:04:54,2026-09-05,NCAAF,Michigan State Spartans,Toledo Rockets,spread,draftkings,-105,-115,,,
-2026-08-15T17:04:54,2026-09-05,NCAAF,Michigan State Spartans,Toledo Rockets,total,draftkings,,,-108,-112,49.5
-2026-08-15T17:04:54,2026-09-05,NCAAF,Michigan State Spartans,Toledo Rockets,moneyline,fanduel,-430,330,,,
-2026-08-15T17:04:54,2026-09-05,NCAAF,Michigan State Spartans,Toledo Rockets,spread,fanduel,-110,-110,,,
-2026-08-15T17:04:54,2026-09-05,NCAAF,Michigan State Spartans,Toledo Rockets,total,fanduel,,,-105,-115,49.5
-2026-08-15T17:04:54,2026-09-05,NCAAF,Michigan State Spartans,Toledo Rockets,spread,betmgm,-110,-110,,,
-2026-08-15T17:04:54,2026-09-05,NCAAF,Michigan State Spartans,Toledo Rockets,total,betmgm,,,-110,-110,49.5
-2026-08-15T17:04:54,2026-09-05,NCAAF,Oklahoma Sooners,UTEP Miners,spread,draftkings,-115,-105,,,
-2026-08-15T17:04:54,2026-09-05,NCAAF,Oklahoma Sooners,UTEP Miners,total,draftkings,,,-112,-108,50.5
-2026-08-15T17:04:54,2026-09-05,NCAAF,Oklahoma Sooners,UTEP Miners,spread,fanduel,-110,-110,,,
-2026-08-15T17:04:54,2026-09-05,NCAAF,Oklahoma Sooners,UTEP Miners,total,fanduel,,,-114,-106,49.5
-2026-08-15T17:04:54,2026-09-05,NCAAF,Oklahoma Sooners,UTEP Miners,spread,betmgm,-115,-105,,,
-2026-08-15T17:04:54,2026-09-05,NCAAF,Oklahoma Sooners,UTEP Miners,total,betmgm,,,-110,-110,50.5
-2026-08-15T17:04:54,2026-09-05,NCAAF,USC Trojans,Fresno State Bulldogs,moneyline,draftkings,-3200,1400,,,
-2026-08-15T17:04:54,2026-09-05,NCAAF,USC Trojans,Fresno State Bulldogs,spread,draftkings,-115,-105,,,
-2026-08-15T17:04:54,2026-09-05,NCAAF,USC Trojans,Fresno State Bulldogs,total,draftkings,,,-108,-112,51.5
-2026-08-15T17:04:54,2026-09-05,NCAAF,USC Trojans,Fresno State Bulldogs,moneyline,fanduel,-3500,1280,,,
-2026-08-15T17:04:54,2026-09-05,NCAAF,USC Trojans,Fresno State Bulldogs,spread,fanduel,-110,-110,,,
-2026-08-15T17:04:54,2026-09-05,NCAAF,USC Trojans,Fresno State Bulldogs,total,fanduel,,,-110,-110,51.5
-2026-08-15T17:04:54,2026-09-05,NCAAF,USC Trojans,Fresno State Bulldogs,spread,betmgm,-110,-110,,,
-2026-08-15T17:04:54,2026-09-05,NCAAF,USC Trojans,Fresno State Bulldogs,total,betmgm,,,-110,-110,51.5
-2026-08-15T17:04:54,2026-09-05,NCAAF,Stanford Cardinal,Miami Hurricanes,moneyline,draftkings,1300,-2800,,,
-2026-08-15T17:04:54,2026-09-05,NCAAF,Stanford Cardinal,Miami Hurricanes,spread,draftkings,-108,-112,,,
-2026-08-15T17:04:54,2026-09-05,NCAAF,Stanford Cardinal,Miami Hurricanes,total,draftkings,,,-112,-108,49.5
-2026-08-15T17:04:54,2026-09-05,NCAAF,Stanford Cardinal,Miami Hurricanes,moneyline,fanduel,1280,-3500,,,
-2026-08-15T17:04:54,2026-09-05,NCAAF,Stanford Cardinal,Miami Hurricanes,spread,fanduel,-105,-115,,,
-2026-08-15T17:04:54,2026-09-05,NCAAF,Stanford Cardinal,Miami Hurricanes,total,fanduel,,,-112,-108,48.5
+2026-08-16T00:00:06,2026-08-29,NCAAF,TCU Horned Frogs,North Carolina Tar Heels,moneyline,fanduel,-330,260,,,
+2026-08-16T00:00:06,2026-08-29,NCAAF,TCU Horned Frogs,North Carolina Tar Heels,spread,fanduel,-110,-110,,,
+2026-08-16T00:00:06,2026-08-29,NCAAF,TCU Horned Frogs,North Carolina Tar Heels,total,fanduel,,,-115,-105,47.5
+2026-08-16T00:00:06,2026-08-29,NCAAF,TCU Horned Frogs,North Carolina Tar Heels,moneyline,draftkings,-325,260,,,
+2026-08-16T00:00:06,2026-08-29,NCAAF,TCU Horned Frogs,North Carolina Tar Heels,spread,draftkings,-118,-102,,,
+2026-08-16T00:00:06,2026-08-29,NCAAF,TCU Horned Frogs,North Carolina Tar Heels,total,draftkings,,,-110,-110,47.5
+2026-08-16T00:00:06,2026-08-29,NCAAF,TCU Horned Frogs,North Carolina Tar Heels,spread,betmgm,-115,-105,,,
+2026-08-16T00:00:06,2026-08-29,NCAAF,TCU Horned Frogs,North Carolina Tar Heels,total,betmgm,,,-110,-110,47.5
+2026-08-16T00:00:06,2026-08-29,NCAAF,USC Trojans,San Jose State Spartans,spread,draftkings,-105,-115,,,
+2026-08-16T00:00:06,2026-08-29,NCAAF,USC Trojans,San Jose State Spartans,total,draftkings,,,-110,-110,60.5
+2026-08-16T00:00:06,2026-08-29,NCAAF,USC Trojans,San Jose State Spartans,spread,fanduel,-105,-115,,,
+2026-08-16T00:00:06,2026-08-29,NCAAF,USC Trojans,San Jose State Spartans,total,fanduel,,,-110,-110,60.5
+2026-08-16T00:00:06,2026-08-29,NCAAF,USC Trojans,San Jose State Spartans,spread,betmgm,-110,-110,,,
+2026-08-16T00:00:06,2026-08-29,NCAAF,USC Trojans,San Jose State Spartans,total,betmgm,,,-110,-110,60.5
+2026-08-16T00:00:06,2026-08-29,NCAAF,Virginia Cavaliers,NC State Wolfpack,moneyline,fanduel,-210,172,,,
+2026-08-16T00:00:06,2026-08-29,NCAAF,Virginia Cavaliers,NC State Wolfpack,spread,fanduel,-114,-106,,,
+2026-08-16T00:00:06,2026-08-29,NCAAF,Virginia Cavaliers,NC State Wolfpack,total,fanduel,,,-110,-110,53.5
+2026-08-16T00:00:06,2026-08-29,NCAAF,Virginia Cavaliers,NC State Wolfpack,moneyline,draftkings,-218,180,,,
+2026-08-16T00:00:06,2026-08-29,NCAAF,Virginia Cavaliers,NC State Wolfpack,spread,draftkings,-110,-110,,,
+2026-08-16T00:00:06,2026-08-29,NCAAF,Virginia Cavaliers,NC State Wolfpack,total,draftkings,,,-108,-112,53.5
+2026-08-16T00:00:06,2026-08-29,NCAAF,Virginia Cavaliers,NC State Wolfpack,spread,betmgm,-110,-110,,,
+2026-08-16T00:00:06,2026-08-29,NCAAF,Virginia Cavaliers,NC State Wolfpack,total,betmgm,,,-110,-110,53.5
+2026-08-16T00:00:06,2026-08-29,NCAAF,North Dakota State Bison,Jacksonville State Gamecocks,moneyline,draftkings,-270,220,,,
+2026-08-16T00:00:06,2026-08-29,NCAAF,North Dakota State Bison,Jacksonville State Gamecocks,spread,draftkings,-108,-112,,,
+2026-08-16T00:00:06,2026-08-29,NCAAF,North Dakota State Bison,Jacksonville State Gamecocks,total,draftkings,,,-110,-110,47.5
+2026-08-16T00:00:06,2026-08-29,NCAAF,North Dakota State Bison,Jacksonville State Gamecocks,moneyline,fanduel,-255,205,,,
+2026-08-16T00:00:06,2026-08-29,NCAAF,North Dakota State Bison,Jacksonville State Gamecocks,spread,fanduel,-120,-102,,,
+2026-08-16T00:00:06,2026-08-29,NCAAF,North Dakota State Bison,Jacksonville State Gamecocks,total,fanduel,,,-110,-110,47.5
+2026-08-16T00:00:06,2026-08-29,NCAAF,North Dakota State Bison,Jacksonville State Gamecocks,spread,betmgm,-110,-110,,,
+2026-08-16T00:00:06,2026-08-29,NCAAF,North Dakota State Bison,Jacksonville State Gamecocks,total,betmgm,,,-110,-110,47.5
+2026-08-16T00:00:06,2026-08-29,NCAAF,Eastern Michigan Eagles,Sacramento State Hornets,moneyline,draftkings,-310,250,,,
+2026-08-16T00:00:06,2026-08-29,NCAAF,Eastern Michigan Eagles,Sacramento State Hornets,spread,draftkings,-108,-112,,,
+2026-08-16T00:00:06,2026-08-29,NCAAF,Eastern Michigan Eagles,Sacramento State Hornets,total,draftkings,,,-110,-110,52.5
+2026-08-16T00:00:06,2026-08-29,NCAAF,Eastern Michigan Eagles,Sacramento State Hornets,moneyline,fanduel,-330,260,,,
+2026-08-16T00:00:06,2026-08-29,NCAAF,Eastern Michigan Eagles,Sacramento State Hornets,spread,fanduel,-105,-115,,,
+2026-08-16T00:00:06,2026-08-29,NCAAF,Eastern Michigan Eagles,Sacramento State Hornets,total,fanduel,,,-114,-106,52.5
+2026-08-16T00:00:06,2026-08-29,NCAAF,Eastern Michigan Eagles,Sacramento State Hornets,spread,betmgm,-110,-110,,,
+2026-08-16T00:00:06,2026-08-29,NCAAF,Eastern Michigan Eagles,Sacramento State Hornets,total,betmgm,,,-110,-110,52.5
+2026-08-16T00:00:06,2026-08-29,NCAAF,Florida State Seminoles,New Mexico State Aggies,moneyline,draftkings,-8000,2200,,,
+2026-08-16T00:00:06,2026-08-29,NCAAF,Florida State Seminoles,New Mexico State Aggies,spread,draftkings,-108,-112,,,
+2026-08-16T00:00:06,2026-08-29,NCAAF,Florida State Seminoles,New Mexico State Aggies,total,draftkings,,,-112,-108,52.5
+2026-08-16T00:00:06,2026-08-29,NCAAF,Florida State Seminoles,New Mexico State Aggies,moneyline,fanduel,-10000,3000,,,
+2026-08-16T00:00:06,2026-08-29,NCAAF,Florida State Seminoles,New Mexico State Aggies,spread,fanduel,-114,-106,,,
+2026-08-16T00:00:06,2026-08-29,NCAAF,Florida State Seminoles,New Mexico State Aggies,total,fanduel,,,-115,-105,52.5
+2026-08-16T00:00:06,2026-08-29,NCAAF,Florida State Seminoles,New Mexico State Aggies,spread,betmgm,-110,-110,,,
+2026-08-16T00:00:06,2026-08-29,NCAAF,Florida State Seminoles,New Mexico State Aggies,total,betmgm,,,-115,-105,52.5
+2026-08-16T00:00:06,2026-08-29,NCAAF,Stanford Cardinal,Hawaii Rainbow Warriors,moneyline,draftkings,-218,180,,,
+2026-08-16T00:00:06,2026-08-29,NCAAF,Stanford Cardinal,Hawaii Rainbow Warriors,spread,draftkings,-110,-110,,,
+2026-08-16T00:00:06,2026-08-29,NCAAF,Stanford Cardinal,Hawaii Rainbow Warriors,total,draftkings,,,-105,-115,49.5
+2026-08-16T00:00:06,2026-08-29,NCAAF,Stanford Cardinal,Hawaii Rainbow Warriors,moneyline,fanduel,-220,180,,,
+2026-08-16T00:00:06,2026-08-29,NCAAF,Stanford Cardinal,Hawaii Rainbow Warriors,spread,fanduel,-115,-105,,,
+2026-08-16T00:00:06,2026-08-29,NCAAF,Stanford Cardinal,Hawaii Rainbow Warriors,total,fanduel,,,-105,-115,49.5
+2026-08-16T00:00:06,2026-08-29,NCAAF,Stanford Cardinal,Hawaii Rainbow Warriors,spread,betmgm,-110,-110,,,
+2026-08-16T00:00:06,2026-08-29,NCAAF,Stanford Cardinal,Hawaii Rainbow Warriors,total,betmgm,,,-110,-110,48.5
+2026-08-16T00:00:06,2026-08-30,NCAAF,UNLV Rebels,Memphis Tigers,moneyline,draftkings,-225,185,,,
+2026-08-16T00:00:06,2026-08-30,NCAAF,UNLV Rebels,Memphis Tigers,spread,draftkings,-110,-110,,,
+2026-08-16T00:00:06,2026-08-30,NCAAF,UNLV Rebels,Memphis Tigers,total,draftkings,,,-108,-112,57.5
+2026-08-16T00:00:06,2026-08-30,NCAAF,UNLV Rebels,Memphis Tigers,moneyline,fanduel,-240,195,,,
+2026-08-16T00:00:06,2026-08-30,NCAAF,UNLV Rebels,Memphis Tigers,spread,fanduel,-124,102,,,
+2026-08-16T00:00:06,2026-08-30,NCAAF,UNLV Rebels,Memphis Tigers,total,fanduel,,,-110,-110,57.5
+2026-08-16T00:00:06,2026-08-30,NCAAF,UNLV Rebels,Memphis Tigers,spread,betmgm,-110,-110,,,
+2026-08-16T00:00:06,2026-08-30,NCAAF,UNLV Rebels,Memphis Tigers,total,betmgm,,,-110,-110,57.5
+2026-08-16T00:00:06,2026-09-03,NCAAF,Rutgers Scarlet Knights,UMass Minutemen,moneyline,draftkings,-10000,3000,,,
+2026-08-16T00:00:06,2026-09-03,NCAAF,Rutgers Scarlet Knights,UMass Minutemen,spread,draftkings,-112,-108,,,
+2026-08-16T00:00:06,2026-09-03,NCAAF,Rutgers Scarlet Knights,UMass Minutemen,total,draftkings,,,-110,-110,54.5
+2026-08-16T00:00:06,2026-09-03,NCAAF,Rutgers Scarlet Knights,UMass Minutemen,spread,betmgm,-110,-110,,,
+2026-08-16T00:00:06,2026-09-03,NCAAF,Rutgers Scarlet Knights,UMass Minutemen,total,betmgm,,,-105,-115,54.5
+2026-08-16T00:00:06,2026-09-03,NCAAF,Wake Forest Demon Deacons,Akron Zips,moneyline,draftkings,-3600,1500,,,
+2026-08-16T00:00:06,2026-09-03,NCAAF,Wake Forest Demon Deacons,Akron Zips,spread,draftkings,-110,-110,,,
+2026-08-16T00:00:06,2026-09-03,NCAAF,Wake Forest Demon Deacons,Akron Zips,total,draftkings,,,-108,-112,49.5
+2026-08-16T00:00:06,2026-09-03,NCAAF,Wake Forest Demon Deacons,Akron Zips,moneyline,fanduel,-3500,1280,,,
+2026-08-16T00:00:06,2026-09-03,NCAAF,Wake Forest Demon Deacons,Akron Zips,spread,fanduel,-120,-102,,,
+2026-08-16T00:00:06,2026-09-03,NCAAF,Wake Forest Demon Deacons,Akron Zips,total,fanduel,,,-114,-106,49.5
+2026-08-16T00:00:06,2026-09-03,NCAAF,Wake Forest Demon Deacons,Akron Zips,spread,betmgm,-110,-110,,,
+2026-08-16T00:00:06,2026-09-03,NCAAF,Wake Forest Demon Deacons,Akron Zips,total,betmgm,,,-115,-105,49.5
+2026-08-16T00:00:06,2026-09-03,NCAAF,Buffalo Bulls,Albany,moneyline,fanduel,-7000,2000,,,
+2026-08-16T00:00:06,2026-09-03,NCAAF,Buffalo Bulls,Albany,spread,fanduel,-115,-105,,,
+2026-08-16T00:00:06,2026-09-03,NCAAF,Buffalo Bulls,Albany,total,fanduel,,,-110,-110,48.5
+2026-08-16T00:00:06,2026-09-03,NCAAF,UCF Knights,Bethune-Cookman Wildcats,spread,fanduel,-115,-105,,,
+2026-08-16T00:00:06,2026-09-03,NCAAF,UCF Knights,Bethune-Cookman Wildcats,total,fanduel,,,-108,-112,57.5
+2026-08-16T00:00:06,2026-09-03,NCAAF,Delaware Blue Hens,Merrimack Warriors,moneyline,fanduel,-10000,2400,,,
+2026-08-16T00:00:06,2026-09-03,NCAAF,Delaware Blue Hens,Merrimack Warriors,spread,fanduel,-115,-105,,,
+2026-08-16T00:00:06,2026-09-03,NCAAF,Delaware Blue Hens,Merrimack Warriors,total,fanduel,,,-110,-110,56.5
+2026-08-16T00:00:06,2026-09-03,NCAAF,Kennesaw State Owls,West Georgia Wolves,moneyline,fanduel,-3500,1280,,,
+2026-08-16T00:00:06,2026-09-03,NCAAF,Kennesaw State Owls,West Georgia Wolves,spread,fanduel,-115,-105,,,
+2026-08-16T00:00:06,2026-09-03,NCAAF,Kennesaw State Owls,West Georgia Wolves,total,fanduel,,,-110,-110,53.5
+2026-08-16T00:00:06,2026-09-04,NCAAF,Missouri Tigers,Arkansas Pine Bluff Golden Lions,spread,fanduel,-110,-110,,,
+2026-08-16T00:00:06,2026-09-04,NCAAF,Missouri Tigers,Arkansas Pine Bluff Golden Lions,total,fanduel,,,-112,-108,60.5
+2026-08-16T00:00:06,2026-09-04,NCAAF,Georgia Tech Yellow Jackets,Colorado Buffaloes,moneyline,draftkings,-270,220,,,
+2026-08-16T00:00:06,2026-09-04,NCAAF,Georgia Tech Yellow Jackets,Colorado Buffaloes,spread,draftkings,-108,-112,,,
+2026-08-16T00:00:06,2026-09-04,NCAAF,Georgia Tech Yellow Jackets,Colorado Buffaloes,total,draftkings,,,-112,-108,50.5
+2026-08-16T00:00:06,2026-09-04,NCAAF,Georgia Tech Yellow Jackets,Colorado Buffaloes,moneyline,fanduel,-260,210,,,
+2026-08-16T00:00:06,2026-09-04,NCAAF,Georgia Tech Yellow Jackets,Colorado Buffaloes,spread,fanduel,-118,-104,,,
+2026-08-16T00:00:06,2026-09-04,NCAAF,Georgia Tech Yellow Jackets,Colorado Buffaloes,total,fanduel,,,-115,-105,50.5
+2026-08-16T00:00:06,2026-09-04,NCAAF,Georgia Tech Yellow Jackets,Colorado Buffaloes,spread,betmgm,-110,-110,,,
+2026-08-16T00:00:06,2026-09-04,NCAAF,Georgia Tech Yellow Jackets,Colorado Buffaloes,total,betmgm,,,-110,-110,50.5
+2026-08-16T00:00:06,2026-09-04,NCAAF,Minnesota Golden Gophers,Eastern Illinois Panthers,spread,fanduel,-110,-110,,,
+2026-08-16T00:00:06,2026-09-04,NCAAF,Minnesota Golden Gophers,Eastern Illinois Panthers,total,fanduel,,,-108,-112,51.5
+2026-08-16T00:00:06,2026-09-04,NCAAF,Utah Utes,Idaho Vandals,moneyline,fanduel,-30000,4000,,,
+2026-08-16T00:00:06,2026-09-04,NCAAF,Utah Utes,Idaho Vandals,spread,fanduel,-110,-110,,,
+2026-08-16T00:00:06,2026-09-04,NCAAF,Utah Utes,Idaho Vandals,total,fanduel,,,-110,-110,57.5
+2026-08-16T00:00:06,2026-09-04,NCAAF,Illinois Fighting Illini,UAB Blazers,moneyline,draftkings,-6500,2000,,,
+2026-08-16T00:00:06,2026-09-04,NCAAF,Illinois Fighting Illini,UAB Blazers,spread,draftkings,-110,-110,,,
+2026-08-16T00:00:06,2026-09-04,NCAAF,Illinois Fighting Illini,UAB Blazers,total,draftkings,,,-110,-110,56.5
+2026-08-16T00:00:06,2026-09-04,NCAAF,Illinois Fighting Illini,UAB Blazers,moneyline,fanduel,-7000,2000,,,
+2026-08-16T00:00:06,2026-09-04,NCAAF,Illinois Fighting Illini,UAB Blazers,spread,fanduel,-114,-106,,,
+2026-08-16T00:00:06,2026-09-04,NCAAF,Illinois Fighting Illini,UAB Blazers,total,fanduel,,,-110,-110,56.5
+2026-08-16T00:00:06,2026-09-04,NCAAF,Illinois Fighting Illini,UAB Blazers,spread,betmgm,-110,-110,,,
+2026-08-16T00:00:06,2026-09-04,NCAAF,Illinois Fighting Illini,UAB Blazers,total,betmgm,,,-110,-110,56.5
+2026-08-16T00:00:06,2026-09-04,NCAAF,Eastern Michigan Eagles,San Jose State Spartans,moneyline,draftkings,-205,170,,,
+2026-08-16T00:00:06,2026-09-04,NCAAF,Eastern Michigan Eagles,San Jose State Spartans,spread,draftkings,-112,-108,,,
+2026-08-16T00:00:06,2026-09-04,NCAAF,Eastern Michigan Eagles,San Jose State Spartans,total,draftkings,,,-108,-112,53.5
+2026-08-16T00:00:06,2026-09-04,NCAAF,Eastern Michigan Eagles,San Jose State Spartans,moneyline,fanduel,-192,158,,,
+2026-08-16T00:00:06,2026-09-04,NCAAF,Eastern Michigan Eagles,San Jose State Spartans,spread,fanduel,-110,-110,,,
+2026-08-16T00:00:06,2026-09-04,NCAAF,Eastern Michigan Eagles,San Jose State Spartans,total,fanduel,,,-110,-110,53.5
+2026-08-16T00:00:06,2026-09-04,NCAAF,Eastern Michigan Eagles,San Jose State Spartans,spread,betmgm,-110,-110,,,
+2026-08-16T00:00:06,2026-09-04,NCAAF,Eastern Michigan Eagles,San Jose State Spartans,total,betmgm,,,-110,-110,53.5
+2026-08-16T00:00:06,2026-09-04,NCAAF,Georgia State Panthers,North Carolina A&T Aggies,moneyline,fanduel,-4500,1600,,,
+2026-08-16T00:00:06,2026-09-04,NCAAF,Georgia State Panthers,North Carolina A&T Aggies,spread,fanduel,-120,-102,,,
+2026-08-16T00:00:06,2026-09-04,NCAAF,Georgia State Panthers,North Carolina A&T Aggies,total,fanduel,,,-110,-110,66.5
+2026-08-16T00:00:06,2026-09-04,NCAAF,Purdue Boilermakers,Indiana State Sycamores,spread,fanduel,-115,-105,,,
+2026-08-16T00:00:06,2026-09-04,NCAAF,Purdue Boilermakers,Indiana State Sycamores,total,fanduel,,,-110,-110,57.5
+2026-08-16T00:00:06,2026-09-05,NCAAF,Kansas Jayhawks,LIU Sharks,spread,fanduel,-105,-115,,,
+2026-08-16T00:00:06,2026-09-05,NCAAF,Kansas Jayhawks,LIU Sharks,total,fanduel,,,-110,-110,52.5
+2026-08-16T00:00:06,2026-09-05,NCAAF,Michigan State Spartans,Toledo Rockets,moneyline,draftkings,-410,320,,,
+2026-08-16T00:00:06,2026-09-05,NCAAF,Michigan State Spartans,Toledo Rockets,spread,draftkings,-105,-115,,,
+2026-08-16T00:00:06,2026-09-05,NCAAF,Michigan State Spartans,Toledo Rockets,total,draftkings,,,-108,-112,49.5
+2026-08-16T00:00:06,2026-09-05,NCAAF,Michigan State Spartans,Toledo Rockets,moneyline,fanduel,-430,330,,,
+2026-08-16T00:00:06,2026-09-05,NCAAF,Michigan State Spartans,Toledo Rockets,spread,fanduel,-110,-110,,,
+2026-08-16T00:00:06,2026-09-05,NCAAF,Michigan State Spartans,Toledo Rockets,total,fanduel,,,-105,-115,49.5
+2026-08-16T00:00:06,2026-09-05,NCAAF,Michigan State Spartans,Toledo Rockets,spread,betmgm,-110,-110,,,
+2026-08-16T00:00:06,2026-09-05,NCAAF,Michigan State Spartans,Toledo Rockets,total,betmgm,,,-110,-110,49.5
+2026-08-16T00:00:06,2026-09-05,NCAAF,Oklahoma Sooners,UTEP Miners,spread,draftkings,-115,-105,,,
+2026-08-16T00:00:06,2026-09-05,NCAAF,Oklahoma Sooners,UTEP Miners,total,draftkings,,,-112,-108,50.5
+2026-08-16T00:00:06,2026-09-05,NCAAF,Oklahoma Sooners,UTEP Miners,spread,fanduel,-110,-110,,,
+2026-08-16T00:00:06,2026-09-05,NCAAF,Oklahoma Sooners,UTEP Miners,total,fanduel,,,-114,-106,49.5
+2026-08-16T00:00:06,2026-09-05,NCAAF,Oklahoma Sooners,UTEP Miners,spread,betmgm,-115,-105,,,
+2026-08-16T00:00:06,2026-09-05,NCAAF,Oklahoma Sooners,UTEP Miners,total,betmgm,,,-110,-110,50.5
+2026-08-16T00:00:06,2026-09-05,NCAAF,USC Trojans,Fresno State Bulldogs,moneyline,draftkings,-3200,1400,,,
+2026-08-16T00:00:06,2026-09-05,NCAAF,USC Trojans,Fresno State Bulldogs,spread,draftkings,-115,-105,,,
+2026-08-16T00:00:06,2026-09-05,NCAAF,USC Trojans,Fresno State Bulldogs,total,draftkings,,,-108,-112,51.5
+2026-08-16T00:00:06,2026-09-05,NCAAF,USC Trojans,Fresno State Bulldogs,moneyline,fanduel,-3500,1280,,,
+2026-08-16T00:00:06,2026-09-05,NCAAF,USC Trojans,Fresno State Bulldogs,spread,fanduel,-110,-110,,,
+2026-08-16T00:00:06,2026-09-05,NCAAF,USC Trojans,Fresno State Bulldogs,total,fanduel,,,-110,-110,51.5
+2026-08-16T00:00:06,2026-09-05,NCAAF,USC Trojans,Fresno State Bulldogs,spread,betmgm,-110,-110,,,
+2026-08-16T00:00:06,2026-09-05,NCAAF,USC Trojans,Fresno State Bulldogs,total,betmgm,,,-110,-110,51.5
+2026-08-16T00:00:06,2026-09-05,NCAAF,Stanford Cardinal,Miami Hurricanes,moneyline,draftkings,1300,-2800,,,
+2026-08-16T00:00:06,2026-09-05,NCAAF,Stanford Cardinal,Miami Hurricanes,spread,draftkings,-108,-112,,,
+2026-08-16T00:00:06,2026-09-05,NCAAF,Stanford Cardinal,Miami Hurricanes,total,draftkings,,,-112,-108,49.5
+2026-08-16T00:00:06,2026-09-05,NCAAF,Stanford Cardinal,Miami Hurricanes,moneyline,fanduel,1280,-3500,,,
+2026-08-16T00:00:06,2026-09-05,NCAAF,Stanford Cardinal,Miami Hurricanes,spread,fanduel,-105,-115,,,
+2026-08-16T00:00:06,2026-09-05,NCAAF,Stanford Cardinal,Miami Hurricanes,total,fanduel,,,-112,-108,48.5
 2026-08-07T17:35:44,2026-09-05,NCAAF,Stanford Cardinal,Miami Hurricanes,spread,betmgm,-110,-110,,,
-2026-08-15T17:04:54,2026-09-05,NCAAF,Stanford Cardinal,Miami Hurricanes,total,betmgm,,,-110,-110,49.5
-2026-08-15T17:04:54,2026-09-05,NCAAF,Alabama Crimson Tide,East Carolina Pirates,moneyline,draftkings,-9000,2500,,,
-2026-08-15T17:04:54,2026-09-05,NCAAF,Alabama Crimson Tide,East Carolina Pirates,spread,draftkings,-110,-110,,,
-2026-08-15T17:04:54,2026-09-05,NCAAF,Alabama Crimson Tide,East Carolina Pirates,total,draftkings,,,-108,-112,54.5
-2026-08-15T17:04:54,2026-09-05,NCAAF,Alabama Crimson Tide,East Carolina Pirates,moneyline,fanduel,-8000,2200,,,
-2026-08-15T17:04:54,2026-09-05,NCAAF,Alabama Crimson Tide,East Carolina Pirates,spread,fanduel,-110,-110,,,
-2026-08-15T17:04:54,2026-09-05,NCAAF,Alabama Crimson Tide,East Carolina Pirates,total,fanduel,,,-110,-110,54.5
-2026-08-15T17:04:54,2026-09-05,NCAAF,Alabama Crimson Tide,East Carolina Pirates,spread,betmgm,-115,-105,,,
-2026-08-15T17:04:54,2026-09-05,NCAAF,Alabama Crimson Tide,East Carolina Pirates,total,betmgm,,,-110,-110,54.5
-2026-08-15T17:04:54,2026-09-05,NCAAF,Arkansas Razorbacks,North Alabama Lions,spread,fanduel,-110,-110,,,
-2026-08-15T17:04:54,2026-09-05,NCAAF,Arkansas Razorbacks,North Alabama Lions,total,fanduel,,,-115,-105,61.5
-2026-08-15T17:04:54,2026-09-05,NCAAF,Army Black Knights,Bryant Bulldogs,spread,fanduel,-115,-105,,,
-2026-08-15T17:04:54,2026-09-05,NCAAF,Army Black Knights,Bryant Bulldogs,total,fanduel,,,-110,-110,51.5
-2026-08-15T17:04:54,2026-09-05,NCAAF,Bowling Green Falcons,Tarleton State Texans,moneyline,fanduel,-134,114,,,
-2026-08-15T17:04:54,2026-09-05,NCAAF,Bowling Green Falcons,Tarleton State Texans,spread,fanduel,-112,-108,,,
-2026-08-15T17:04:54,2026-09-05,NCAAF,Bowling Green Falcons,Tarleton State Texans,total,fanduel,,,-105,-115,47.5
-2026-08-15T17:04:54,2026-09-05,NCAAF,West Virginia Mountaineers,Coastal Carolina Chanticleers,moneyline,draftkings,-1350,800,,,
-2026-08-15T17:04:54,2026-09-05,NCAAF,West Virginia Mountaineers,Coastal Carolina Chanticleers,spread,draftkings,-112,-108,,,
-2026-08-15T17:04:54,2026-09-05,NCAAF,West Virginia Mountaineers,Coastal Carolina Chanticleers,total,draftkings,,,-105,-115,58.5
-2026-08-15T17:04:54,2026-09-05,NCAAF,West Virginia Mountaineers,Coastal Carolina Chanticleers,moneyline,fanduel,-2300,1060,,,
-2026-08-15T17:04:54,2026-09-05,NCAAF,West Virginia Mountaineers,Coastal Carolina Chanticleers,spread,fanduel,-110,-110,,,
-2026-08-15T17:04:54,2026-09-05,NCAAF,West Virginia Mountaineers,Coastal Carolina Chanticleers,total,fanduel,,,-105,-115,58.5
-2026-08-15T17:04:54,2026-09-05,NCAAF,West Virginia Mountaineers,Coastal Carolina Chanticleers,spread,betmgm,-110,-110,,,
-2026-08-15T17:04:54,2026-09-05,NCAAF,West Virginia Mountaineers,Coastal Carolina Chanticleers,total,betmgm,,,-110,-110,58.5
-2026-08-15T17:04:54,2026-09-05,NCAAF,Houston Cougars,Oregon State Beavers,moneyline,draftkings,-1600,900,,,
-2026-08-15T17:04:54,2026-09-05,NCAAF,Houston Cougars,Oregon State Beavers,spread,draftkings,-108,-112,,,
-2026-08-15T17:04:54,2026-09-05,NCAAF,Houston Cougars,Oregon State Beavers,total,draftkings,,,-118,-102,50.5
-2026-08-15T17:04:54,2026-09-05,NCAAF,Houston Cougars,Oregon State Beavers,moneyline,fanduel,-2300,1060,,,
-2026-08-15T17:04:54,2026-09-05,NCAAF,Houston Cougars,Oregon State Beavers,spread,fanduel,-122,100,,,
-2026-08-15T17:04:54,2026-09-05,NCAAF,Houston Cougars,Oregon State Beavers,total,fanduel,,,-115,-105,50.5
-2026-08-15T17:04:54,2026-09-05,NCAAF,Houston Cougars,Oregon State Beavers,spread,betmgm,-110,-110,,,
-2026-08-15T17:04:54,2026-09-05,NCAAF,Houston Cougars,Oregon State Beavers,total,betmgm,,,-110,-110,50.5
-2026-08-15T17:04:54,2026-09-05,NCAAF,Indiana Hoosiers,North Texas Mean Green,spread,draftkings,-115,-105,,,
-2026-08-15T17:04:54,2026-09-05,NCAAF,Indiana Hoosiers,North Texas Mean Green,total,draftkings,,,-108,-112,55.5
-2026-08-15T17:04:54,2026-09-05,NCAAF,Indiana Hoosiers,North Texas Mean Green,spread,fanduel,-110,-110,,,
-2026-08-15T17:04:54,2026-09-05,NCAAF,Indiana Hoosiers,North Texas Mean Green,total,fanduel,,,-110,-110,55.5
-2026-08-15T17:04:54,2026-09-05,NCAAF,Indiana Hoosiers,North Texas Mean Green,spread,betmgm,-110,-110,,,
-2026-08-15T17:04:54,2026-09-05,NCAAF,Indiana Hoosiers,North Texas Mean Green,total,betmgm,,,-115,-105,55.5
-2026-08-15T17:04:54,2026-09-05,NCAAF,James Madison Dukes,Liberty Flames,moneyline,draftkings,-230,190,,,
-2026-08-15T17:04:54,2026-09-05,NCAAF,James Madison Dukes,Liberty Flames,spread,draftkings,-112,-108,,,
-2026-08-15T17:04:54,2026-09-05,NCAAF,James Madison Dukes,Liberty Flames,total,draftkings,,,-105,-115,52.5
-2026-08-15T17:04:54,2026-09-05,NCAAF,James Madison Dukes,Liberty Flames,moneyline,fanduel,-230,190,,,
-2026-08-15T17:04:54,2026-09-05,NCAAF,James Madison Dukes,Liberty Flames,spread,fanduel,-110,-110,,,
-2026-08-15T17:04:54,2026-09-05,NCAAF,James Madison Dukes,Liberty Flames,total,fanduel,,,-106,-114,52.5
-2026-08-15T17:04:54,2026-09-05,NCAAF,James Madison Dukes,Liberty Flames,spread,betmgm,-110,-110,,,
-2026-08-15T17:04:54,2026-09-05,NCAAF,James Madison Dukes,Liberty Flames,total,betmgm,,,-110,-110,52.5
-2026-08-15T17:04:54,2026-09-05,NCAAF,UConn Huskies,Lafayette Leopards,moneyline,fanduel,-1200,720,,,
-2026-08-15T17:04:54,2026-09-05,NCAAF,UConn Huskies,Lafayette Leopards,spread,fanduel,-115,-105,,,
-2026-08-15T17:04:54,2026-09-05,NCAAF,UConn Huskies,Lafayette Leopards,total,fanduel,,,-105,-115,56.5
-2026-08-15T17:04:54,2026-09-05,NCAAF,Pittsburgh Panthers,Miami (OH) RedHawks,moneyline,draftkings,-900,600,,,
-2026-08-15T17:04:54,2026-09-05,NCAAF,Pittsburgh Panthers,Miami (OH) RedHawks,spread,draftkings,-115,-105,,,
-2026-08-15T17:04:54,2026-09-05,NCAAF,Pittsburgh Panthers,Miami (OH) RedHawks,total,draftkings,,,-108,-112,50.5
-2026-08-15T17:04:54,2026-09-05,NCAAF,Pittsburgh Panthers,Miami (OH) RedHawks,moneyline,fanduel,-1000,640,,,
-2026-08-15T17:04:54,2026-09-05,NCAAF,Pittsburgh Panthers,Miami (OH) RedHawks,spread,fanduel,-120,-102,,,
-2026-08-15T17:04:54,2026-09-05,NCAAF,Pittsburgh Panthers,Miami (OH) RedHawks,total,fanduel,,,-110,-110,50.5
-2026-08-15T17:04:54,2026-09-05,NCAAF,Pittsburgh Panthers,Miami (OH) RedHawks,total,betmgm,,,-110,-110,50.5
-2026-08-15T17:04:54,2026-09-05,NCAAF,Nebraska Cornhuskers,Ohio Bobcats,moneyline,draftkings,-3200,1400,,,
-2026-08-15T17:04:54,2026-09-05,NCAAF,Nebraska Cornhuskers,Ohio Bobcats,spread,draftkings,-118,-102,,,
-2026-08-15T17:04:54,2026-09-05,NCAAF,Nebraska Cornhuskers,Ohio Bobcats,total,draftkings,,,-108,-112,47.5
-2026-08-15T17:04:54,2026-09-05,NCAAF,Nebraska Cornhuskers,Ohio Bobcats,moneyline,fanduel,-4000,1400,,,
-2026-08-15T17:04:54,2026-09-05,NCAAF,Nebraska Cornhuskers,Ohio Bobcats,spread,fanduel,-105,-115,,,
-2026-08-15T17:04:54,2026-09-05,NCAAF,Nebraska Cornhuskers,Ohio Bobcats,total,fanduel,,,-105,-115,48.5
-2026-08-15T17:04:54,2026-09-05,NCAAF,Nebraska Cornhuskers,Ohio Bobcats,spread,betmgm,-105,-115,,,
-2026-08-15T17:04:54,2026-09-05,NCAAF,Nebraska Cornhuskers,Ohio Bobcats,total,betmgm,,,-110,-110,47.5
-2026-08-15T17:04:54,2026-09-05,NCAAF,Syracuse Orange,New Hampshire Wildcats,moneyline,fanduel,-20000,3500,,,
-2026-08-15T17:04:54,2026-09-05,NCAAF,Syracuse Orange,New Hampshire Wildcats,spread,fanduel,-115,-105,,,
-2026-08-15T17:04:54,2026-09-05,NCAAF,Syracuse Orange,New Hampshire Wildcats,total,fanduel,,,-115,-105,57.5
-2026-08-15T17:04:54,2026-09-05,NCAAF,Ohio State Buckeyes,Ball State Cardinals,spread,draftkings,-112,-108,,,
-2026-08-15T17:04:54,2026-09-05,NCAAF,Ohio State Buckeyes,Ball State Cardinals,total,draftkings,,,-108,-112,56.5
-2026-08-15T17:04:54,2026-09-05,NCAAF,Ohio State Buckeyes,Ball State Cardinals,spread,fanduel,-120,-102,,,
-2026-08-15T17:04:54,2026-09-05,NCAAF,Ohio State Buckeyes,Ball State Cardinals,total,fanduel,,,-115,-105,56.5
-2026-08-15T17:04:54,2026-09-05,NCAAF,Ohio State Buckeyes,Ball State Cardinals,spread,betmgm,-110,-110,,,
-2026-08-15T17:04:54,2026-09-05,NCAAF,Ohio State Buckeyes,Ball State Cardinals,total,betmgm,,,-110,-110,56.5
-2026-08-15T17:04:54,2026-09-05,NCAAF,South Carolina Gamecocks,Kent State Golden Flashes,moneyline,draftkings,-100000,5000,,,
-2026-08-15T17:04:54,2026-09-05,NCAAF,South Carolina Gamecocks,Kent State Golden Flashes,spread,draftkings,-112,-108,,,
-2026-08-15T17:04:54,2026-09-05,NCAAF,South Carolina Gamecocks,Kent State Golden Flashes,total,draftkings,,,-108,-112,53.5
-2026-08-15T17:04:54,2026-09-05,NCAAF,South Carolina Gamecocks,Kent State Golden Flashes,spread,fanduel,-115,-105,,,
-2026-08-15T17:04:54,2026-09-05,NCAAF,South Carolina Gamecocks,Kent State Golden Flashes,total,fanduel,,,-115,-105,53.5
-2026-08-15T17:04:54,2026-09-05,NCAAF,South Carolina Gamecocks,Kent State Golden Flashes,spread,betmgm,-110,-110,,,
-2026-08-15T17:04:54,2026-09-05,NCAAF,South Carolina Gamecocks,Kent State Golden Flashes,total,betmgm,,,-105,-115,53.5
-2026-08-15T17:04:54,2026-09-05,NCAAF,Air Force Falcons,Duquesne Dukes,moneyline,fanduel,-8000,2200,,,
-2026-08-15T17:04:54,2026-09-05,NCAAF,Air Force Falcons,Duquesne Dukes,spread,fanduel,-105,-115,,,
-2026-08-15T17:04:54,2026-09-05,NCAAF,Air Force Falcons,Duquesne Dukes,total,fanduel,,,-115,-105,56.5
-2026-08-15T17:04:54,2026-09-05,NCAAF,Iowa State Cyclones,Southeast Missouri State Redhawks,moneyline,fanduel,-10000,2400,,,
-2026-08-15T17:04:54,2026-09-05,NCAAF,Iowa State Cyclones,Southeast Missouri State Redhawks,spread,fanduel,-105,-115,,,
-2026-08-15T17:04:54,2026-09-05,NCAAF,Iowa State Cyclones,Southeast Missouri State Redhawks,total,fanduel,,,-105,-115,52.5
-2026-08-15T17:04:54,2026-09-05,NCAAF,Kentucky Wildcats,Youngstown St Penguins,moneyline,fanduel,-3000,1200,,,
-2026-08-15T17:04:54,2026-09-05,NCAAF,Kentucky Wildcats,Youngstown St Penguins,spread,fanduel,-110,-110,,,
-2026-08-15T17:04:54,2026-09-05,NCAAF,Kentucky Wildcats,Youngstown St Penguins,total,fanduel,,,-110,-110,62.5
-2026-08-15T17:04:54,2026-09-05,NCAAF,Temple Owls,Rhode Island Rams,moneyline,fanduel,-450,340,,,
-2026-08-15T17:04:54,2026-09-05,NCAAF,Temple Owls,Rhode Island Rams,spread,fanduel,-110,-110,,,
-2026-08-15T17:04:54,2026-09-05,NCAAF,Temple Owls,Rhode Island Rams,total,fanduel,,,-110,-110,52.5
-2026-08-15T17:04:54,2026-09-05,NCAAF,Georgia Bulldogs,Tennessee State Tigers,spread,fanduel,-105,-115,,,
-2026-08-15T17:04:54,2026-09-05,NCAAF,Georgia Bulldogs,Tennessee State Tigers,total,fanduel,,,-104,-118,55.5
-2026-08-15T17:04:54,2026-09-05,NCAAF,Appalachian State Mountaineers,Maine Black Bears,moneyline,fanduel,-1300,760,,,
-2026-08-15T17:04:54,2026-09-05,NCAAF,Appalachian State Mountaineers,Maine Black Bears,spread,fanduel,-110,-110,,,
-2026-08-15T17:04:54,2026-09-05,NCAAF,Appalachian State Mountaineers,Maine Black Bears,total,fanduel,,,-110,-110,51.5
-2026-08-15T17:04:54,2026-09-05,NCAAF,Auburn Tigers,Baylor Bears,moneyline,fanduel,-295,235,,,
-2026-08-15T17:04:54,2026-09-05,NCAAF,Auburn Tigers,Baylor Bears,spread,fanduel,-106,-114,,,
-2026-08-15T17:04:54,2026-09-05,NCAAF,Auburn Tigers,Baylor Bears,total,fanduel,,,-110,-110,59.5
-2026-08-15T17:04:54,2026-09-05,NCAAF,Auburn Tigers,Baylor Bears,moneyline,draftkings,-285,230,,,
-2026-08-15T17:04:54,2026-09-05,NCAAF,Auburn Tigers,Baylor Bears,spread,draftkings,-110,-110,,,
-2026-08-15T17:04:54,2026-09-05,NCAAF,Auburn Tigers,Baylor Bears,total,draftkings,,,-112,-108,59.5
-2026-08-15T17:04:54,2026-09-05,NCAAF,Auburn Tigers,Baylor Bears,spread,betmgm,-105,-115,,,
-2026-08-15T17:04:54,2026-09-05,NCAAF,Auburn Tigers,Baylor Bears,total,betmgm,,,-110,-110,59.5
-2026-08-15T17:04:54,2026-09-05,NCAAF,Oregon Ducks,Boise State Broncos,moneyline,draftkings,-3600,1500,,,
-2026-08-15T17:04:54,2026-09-05,NCAAF,Oregon Ducks,Boise State Broncos,spread,draftkings,-105,-115,,,
-2026-08-15T17:04:54,2026-09-05,NCAAF,Oregon Ducks,Boise State Broncos,total,draftkings,,,-105,-115,52.5
-2026-08-15T17:04:54,2026-09-05,NCAAF,Oregon Ducks,Boise State Broncos,moneyline,fanduel,-4000,1400,,,
-2026-08-15T17:04:54,2026-09-05,NCAAF,Oregon Ducks,Boise State Broncos,spread,fanduel,-110,-110,,,
-2026-08-15T17:04:54,2026-09-05,NCAAF,Oregon Ducks,Boise State Broncos,total,fanduel,,,-105,-115,52.5
-2026-08-15T17:04:54,2026-09-05,NCAAF,Oregon Ducks,Boise State Broncos,spread,betmgm,-110,-110,,,
-2026-08-15T17:04:54,2026-09-05,NCAAF,Oregon Ducks,Boise State Broncos,total,betmgm,,,-110,-110,52.5
-2026-08-15T17:04:54,2026-09-05,NCAAF,Cincinnati Bearcats,Boston College Eagles,moneyline,draftkings,-278,225,,,
-2026-08-15T17:04:54,2026-09-05,NCAAF,Cincinnati Bearcats,Boston College Eagles,spread,draftkings,-105,-115,,,
-2026-08-15T17:04:54,2026-09-05,NCAAF,Cincinnati Bearcats,Boston College Eagles,total,draftkings,,,-110,-110,54.5
-2026-08-15T17:04:54,2026-09-05,NCAAF,Cincinnati Bearcats,Boston College Eagles,moneyline,fanduel,-280,225,,,
-2026-08-15T17:04:54,2026-09-05,NCAAF,Cincinnati Bearcats,Boston College Eagles,spread,fanduel,100,-122,,,
-2026-08-15T17:04:54,2026-09-05,NCAAF,Cincinnati Bearcats,Boston College Eagles,total,fanduel,,,-110,-110,53.5
-2026-08-15T17:04:54,2026-09-05,NCAAF,Cincinnati Bearcats,Boston College Eagles,spread,betmgm,-105,-115,,,
-2026-08-15T17:04:54,2026-09-05,NCAAF,Cincinnati Bearcats,Boston College Eagles,total,betmgm,,,-110,-110,54.5
-2026-08-15T17:04:54,2026-09-05,NCAAF,Charlotte 49ers,Citadel Bulldogs,moneyline,fanduel,-950,610,,,
-2026-08-15T17:04:54,2026-09-05,NCAAF,Charlotte 49ers,Citadel Bulldogs,spread,fanduel,-110,-110,,,
-2026-08-15T17:04:54,2026-09-05,NCAAF,Charlotte 49ers,Citadel Bulldogs,total,fanduel,,,-115,-105,45.5
-2026-08-15T17:04:54,2026-09-05,NCAAF,Duke Blue Devils,Tulane Green Wave,moneyline,draftkings,-345,275,,,
-2026-08-15T17:04:54,2026-09-05,NCAAF,Duke Blue Devils,Tulane Green Wave,spread,draftkings,-110,-110,,,
-2026-08-15T17:04:54,2026-09-05,NCAAF,Duke Blue Devils,Tulane Green Wave,total,draftkings,,,-105,-115,52.5
-2026-08-15T17:04:54,2026-09-05,NCAAF,Duke Blue Devils,Tulane Green Wave,moneyline,fanduel,-375,290,,,
-2026-08-15T17:04:54,2026-09-05,NCAAF,Duke Blue Devils,Tulane Green Wave,spread,fanduel,-114,-106,,,
-2026-08-15T17:04:54,2026-09-05,NCAAF,Duke Blue Devils,Tulane Green Wave,total,fanduel,,,-110,-110,52.5
-2026-08-15T17:04:54,2026-09-05,NCAAF,Duke Blue Devils,Tulane Green Wave,spread,betmgm,-110,-110,,,
-2026-08-15T17:04:54,2026-09-05,NCAAF,Duke Blue Devils,Tulane Green Wave,total,betmgm,,,-110,-110,52.5
-2026-08-15T17:04:54,2026-09-05,NCAAF,North Dakota State Bison,Fordham Rams,spread,fanduel,-115,-105,,,
-2026-08-15T17:04:54,2026-09-05,NCAAF,North Dakota State Bison,Fordham Rams,total,fanduel,,,-110,-110,57.5
-2026-08-15T17:04:54,2026-09-05,NCAAF,Tennessee Volunteers,Furman Paladins,spread,fanduel,-115,-105,,,
-2026-08-15T17:04:54,2026-09-05,NCAAF,Tennessee Volunteers,Furman Paladins,total,fanduel,,,-115,-105,66.5
-2026-08-15T17:04:54,2026-09-05,NCAAF,Penn State Nittany Lions,Marshall Thundering Herd,moneyline,draftkings,-3600,1500,,,
-2026-08-15T17:04:54,2026-09-05,NCAAF,Penn State Nittany Lions,Marshall Thundering Herd,spread,draftkings,-115,-105,,,
-2026-08-15T17:04:54,2026-09-05,NCAAF,Penn State Nittany Lions,Marshall Thundering Herd,total,draftkings,,,-108,-112,54.5
-2026-08-15T17:04:54,2026-09-05,NCAAF,Penn State Nittany Lions,Marshall Thundering Herd,moneyline,fanduel,-4500,1600,,,
-2026-08-15T17:04:54,2026-09-05,NCAAF,Penn State Nittany Lions,Marshall Thundering Herd,spread,fanduel,-110,-110,,,
-2026-08-15T17:04:54,2026-09-05,NCAAF,Penn State Nittany Lions,Marshall Thundering Herd,total,fanduel,,,-114,-106,53.5
-2026-08-15T17:04:54,2026-09-05,NCAAF,Penn State Nittany Lions,Marshall Thundering Herd,spread,betmgm,-110,-110,,,
-2026-08-15T17:04:54,2026-09-05,NCAAF,Penn State Nittany Lions,Marshall Thundering Herd,total,betmgm,,,-110,-110,54.5
-2026-08-15T17:04:54,2026-09-05,NCAAF,Navy Midshipmen,Towson Tigers,moneyline,fanduel,-20000,3500,,,
-2026-08-15T17:04:54,2026-09-05,NCAAF,Navy Midshipmen,Towson Tigers,spread,fanduel,-110,-110,,,
-2026-08-15T17:04:54,2026-09-05,NCAAF,Navy Midshipmen,Towson Tigers,total,fanduel,,,-112,-108,53.5
-2026-08-15T17:04:54,2026-09-05,NCAAF,Texas Longhorns,Texas State Bobcats,moneyline,draftkings,-10000,3000,,,
-2026-08-15T17:04:54,2026-09-05,NCAAF,Texas Longhorns,Texas State Bobcats,spread,draftkings,-110,-110,,,
-2026-08-15T17:04:54,2026-09-05,NCAAF,Texas Longhorns,Texas State Bobcats,total,draftkings,,,-108,-112,60.5
-2026-08-15T17:04:54,2026-09-05,NCAAF,Texas Longhorns,Texas State Bobcats,moneyline,fanduel,-8000,2200,,,
-2026-08-15T17:04:54,2026-09-05,NCAAF,Texas Longhorns,Texas State Bobcats,spread,fanduel,-105,-115,,,
-2026-08-15T17:04:54,2026-09-05,NCAAF,Texas Longhorns,Texas State Bobcats,total,fanduel,,,-110,-110,60.5
-2026-08-15T17:04:54,2026-09-05,NCAAF,Texas Longhorns,Texas State Bobcats,spread,betmgm,-110,-110,,,
-2026-08-15T17:04:54,2026-09-05,NCAAF,Texas Longhorns,Texas State Bobcats,total,betmgm,,,-105,-115,60.5
-2026-08-15T17:04:54,2026-09-05,NCAAF,UTSA Roadrunners,UT Rio Grande Valley Vaqueros,moneyline,fanduel,-10000,2200,,,
-2026-08-15T17:04:54,2026-09-05,NCAAF,UTSA Roadrunners,UT Rio Grande Valley Vaqueros,spread,fanduel,-115,-105,,,
-2026-08-15T17:04:54,2026-09-05,NCAAF,UTSA Roadrunners,UT Rio Grande Valley Vaqueros,total,fanduel,,,-115,-105,59.5
-2026-08-15T17:04:54,2026-09-05,NCAAF,Tulsa Golden Hurricane,Oklahoma State Cowboys,moneyline,draftkings,455,-625,,,
-2026-08-15T17:04:54,2026-09-05,NCAAF,Tulsa Golden Hurricane,Oklahoma State Cowboys,spread,draftkings,-115,-105,,,
-2026-08-15T17:04:54,2026-09-05,NCAAF,Tulsa Golden Hurricane,Oklahoma State Cowboys,total,draftkings,,,-108,-112,61.5
-2026-08-15T17:04:54,2026-09-05,NCAAF,Tulsa Golden Hurricane,Oklahoma State Cowboys,moneyline,fanduel,460,-650,,,
-2026-08-15T17:04:54,2026-09-05,NCAAF,Tulsa Golden Hurricane,Oklahoma State Cowboys,spread,fanduel,-118,-104,,,
-2026-08-15T17:04:54,2026-09-05,NCAAF,Tulsa Golden Hurricane,Oklahoma State Cowboys,total,fanduel,,,-115,-105,61.5
-2026-08-15T17:04:54,2026-09-05,NCAAF,Tulsa Golden Hurricane,Oklahoma State Cowboys,spread,betmgm,-105,-115,,,
-2026-08-15T17:04:54,2026-09-05,NCAAF,Tulsa Golden Hurricane,Oklahoma State Cowboys,total,betmgm,,,-110,-110,61.5
-2026-08-15T17:04:54,2026-09-05,NCAAF,Iowa Hawkeyes,Northern Illinois Huskies,moneyline,draftkings,-50000,4000,,,
-2026-08-15T17:04:54,2026-09-05,NCAAF,Iowa Hawkeyes,Northern Illinois Huskies,spread,draftkings,100,-120,,,
-2026-08-15T17:04:54,2026-09-05,NCAAF,Iowa Hawkeyes,Northern Illinois Huskies,total,draftkings,,,-108,-112,45.5
+2026-08-16T00:00:06,2026-09-05,NCAAF,Stanford Cardinal,Miami Hurricanes,total,betmgm,,,-110,-110,49.5
+2026-08-16T00:00:06,2026-09-05,NCAAF,Alabama Crimson Tide,East Carolina Pirates,moneyline,draftkings,-9000,2500,,,
+2026-08-16T00:00:06,2026-09-05,NCAAF,Alabama Crimson Tide,East Carolina Pirates,spread,draftkings,-110,-110,,,
+2026-08-16T00:00:06,2026-09-05,NCAAF,Alabama Crimson Tide,East Carolina Pirates,total,draftkings,,,-108,-112,54.5
+2026-08-16T00:00:06,2026-09-05,NCAAF,Alabama Crimson Tide,East Carolina Pirates,moneyline,fanduel,-8000,2200,,,
+2026-08-16T00:00:06,2026-09-05,NCAAF,Alabama Crimson Tide,East Carolina Pirates,spread,fanduel,-110,-110,,,
+2026-08-16T00:00:06,2026-09-05,NCAAF,Alabama Crimson Tide,East Carolina Pirates,total,fanduel,,,-110,-110,54.5
+2026-08-16T00:00:06,2026-09-05,NCAAF,Alabama Crimson Tide,East Carolina Pirates,spread,betmgm,-115,-105,,,
+2026-08-16T00:00:06,2026-09-05,NCAAF,Alabama Crimson Tide,East Carolina Pirates,total,betmgm,,,-110,-110,54.5
+2026-08-16T00:00:06,2026-09-05,NCAAF,Arkansas Razorbacks,North Alabama Lions,spread,fanduel,-110,-110,,,
+2026-08-16T00:00:06,2026-09-05,NCAAF,Arkansas Razorbacks,North Alabama Lions,total,fanduel,,,-115,-105,61.5
+2026-08-16T00:00:06,2026-09-05,NCAAF,Army Black Knights,Bryant Bulldogs,spread,fanduel,-115,-105,,,
+2026-08-16T00:00:06,2026-09-05,NCAAF,Army Black Knights,Bryant Bulldogs,total,fanduel,,,-110,-110,51.5
+2026-08-16T00:00:06,2026-09-05,NCAAF,Bowling Green Falcons,Tarleton State Texans,moneyline,fanduel,-134,114,,,
+2026-08-16T00:00:06,2026-09-05,NCAAF,Bowling Green Falcons,Tarleton State Texans,spread,fanduel,-112,-108,,,
+2026-08-16T00:00:06,2026-09-05,NCAAF,Bowling Green Falcons,Tarleton State Texans,total,fanduel,,,-105,-115,47.5
+2026-08-16T00:00:06,2026-09-05,NCAAF,West Virginia Mountaineers,Coastal Carolina Chanticleers,moneyline,draftkings,-1350,800,,,
+2026-08-16T00:00:06,2026-09-05,NCAAF,West Virginia Mountaineers,Coastal Carolina Chanticleers,spread,draftkings,-112,-108,,,
+2026-08-16T00:00:06,2026-09-05,NCAAF,West Virginia Mountaineers,Coastal Carolina Chanticleers,total,draftkings,,,-105,-115,58.5
+2026-08-16T00:00:06,2026-09-05,NCAAF,West Virginia Mountaineers,Coastal Carolina Chanticleers,moneyline,fanduel,-2300,1060,,,
+2026-08-16T00:00:06,2026-09-05,NCAAF,West Virginia Mountaineers,Coastal Carolina Chanticleers,spread,fanduel,-110,-110,,,
+2026-08-16T00:00:06,2026-09-05,NCAAF,West Virginia Mountaineers,Coastal Carolina Chanticleers,total,fanduel,,,-105,-115,58.5
+2026-08-16T00:00:06,2026-09-05,NCAAF,West Virginia Mountaineers,Coastal Carolina Chanticleers,spread,betmgm,-110,-110,,,
+2026-08-16T00:00:06,2026-09-05,NCAAF,West Virginia Mountaineers,Coastal Carolina Chanticleers,total,betmgm,,,-110,-110,58.5
+2026-08-16T00:00:06,2026-09-05,NCAAF,Houston Cougars,Oregon State Beavers,moneyline,draftkings,-1600,900,,,
+2026-08-16T00:00:06,2026-09-05,NCAAF,Houston Cougars,Oregon State Beavers,spread,draftkings,-108,-112,,,
+2026-08-16T00:00:06,2026-09-05,NCAAF,Houston Cougars,Oregon State Beavers,total,draftkings,,,-118,-102,50.5
+2026-08-16T00:00:06,2026-09-05,NCAAF,Houston Cougars,Oregon State Beavers,moneyline,fanduel,-2300,1060,,,
+2026-08-16T00:00:06,2026-09-05,NCAAF,Houston Cougars,Oregon State Beavers,spread,fanduel,-122,100,,,
+2026-08-16T00:00:06,2026-09-05,NCAAF,Houston Cougars,Oregon State Beavers,total,fanduel,,,-115,-105,50.5
+2026-08-16T00:00:06,2026-09-05,NCAAF,Houston Cougars,Oregon State Beavers,spread,betmgm,-110,-110,,,
+2026-08-16T00:00:06,2026-09-05,NCAAF,Houston Cougars,Oregon State Beavers,total,betmgm,,,-110,-110,50.5
+2026-08-16T00:00:06,2026-09-05,NCAAF,Indiana Hoosiers,North Texas Mean Green,spread,draftkings,-115,-105,,,
+2026-08-16T00:00:06,2026-09-05,NCAAF,Indiana Hoosiers,North Texas Mean Green,total,draftkings,,,-108,-112,55.5
+2026-08-16T00:00:06,2026-09-05,NCAAF,Indiana Hoosiers,North Texas Mean Green,spread,fanduel,-110,-110,,,
+2026-08-16T00:00:06,2026-09-05,NCAAF,Indiana Hoosiers,North Texas Mean Green,total,fanduel,,,-110,-110,55.5
+2026-08-16T00:00:06,2026-09-05,NCAAF,Indiana Hoosiers,North Texas Mean Green,spread,betmgm,-110,-110,,,
+2026-08-16T00:00:06,2026-09-05,NCAAF,Indiana Hoosiers,North Texas Mean Green,total,betmgm,,,-115,-105,55.5
+2026-08-16T00:00:06,2026-09-05,NCAAF,James Madison Dukes,Liberty Flames,moneyline,draftkings,-245,200,,,
+2026-08-16T00:00:06,2026-09-05,NCAAF,James Madison Dukes,Liberty Flames,spread,draftkings,-110,-110,,,
+2026-08-16T00:00:06,2026-09-05,NCAAF,James Madison Dukes,Liberty Flames,total,draftkings,,,-105,-115,52.5
+2026-08-16T00:00:06,2026-09-05,NCAAF,James Madison Dukes,Liberty Flames,moneyline,fanduel,-230,190,,,
+2026-08-16T00:00:06,2026-09-05,NCAAF,James Madison Dukes,Liberty Flames,spread,fanduel,-110,-110,,,
+2026-08-16T00:00:06,2026-09-05,NCAAF,James Madison Dukes,Liberty Flames,total,fanduel,,,-106,-114,52.5
+2026-08-16T00:00:06,2026-09-05,NCAAF,James Madison Dukes,Liberty Flames,spread,betmgm,-110,-110,,,
+2026-08-16T00:00:06,2026-09-05,NCAAF,James Madison Dukes,Liberty Flames,total,betmgm,,,-110,-110,52.5
+2026-08-16T00:00:06,2026-09-05,NCAAF,UConn Huskies,Lafayette Leopards,moneyline,fanduel,-1200,720,,,
+2026-08-16T00:00:06,2026-09-05,NCAAF,UConn Huskies,Lafayette Leopards,spread,fanduel,-115,-105,,,
+2026-08-16T00:00:06,2026-09-05,NCAAF,UConn Huskies,Lafayette Leopards,total,fanduel,,,-105,-115,56.5
+2026-08-16T00:00:06,2026-09-05,NCAAF,Pittsburgh Panthers,Miami (OH) RedHawks,moneyline,draftkings,-900,600,,,
+2026-08-16T00:00:06,2026-09-05,NCAAF,Pittsburgh Panthers,Miami (OH) RedHawks,spread,draftkings,-115,-105,,,
+2026-08-16T00:00:06,2026-09-05,NCAAF,Pittsburgh Panthers,Miami (OH) RedHawks,total,draftkings,,,-108,-112,50.5
+2026-08-16T00:00:06,2026-09-05,NCAAF,Pittsburgh Panthers,Miami (OH) RedHawks,moneyline,fanduel,-1000,640,,,
+2026-08-16T00:00:06,2026-09-05,NCAAF,Pittsburgh Panthers,Miami (OH) RedHawks,spread,fanduel,-120,-102,,,
+2026-08-16T00:00:06,2026-09-05,NCAAF,Pittsburgh Panthers,Miami (OH) RedHawks,total,fanduel,,,-110,-110,50.5
+2026-08-16T00:00:06,2026-09-05,NCAAF,Pittsburgh Panthers,Miami (OH) RedHawks,total,betmgm,,,-110,-110,50.5
+2026-08-16T00:00:06,2026-09-05,NCAAF,Nebraska Cornhuskers,Ohio Bobcats,moneyline,draftkings,-3200,1400,,,
+2026-08-16T00:00:06,2026-09-05,NCAAF,Nebraska Cornhuskers,Ohio Bobcats,spread,draftkings,-118,-102,,,
+2026-08-16T00:00:06,2026-09-05,NCAAF,Nebraska Cornhuskers,Ohio Bobcats,total,draftkings,,,-108,-112,47.5
+2026-08-16T00:00:06,2026-09-05,NCAAF,Nebraska Cornhuskers,Ohio Bobcats,moneyline,fanduel,-4000,1400,,,
+2026-08-16T00:00:06,2026-09-05,NCAAF,Nebraska Cornhuskers,Ohio Bobcats,spread,fanduel,-105,-115,,,
+2026-08-16T00:00:06,2026-09-05,NCAAF,Nebraska Cornhuskers,Ohio Bobcats,total,fanduel,,,-105,-115,48.5
+2026-08-16T00:00:06,2026-09-05,NCAAF,Nebraska Cornhuskers,Ohio Bobcats,spread,betmgm,-105,-115,,,
+2026-08-16T00:00:06,2026-09-05,NCAAF,Nebraska Cornhuskers,Ohio Bobcats,total,betmgm,,,-110,-110,47.5
+2026-08-16T00:00:06,2026-09-05,NCAAF,Syracuse Orange,New Hampshire Wildcats,moneyline,fanduel,-20000,3500,,,
+2026-08-16T00:00:06,2026-09-05,NCAAF,Syracuse Orange,New Hampshire Wildcats,spread,fanduel,-115,-105,,,
+2026-08-16T00:00:06,2026-09-05,NCAAF,Syracuse Orange,New Hampshire Wildcats,total,fanduel,,,-115,-105,57.5
+2026-08-16T00:00:06,2026-09-05,NCAAF,Ohio State Buckeyes,Ball State Cardinals,spread,draftkings,-112,-108,,,
+2026-08-16T00:00:06,2026-09-05,NCAAF,Ohio State Buckeyes,Ball State Cardinals,total,draftkings,,,-108,-112,56.5
+2026-08-16T00:00:06,2026-09-05,NCAAF,Ohio State Buckeyes,Ball State Cardinals,spread,fanduel,-120,-102,,,
+2026-08-16T00:00:06,2026-09-05,NCAAF,Ohio State Buckeyes,Ball State Cardinals,total,fanduel,,,-115,-105,56.5
+2026-08-16T00:00:06,2026-09-05,NCAAF,Ohio State Buckeyes,Ball State Cardinals,spread,betmgm,-110,-110,,,
+2026-08-16T00:00:06,2026-09-05,NCAAF,Ohio State Buckeyes,Ball State Cardinals,total,betmgm,,,-110,-110,56.5
+2026-08-16T00:00:06,2026-09-05,NCAAF,South Carolina Gamecocks,Kent State Golden Flashes,moneyline,draftkings,-100000,5000,,,
+2026-08-16T00:00:06,2026-09-05,NCAAF,South Carolina Gamecocks,Kent State Golden Flashes,spread,draftkings,-112,-108,,,
+2026-08-16T00:00:06,2026-09-05,NCAAF,South Carolina Gamecocks,Kent State Golden Flashes,total,draftkings,,,-108,-112,53.5
+2026-08-16T00:00:06,2026-09-05,NCAAF,South Carolina Gamecocks,Kent State Golden Flashes,spread,fanduel,-115,-105,,,
+2026-08-16T00:00:06,2026-09-05,NCAAF,South Carolina Gamecocks,Kent State Golden Flashes,total,fanduel,,,-115,-105,53.5
+2026-08-16T00:00:06,2026-09-05,NCAAF,South Carolina Gamecocks,Kent State Golden Flashes,spread,betmgm,-110,-110,,,
+2026-08-16T00:00:06,2026-09-05,NCAAF,South Carolina Gamecocks,Kent State Golden Flashes,total,betmgm,,,-105,-115,53.5
+2026-08-16T00:00:06,2026-09-05,NCAAF,Air Force Falcons,Duquesne Dukes,moneyline,fanduel,-8000,2200,,,
+2026-08-16T00:00:06,2026-09-05,NCAAF,Air Force Falcons,Duquesne Dukes,spread,fanduel,-105,-115,,,
+2026-08-16T00:00:06,2026-09-05,NCAAF,Air Force Falcons,Duquesne Dukes,total,fanduel,,,-115,-105,56.5
+2026-08-16T00:00:06,2026-09-05,NCAAF,Iowa State Cyclones,Southeast Missouri State Redhawks,moneyline,fanduel,-10000,2400,,,
+2026-08-16T00:00:06,2026-09-05,NCAAF,Iowa State Cyclones,Southeast Missouri State Redhawks,spread,fanduel,-105,-115,,,
+2026-08-16T00:00:06,2026-09-05,NCAAF,Iowa State Cyclones,Southeast Missouri State Redhawks,total,fanduel,,,-105,-115,52.5
+2026-08-16T00:00:06,2026-09-05,NCAAF,Kentucky Wildcats,Youngstown St Penguins,moneyline,fanduel,-3000,1200,,,
+2026-08-16T00:00:06,2026-09-05,NCAAF,Kentucky Wildcats,Youngstown St Penguins,spread,fanduel,-110,-110,,,
+2026-08-16T00:00:06,2026-09-05,NCAAF,Kentucky Wildcats,Youngstown St Penguins,total,fanduel,,,-110,-110,62.5
+2026-08-16T00:00:06,2026-09-05,NCAAF,Temple Owls,Rhode Island Rams,moneyline,fanduel,-450,340,,,
+2026-08-16T00:00:06,2026-09-05,NCAAF,Temple Owls,Rhode Island Rams,spread,fanduel,-110,-110,,,
+2026-08-16T00:00:06,2026-09-05,NCAAF,Temple Owls,Rhode Island Rams,total,fanduel,,,-110,-110,52.5
+2026-08-16T00:00:06,2026-09-05,NCAAF,Georgia Bulldogs,Tennessee State Tigers,spread,fanduel,-105,-115,,,
+2026-08-16T00:00:06,2026-09-05,NCAAF,Georgia Bulldogs,Tennessee State Tigers,total,fanduel,,,-104,-118,55.5
+2026-08-16T00:00:06,2026-09-05,NCAAF,Appalachian State Mountaineers,Maine Black Bears,moneyline,fanduel,-1300,760,,,
+2026-08-16T00:00:06,2026-09-05,NCAAF,Appalachian State Mountaineers,Maine Black Bears,spread,fanduel,-110,-110,,,
+2026-08-16T00:00:06,2026-09-05,NCAAF,Appalachian State Mountaineers,Maine Black Bears,total,fanduel,,,-110,-110,51.5
+2026-08-16T00:00:06,2026-09-05,NCAAF,Auburn Tigers,Baylor Bears,moneyline,fanduel,-295,235,,,
+2026-08-16T00:00:06,2026-09-05,NCAAF,Auburn Tigers,Baylor Bears,spread,fanduel,-106,-114,,,
+2026-08-16T00:00:06,2026-09-05,NCAAF,Auburn Tigers,Baylor Bears,total,fanduel,,,-110,-110,59.5
+2026-08-16T00:00:06,2026-09-05,NCAAF,Auburn Tigers,Baylor Bears,moneyline,draftkings,-285,230,,,
+2026-08-16T00:00:06,2026-09-05,NCAAF,Auburn Tigers,Baylor Bears,spread,draftkings,-110,-110,,,
+2026-08-16T00:00:06,2026-09-05,NCAAF,Auburn Tigers,Baylor Bears,total,draftkings,,,-112,-108,59.5
+2026-08-16T00:00:06,2026-09-05,NCAAF,Auburn Tigers,Baylor Bears,spread,betmgm,-105,-115,,,
+2026-08-16T00:00:06,2026-09-05,NCAAF,Auburn Tigers,Baylor Bears,total,betmgm,,,-110,-110,59.5
+2026-08-16T00:00:06,2026-09-05,NCAAF,Oregon Ducks,Boise State Broncos,moneyline,draftkings,-3600,1500,,,
+2026-08-16T00:00:06,2026-09-05,NCAAF,Oregon Ducks,Boise State Broncos,spread,draftkings,-105,-115,,,
+2026-08-16T00:00:06,2026-09-05,NCAAF,Oregon Ducks,Boise State Broncos,total,draftkings,,,-105,-115,52.5
+2026-08-16T00:00:06,2026-09-05,NCAAF,Oregon Ducks,Boise State Broncos,moneyline,fanduel,-4000,1400,,,
+2026-08-16T00:00:06,2026-09-05,NCAAF,Oregon Ducks,Boise State Broncos,spread,fanduel,-110,-110,,,
+2026-08-16T00:00:06,2026-09-05,NCAAF,Oregon Ducks,Boise State Broncos,total,fanduel,,,-105,-115,52.5
+2026-08-16T00:00:06,2026-09-05,NCAAF,Oregon Ducks,Boise State Broncos,spread,betmgm,-110,-110,,,
+2026-08-16T00:00:06,2026-09-05,NCAAF,Oregon Ducks,Boise State Broncos,total,betmgm,,,-110,-110,52.5
+2026-08-16T00:00:06,2026-09-05,NCAAF,Cincinnati Bearcats,Boston College Eagles,moneyline,draftkings,-278,225,,,
+2026-08-16T00:00:06,2026-09-05,NCAAF,Cincinnati Bearcats,Boston College Eagles,spread,draftkings,-105,-115,,,
+2026-08-16T00:00:06,2026-09-05,NCAAF,Cincinnati Bearcats,Boston College Eagles,total,draftkings,,,-110,-110,54.5
+2026-08-16T00:00:06,2026-09-05,NCAAF,Cincinnati Bearcats,Boston College Eagles,moneyline,fanduel,-280,225,,,
+2026-08-16T00:00:06,2026-09-05,NCAAF,Cincinnati Bearcats,Boston College Eagles,spread,fanduel,100,-122,,,
+2026-08-16T00:00:06,2026-09-05,NCAAF,Cincinnati Bearcats,Boston College Eagles,total,fanduel,,,-110,-110,53.5
+2026-08-16T00:00:06,2026-09-05,NCAAF,Cincinnati Bearcats,Boston College Eagles,spread,betmgm,-105,-115,,,
+2026-08-16T00:00:06,2026-09-05,NCAAF,Cincinnati Bearcats,Boston College Eagles,total,betmgm,,,-110,-110,54.5
+2026-08-16T00:00:06,2026-09-05,NCAAF,Charlotte 49ers,Citadel Bulldogs,moneyline,fanduel,-950,610,,,
+2026-08-16T00:00:06,2026-09-05,NCAAF,Charlotte 49ers,Citadel Bulldogs,spread,fanduel,-110,-110,,,
+2026-08-16T00:00:06,2026-09-05,NCAAF,Charlotte 49ers,Citadel Bulldogs,total,fanduel,,,-115,-105,45.5
+2026-08-16T00:00:06,2026-09-05,NCAAF,Duke Blue Devils,Tulane Green Wave,moneyline,draftkings,-345,275,,,
+2026-08-16T00:00:06,2026-09-05,NCAAF,Duke Blue Devils,Tulane Green Wave,spread,draftkings,-110,-110,,,
+2026-08-16T00:00:06,2026-09-05,NCAAF,Duke Blue Devils,Tulane Green Wave,total,draftkings,,,-105,-115,52.5
+2026-08-16T00:00:06,2026-09-05,NCAAF,Duke Blue Devils,Tulane Green Wave,moneyline,fanduel,-375,290,,,
+2026-08-16T00:00:06,2026-09-05,NCAAF,Duke Blue Devils,Tulane Green Wave,spread,fanduel,-114,-106,,,
+2026-08-16T00:00:06,2026-09-05,NCAAF,Duke Blue Devils,Tulane Green Wave,total,fanduel,,,-110,-110,52.5
+2026-08-16T00:00:06,2026-09-05,NCAAF,Duke Blue Devils,Tulane Green Wave,spread,betmgm,-110,-110,,,
+2026-08-16T00:00:06,2026-09-05,NCAAF,Duke Blue Devils,Tulane Green Wave,total,betmgm,,,-110,-110,52.5
+2026-08-16T00:00:06,2026-09-05,NCAAF,North Dakota State Bison,Fordham Rams,spread,fanduel,-115,-105,,,
+2026-08-16T00:00:06,2026-09-05,NCAAF,North Dakota State Bison,Fordham Rams,total,fanduel,,,-110,-110,57.5
+2026-08-16T00:00:06,2026-09-05,NCAAF,Tennessee Volunteers,Furman Paladins,spread,fanduel,-115,-105,,,
+2026-08-16T00:00:06,2026-09-05,NCAAF,Tennessee Volunteers,Furman Paladins,total,fanduel,,,-115,-105,66.5
+2026-08-16T00:00:06,2026-09-05,NCAAF,Penn State Nittany Lions,Marshall Thundering Herd,moneyline,draftkings,-3600,1500,,,
+2026-08-16T00:00:06,2026-09-05,NCAAF,Penn State Nittany Lions,Marshall Thundering Herd,spread,draftkings,-115,-105,,,
+2026-08-16T00:00:06,2026-09-05,NCAAF,Penn State Nittany Lions,Marshall Thundering Herd,total,draftkings,,,-108,-112,54.5
+2026-08-16T00:00:06,2026-09-05,NCAAF,Penn State Nittany Lions,Marshall Thundering Herd,moneyline,fanduel,-4500,1600,,,
+2026-08-16T00:00:06,2026-09-05,NCAAF,Penn State Nittany Lions,Marshall Thundering Herd,spread,fanduel,-110,-110,,,
+2026-08-16T00:00:06,2026-09-05,NCAAF,Penn State Nittany Lions,Marshall Thundering Herd,total,fanduel,,,-114,-106,53.5
+2026-08-16T00:00:06,2026-09-05,NCAAF,Penn State Nittany Lions,Marshall Thundering Herd,spread,betmgm,-110,-110,,,
+2026-08-16T00:00:06,2026-09-05,NCAAF,Penn State Nittany Lions,Marshall Thundering Herd,total,betmgm,,,-110,-110,54.5
+2026-08-16T00:00:06,2026-09-05,NCAAF,Navy Midshipmen,Towson Tigers,moneyline,fanduel,-20000,3500,,,
+2026-08-16T00:00:06,2026-09-05,NCAAF,Navy Midshipmen,Towson Tigers,spread,fanduel,-110,-110,,,
+2026-08-16T00:00:06,2026-09-05,NCAAF,Navy Midshipmen,Towson Tigers,total,fanduel,,,-112,-108,53.5
+2026-08-16T00:00:06,2026-09-05,NCAAF,Texas Longhorns,Texas State Bobcats,moneyline,draftkings,-10000,3000,,,
+2026-08-16T00:00:06,2026-09-05,NCAAF,Texas Longhorns,Texas State Bobcats,spread,draftkings,-110,-110,,,
+2026-08-16T00:00:06,2026-09-05,NCAAF,Texas Longhorns,Texas State Bobcats,total,draftkings,,,-108,-112,60.5
+2026-08-16T00:00:06,2026-09-05,NCAAF,Texas Longhorns,Texas State Bobcats,moneyline,fanduel,-8000,2200,,,
+2026-08-16T00:00:06,2026-09-05,NCAAF,Texas Longhorns,Texas State Bobcats,spread,fanduel,-105,-115,,,
+2026-08-16T00:00:06,2026-09-05,NCAAF,Texas Longhorns,Texas State Bobcats,total,fanduel,,,-110,-110,60.5
+2026-08-16T00:00:06,2026-09-05,NCAAF,Texas Longhorns,Texas State Bobcats,spread,betmgm,-110,-110,,,
+2026-08-16T00:00:06,2026-09-05,NCAAF,Texas Longhorns,Texas State Bobcats,total,betmgm,,,-105,-115,60.5
+2026-08-16T00:00:06,2026-09-05,NCAAF,UTSA Roadrunners,UT Rio Grande Valley Vaqueros,moneyline,fanduel,-10000,2200,,,
+2026-08-16T00:00:06,2026-09-05,NCAAF,UTSA Roadrunners,UT Rio Grande Valley Vaqueros,spread,fanduel,-115,-105,,,
+2026-08-16T00:00:06,2026-09-05,NCAAF,UTSA Roadrunners,UT Rio Grande Valley Vaqueros,total,fanduel,,,-115,-105,59.5
+2026-08-16T00:00:06,2026-09-05,NCAAF,Tulsa Golden Hurricane,Oklahoma State Cowboys,moneyline,draftkings,455,-625,,,
+2026-08-16T00:00:06,2026-09-05,NCAAF,Tulsa Golden Hurricane,Oklahoma State Cowboys,spread,draftkings,-115,-105,,,
+2026-08-16T00:00:06,2026-09-05,NCAAF,Tulsa Golden Hurricane,Oklahoma State Cowboys,total,draftkings,,,-108,-112,61.5
+2026-08-16T00:00:06,2026-09-05,NCAAF,Tulsa Golden Hurricane,Oklahoma State Cowboys,moneyline,fanduel,460,-650,,,
+2026-08-16T00:00:06,2026-09-05,NCAAF,Tulsa Golden Hurricane,Oklahoma State Cowboys,spread,fanduel,-118,-104,,,
+2026-08-16T00:00:06,2026-09-05,NCAAF,Tulsa Golden Hurricane,Oklahoma State Cowboys,total,fanduel,,,-115,-105,61.5
+2026-08-16T00:00:06,2026-09-05,NCAAF,Tulsa Golden Hurricane,Oklahoma State Cowboys,spread,betmgm,-105,-115,,,
+2026-08-16T00:00:06,2026-09-05,NCAAF,Tulsa Golden Hurricane,Oklahoma State Cowboys,total,betmgm,,,-110,-110,61.5
+2026-08-16T00:00:06,2026-09-05,NCAAF,Iowa Hawkeyes,Northern Illinois Huskies,moneyline,draftkings,-50000,4000,,,
+2026-08-16T00:00:06,2026-09-05,NCAAF,Iowa Hawkeyes,Northern Illinois Huskies,spread,draftkings,100,-120,,,
+2026-08-16T00:00:06,2026-09-05,NCAAF,Iowa Hawkeyes,Northern Illinois Huskies,total,draftkings,,,-108,-112,45.5
 2026-08-10T00:38:29,2026-09-05,NCAAF,Iowa Hawkeyes,Northern Illinois Huskies,moneyline,fanduel,-20000,3500,,,
-2026-08-15T17:04:54,2026-09-05,NCAAF,Iowa Hawkeyes,Northern Illinois Huskies,spread,fanduel,-106,-114,,,
-2026-08-15T17:04:54,2026-09-05,NCAAF,Iowa Hawkeyes,Northern Illinois Huskies,total,fanduel,,,-105,-115,45.5
-2026-08-15T17:04:54,2026-09-05,NCAAF,Iowa Hawkeyes,Northern Illinois Huskies,spread,betmgm,-110,-110,,,
-2026-08-15T17:04:54,2026-09-05,NCAAF,Iowa Hawkeyes,Northern Illinois Huskies,total,betmgm,,,-110,-110,45.5
-2026-08-15T17:04:54,2026-09-05,NCAAF,Southern Mississippi Golden Eagles,Alcorn State Braves,moneyline,fanduel,-3000,1200,,,
-2026-08-15T17:04:54,2026-09-05,NCAAF,Southern Mississippi Golden Eagles,Alcorn State Braves,spread,fanduel,-110,-110,,,
-2026-08-15T17:04:54,2026-09-05,NCAAF,Southern Mississippi Golden Eagles,Alcorn State Braves,total,fanduel,,,-112,-108,52.5
-2026-08-15T17:04:54,2026-09-05,NCAAF,Colorado State Rams,Wyoming Cowboys,moneyline,draftkings,-180,150,,,
-2026-08-15T17:04:54,2026-09-05,NCAAF,Colorado State Rams,Wyoming Cowboys,spread,draftkings,-112,-108,,,
-2026-08-15T17:04:54,2026-09-05,NCAAF,Colorado State Rams,Wyoming Cowboys,total,draftkings,,,-115,-105,47.5
-2026-08-15T17:04:54,2026-09-05,NCAAF,Colorado State Rams,Wyoming Cowboys,moneyline,fanduel,-164,136,,,
-2026-08-15T17:04:54,2026-09-05,NCAAF,Colorado State Rams,Wyoming Cowboys,spread,fanduel,-106,-114,,,
-2026-08-15T17:04:54,2026-09-05,NCAAF,Colorado State Rams,Wyoming Cowboys,total,fanduel,,,-106,-114,48.5
-2026-08-15T17:04:54,2026-09-05,NCAAF,Colorado State Rams,Wyoming Cowboys,spread,betmgm,-110,-110,,,
-2026-08-15T17:04:54,2026-09-05,NCAAF,Colorado State Rams,Wyoming Cowboys,total,betmgm,,,-105,-115,48.5
-2026-08-15T17:04:54,2026-09-05,NCAAF,Old Dominion Monarchs,Norfolk State Spartans,spread,fanduel,-110,-110,,,
-2026-08-15T17:04:54,2026-09-05,NCAAF,Old Dominion Monarchs,Norfolk State Spartans,total,fanduel,,,-110,-110,53.5
-2026-08-15T17:04:54,2026-09-05,NCAAF,Texas Tech Red Raiders,Abilene Christian Wildcats,spread,fanduel,-108,-112,,,
-2026-08-15T17:04:54,2026-09-05,NCAAF,Texas Tech Red Raiders,Abilene Christian Wildcats,total,fanduel,,,-115,-105,58.5
-2026-08-15T17:04:54,2026-09-05,NCAAF,Memphis Tigers,Arkansas State Red Wolves,moneyline,draftkings,-375,295,,,
-2026-08-15T17:04:54,2026-09-05,NCAAF,Memphis Tigers,Arkansas State Red Wolves,spread,draftkings,-115,-105,,,
-2026-08-15T17:04:54,2026-09-05,NCAAF,Memphis Tigers,Arkansas State Red Wolves,total,draftkings,,,-108,-112,55.5
-2026-08-15T17:04:54,2026-09-05,NCAAF,Memphis Tigers,Arkansas State Red Wolves,moneyline,fanduel,-400,310,,,
-2026-08-15T17:04:54,2026-09-05,NCAAF,Memphis Tigers,Arkansas State Red Wolves,spread,fanduel,-106,-114,,,
-2026-08-15T17:04:54,2026-09-05,NCAAF,Memphis Tigers,Arkansas State Red Wolves,total,fanduel,,,-115,-105,55.5
-2026-08-15T17:04:54,2026-09-05,NCAAF,Memphis Tigers,Arkansas State Red Wolves,spread,betmgm,-115,-105,,,
-2026-08-15T17:04:54,2026-09-05,NCAAF,Memphis Tigers,Arkansas State Red Wolves,total,betmgm,,,-110,-110,55.5
-2026-08-15T17:04:54,2026-09-05,NCAAF,Vanderbilt Commodores,Austin Peay Governors,moneyline,fanduel,-20000,3500,,,
-2026-08-15T17:04:54,2026-09-05,NCAAF,Vanderbilt Commodores,Austin Peay Governors,spread,fanduel,-110,-110,,,
-2026-08-15T17:04:54,2026-09-05,NCAAF,Vanderbilt Commodores,Austin Peay Governors,total,fanduel,,,-105,-115,60.5
-2026-08-15T17:04:54,2026-09-05,NCAAF,Georgia Southern Eagles,Charleston Southern Buccaneers,moneyline,fanduel,-7000,2000,,,
-2026-08-15T17:04:54,2026-09-05,NCAAF,Georgia Southern Eagles,Charleston Southern Buccaneers,spread,fanduel,-108,-112,,,
-2026-08-15T17:04:54,2026-09-05,NCAAF,Georgia Southern Eagles,Charleston Southern Buccaneers,total,fanduel,,,-115,-105,52.5
-2026-08-15T17:04:54,2026-09-05,NCAAF,Jacksonville State Gamecocks,Eastern Kentucky Colonels,moneyline,fanduel,-1800,920,,,
-2026-08-15T17:04:54,2026-09-05,NCAAF,Jacksonville State Gamecocks,Eastern Kentucky Colonels,spread,fanduel,-110,-110,,,
-2026-08-15T17:04:54,2026-09-05,NCAAF,Jacksonville State Gamecocks,Eastern Kentucky Colonels,total,fanduel,,,-110,-110,54.5
-2026-08-15T17:04:54,2026-09-05,NCAAF,South Florida Bulls,Florida International Panthers,moneyline,draftkings,-470,360,,,
-2026-08-15T17:04:54,2026-09-05,NCAAF,South Florida Bulls,Florida International Panthers,spread,draftkings,-112,-108,,,
-2026-08-15T17:04:54,2026-09-05,NCAAF,South Florida Bulls,Florida International Panthers,total,draftkings,,,-118,-102,54.5
-2026-08-15T17:04:54,2026-09-05,NCAAF,South Florida Bulls,Florida International Panthers,moneyline,fanduel,-490,365,,,
-2026-08-15T17:04:54,2026-09-05,NCAAF,South Florida Bulls,Florida International Panthers,spread,fanduel,-110,-110,,,
-2026-08-15T17:04:54,2026-09-05,NCAAF,South Florida Bulls,Florida International Panthers,total,fanduel,,,-115,-105,54.5
-2026-08-15T17:04:54,2026-09-05,NCAAF,South Florida Bulls,Florida International Panthers,spread,betmgm,-110,-110,,,
-2026-08-15T17:04:54,2026-09-05,NCAAF,South Florida Bulls,Florida International Panthers,total,betmgm,,,-110,-110,54.5
-2026-08-15T17:04:54,2026-09-05,NCAAF,Rice Owls,Houston Baptist Huskies,moneyline,fanduel,-4500,1600,,,
-2026-08-15T17:04:54,2026-09-05,NCAAF,Rice Owls,Houston Baptist Huskies,spread,fanduel,-115,-105,,,
-2026-08-15T17:04:54,2026-09-05,NCAAF,Rice Owls,Houston Baptist Huskies,total,fanduel,,,-115,-105,47.5
-2026-08-15T17:04:54,2026-09-05,NCAAF,Utah State Aggies,Idaho State Bengals,moneyline,fanduel,-610,440,,,
-2026-08-15T17:04:54,2026-09-05,NCAAF,Utah State Aggies,Idaho State Bengals,spread,fanduel,-110,-110,,,
-2026-08-15T17:04:54,2026-09-05,NCAAF,Utah State Aggies,Idaho State Bengals,total,fanduel,,,-110,-110,61.5
-2026-08-15T17:04:54,2026-09-05,NCAAF,Kansas State Wildcats,Nicholls State Colonels,spread,fanduel,-110,-110,,,
-2026-08-15T17:04:54,2026-09-05,NCAAF,Kansas State Wildcats,Nicholls State Colonels,total,fanduel,,,-110,-110,54.5
+2026-08-16T00:00:06,2026-09-05,NCAAF,Iowa Hawkeyes,Northern Illinois Huskies,spread,fanduel,-106,-114,,,
+2026-08-16T00:00:06,2026-09-05,NCAAF,Iowa Hawkeyes,Northern Illinois Huskies,total,fanduel,,,-105,-115,45.5
+2026-08-16T00:00:06,2026-09-05,NCAAF,Iowa Hawkeyes,Northern Illinois Huskies,spread,betmgm,-110,-110,,,
+2026-08-16T00:00:06,2026-09-05,NCAAF,Iowa Hawkeyes,Northern Illinois Huskies,total,betmgm,,,-110,-110,45.5
+2026-08-16T00:00:06,2026-09-05,NCAAF,Southern Mississippi Golden Eagles,Alcorn State Braves,moneyline,fanduel,-3000,1200,,,
+2026-08-16T00:00:06,2026-09-05,NCAAF,Southern Mississippi Golden Eagles,Alcorn State Braves,spread,fanduel,-110,-110,,,
+2026-08-16T00:00:06,2026-09-05,NCAAF,Southern Mississippi Golden Eagles,Alcorn State Braves,total,fanduel,,,-112,-108,52.5
+2026-08-16T00:00:06,2026-09-05,NCAAF,Colorado State Rams,Wyoming Cowboys,moneyline,draftkings,-180,150,,,
+2026-08-16T00:00:06,2026-09-05,NCAAF,Colorado State Rams,Wyoming Cowboys,spread,draftkings,-112,-108,,,
+2026-08-16T00:00:06,2026-09-05,NCAAF,Colorado State Rams,Wyoming Cowboys,total,draftkings,,,-115,-105,47.5
+2026-08-16T00:00:06,2026-09-05,NCAAF,Colorado State Rams,Wyoming Cowboys,moneyline,fanduel,-164,136,,,
+2026-08-16T00:00:06,2026-09-05,NCAAF,Colorado State Rams,Wyoming Cowboys,spread,fanduel,-106,-114,,,
+2026-08-16T00:00:06,2026-09-05,NCAAF,Colorado State Rams,Wyoming Cowboys,total,fanduel,,,-106,-114,48.5
+2026-08-16T00:00:06,2026-09-05,NCAAF,Colorado State Rams,Wyoming Cowboys,spread,betmgm,-110,-110,,,
+2026-08-16T00:00:06,2026-09-05,NCAAF,Colorado State Rams,Wyoming Cowboys,total,betmgm,,,-105,-115,48.5
+2026-08-16T00:00:06,2026-09-05,NCAAF,Old Dominion Monarchs,Norfolk State Spartans,spread,fanduel,-110,-110,,,
+2026-08-16T00:00:06,2026-09-05,NCAAF,Old Dominion Monarchs,Norfolk State Spartans,total,fanduel,,,-110,-110,53.5
+2026-08-16T00:00:06,2026-09-05,NCAAF,Texas Tech Red Raiders,Abilene Christian Wildcats,spread,fanduel,-108,-112,,,
+2026-08-16T00:00:06,2026-09-05,NCAAF,Texas Tech Red Raiders,Abilene Christian Wildcats,total,fanduel,,,-115,-105,58.5
+2026-08-16T00:00:06,2026-09-05,NCAAF,Memphis Tigers,Arkansas State Red Wolves,moneyline,draftkings,-375,295,,,
+2026-08-16T00:00:06,2026-09-05,NCAAF,Memphis Tigers,Arkansas State Red Wolves,spread,draftkings,-115,-105,,,
+2026-08-16T00:00:06,2026-09-05,NCAAF,Memphis Tigers,Arkansas State Red Wolves,total,draftkings,,,-108,-112,55.5
+2026-08-16T00:00:06,2026-09-05,NCAAF,Memphis Tigers,Arkansas State Red Wolves,moneyline,fanduel,-400,310,,,
+2026-08-16T00:00:06,2026-09-05,NCAAF,Memphis Tigers,Arkansas State Red Wolves,spread,fanduel,-106,-114,,,
+2026-08-16T00:00:06,2026-09-05,NCAAF,Memphis Tigers,Arkansas State Red Wolves,total,fanduel,,,-115,-105,55.5
+2026-08-16T00:00:06,2026-09-05,NCAAF,Memphis Tigers,Arkansas State Red Wolves,spread,betmgm,-115,-105,,,
+2026-08-16T00:00:06,2026-09-05,NCAAF,Memphis Tigers,Arkansas State Red Wolves,total,betmgm,,,-110,-110,55.5
+2026-08-16T00:00:06,2026-09-05,NCAAF,Vanderbilt Commodores,Austin Peay Governors,moneyline,fanduel,-20000,3500,,,
+2026-08-16T00:00:06,2026-09-05,NCAAF,Vanderbilt Commodores,Austin Peay Governors,spread,fanduel,-110,-110,,,
+2026-08-16T00:00:06,2026-09-05,NCAAF,Vanderbilt Commodores,Austin Peay Governors,total,fanduel,,,-105,-115,60.5
+2026-08-16T00:00:06,2026-09-05,NCAAF,Georgia Southern Eagles,Charleston Southern Buccaneers,moneyline,fanduel,-7000,2000,,,
+2026-08-16T00:00:06,2026-09-05,NCAAF,Georgia Southern Eagles,Charleston Southern Buccaneers,spread,fanduel,-108,-112,,,
+2026-08-16T00:00:06,2026-09-05,NCAAF,Georgia Southern Eagles,Charleston Southern Buccaneers,total,fanduel,,,-115,-105,52.5
+2026-08-16T00:00:06,2026-09-05,NCAAF,Jacksonville State Gamecocks,Eastern Kentucky Colonels,moneyline,fanduel,-1800,920,,,
+2026-08-16T00:00:06,2026-09-05,NCAAF,Jacksonville State Gamecocks,Eastern Kentucky Colonels,spread,fanduel,-110,-110,,,
+2026-08-16T00:00:06,2026-09-05,NCAAF,Jacksonville State Gamecocks,Eastern Kentucky Colonels,total,fanduel,,,-110,-110,54.5
+2026-08-16T00:00:06,2026-09-05,NCAAF,South Florida Bulls,Florida International Panthers,moneyline,draftkings,-470,360,,,
+2026-08-16T00:00:06,2026-09-05,NCAAF,South Florida Bulls,Florida International Panthers,spread,draftkings,-112,-108,,,
+2026-08-16T00:00:06,2026-09-05,NCAAF,South Florida Bulls,Florida International Panthers,total,draftkings,,,-118,-102,54.5
+2026-08-16T00:00:06,2026-09-05,NCAAF,South Florida Bulls,Florida International Panthers,moneyline,fanduel,-490,365,,,
+2026-08-16T00:00:06,2026-09-05,NCAAF,South Florida Bulls,Florida International Panthers,spread,fanduel,-110,-110,,,
+2026-08-16T00:00:06,2026-09-05,NCAAF,South Florida Bulls,Florida International Panthers,total,fanduel,,,-115,-105,54.5
+2026-08-16T00:00:06,2026-09-05,NCAAF,South Florida Bulls,Florida International Panthers,spread,betmgm,-110,-110,,,
+2026-08-16T00:00:06,2026-09-05,NCAAF,South Florida Bulls,Florida International Panthers,total,betmgm,,,-110,-110,54.5
+2026-08-16T00:00:06,2026-09-05,NCAAF,Rice Owls,Houston Baptist Huskies,moneyline,fanduel,-4500,1600,,,
+2026-08-16T00:00:06,2026-09-05,NCAAF,Rice Owls,Houston Baptist Huskies,spread,fanduel,-115,-105,,,
+2026-08-16T00:00:06,2026-09-05,NCAAF,Rice Owls,Houston Baptist Huskies,total,fanduel,,,-115,-105,47.5
+2026-08-16T00:00:06,2026-09-05,NCAAF,Utah State Aggies,Idaho State Bengals,moneyline,fanduel,-610,440,,,
+2026-08-16T00:00:06,2026-09-05,NCAAF,Utah State Aggies,Idaho State Bengals,spread,fanduel,-110,-110,,,
+2026-08-16T00:00:06,2026-09-05,NCAAF,Utah State Aggies,Idaho State Bengals,total,fanduel,,,-110,-110,61.5
+2026-08-16T00:00:06,2026-09-05,NCAAF,Kansas State Wildcats,Nicholls State Colonels,spread,fanduel,-110,-110,,,
+2026-08-16T00:00:06,2026-09-05,NCAAF,Kansas State Wildcats,Nicholls State Colonels,total,fanduel,,,-110,-110,54.5
 2026-08-10T00:38:29,2026-09-05,NCAAF,Michigan Wolverines,Western Michigan Broncos,moneyline,draftkings,-6500,2000,,,
 2026-08-10T00:38:29,2026-09-05,NCAAF,Michigan Wolverines,Western Michigan Broncos,spread,draftkings,-108,-112,,,
 2026-08-10T00:38:29,2026-09-05,NCAAF,Michigan Wolverines,Western Michigan Broncos,total,draftkings,,,-112,-108,47.5
-2026-08-15T17:04:54,2026-09-05,NCAAF,Michigan Wolverines,Western Michigan Broncos,moneyline,fanduel,-7000,2000,,,
-2026-08-15T17:04:54,2026-09-05,NCAAF,Michigan Wolverines,Western Michigan Broncos,spread,fanduel,-110,-110,,,
-2026-08-15T17:04:54,2026-09-05,NCAAF,Michigan Wolverines,Western Michigan Broncos,total,fanduel,,,-120,-102,47.5
-2026-08-15T17:04:54,2026-09-05,NCAAF,Michigan Wolverines,Western Michigan Broncos,spread,betmgm,-110,-110,,,
-2026-08-15T17:04:54,2026-09-05,NCAAF,Michigan Wolverines,Western Michigan Broncos,total,betmgm,,,-115,-105,47.5
-2026-08-15T17:04:54,2026-09-05,NCAAF,Middle Tennessee Blue Raiders,Murray State Racers,moneyline,fanduel,-2100,1000,,,
-2026-08-15T17:04:54,2026-09-05,NCAAF,Middle Tennessee Blue Raiders,Murray State Racers,spread,fanduel,-105,-115,,,
-2026-08-15T17:04:54,2026-09-05,NCAAF,Middle Tennessee Blue Raiders,Murray State Racers,total,fanduel,,,-110,-110,60.5
-2026-08-15T17:04:54,2026-09-05,NCAAF,Texas A&M Aggies,Missouri State Bears,spread,draftkings,-108,-112,,,
-2026-08-15T17:04:54,2026-09-05,NCAAF,Texas A&M Aggies,Missouri State Bears,total,draftkings,,,-108,-112,52.5
-2026-08-15T17:04:54,2026-09-05,NCAAF,Texas A&M Aggies,Missouri State Bears,spread,fanduel,-115,-105,,,
-2026-08-15T17:04:54,2026-09-05,NCAAF,Texas A&M Aggies,Missouri State Bears,total,fanduel,,,-115,-105,52.5
-2026-08-15T17:04:54,2026-09-05,NCAAF,Texas A&M Aggies,Missouri State Bears,spread,betmgm,-110,-110,,,
-2026-08-15T17:04:54,2026-09-05,NCAAF,Texas A&M Aggies,Missouri State Bears,total,betmgm,,,-115,-105,52.5
-2026-08-15T17:04:54,2026-09-05,NCAAF,Troy Trojans,Sam Houston State Bearkats,moneyline,draftkings,-850,575,,,
-2026-08-15T17:04:54,2026-09-05,NCAAF,Troy Trojans,Sam Houston State Bearkats,spread,draftkings,-110,-110,,,
-2026-08-15T17:04:54,2026-09-05,NCAAF,Troy Trojans,Sam Houston State Bearkats,total,draftkings,,,-115,-105,51.5
-2026-08-15T17:04:54,2026-09-05,NCAAF,Troy Trojans,Sam Houston State Bearkats,moneyline,fanduel,-850,570,,,
-2026-08-15T17:04:54,2026-09-05,NCAAF,Troy Trojans,Sam Houston State Bearkats,spread,fanduel,-110,-110,,,
-2026-08-15T17:04:54,2026-09-05,NCAAF,Troy Trojans,Sam Houston State Bearkats,total,fanduel,,,-110,-110,52.5
-2026-08-15T17:04:54,2026-09-05,NCAAF,Troy Trojans,Sam Houston State Bearkats,spread,betmgm,-110,-110,,,
-2026-08-15T17:04:54,2026-09-05,NCAAF,Troy Trojans,Sam Houston State Bearkats,total,betmgm,,,-110,-110,51.5
-2026-08-15T17:04:54,2026-09-05,NCAAF,South Alabama Jaguars,Southeastern Louisiana Lions,moneyline,fanduel,-500,375,,,
-2026-08-15T17:04:54,2026-09-05,NCAAF,South Alabama Jaguars,Southeastern Louisiana Lions,spread,fanduel,-110,-110,,,
-2026-08-15T17:04:54,2026-09-05,NCAAF,South Alabama Jaguars,Southeastern Louisiana Lions,total,fanduel,,,-115,-105,51.5
-2026-08-15T17:04:54,2026-09-05,NCAAF,LSU Tigers,Clemson Tigers,moneyline,fanduel,-375,290,,,
-2026-08-15T17:04:54,2026-09-05,NCAAF,LSU Tigers,Clemson Tigers,spread,fanduel,-114,-106,,,
-2026-08-15T17:04:54,2026-09-05,NCAAF,LSU Tigers,Clemson Tigers,total,fanduel,,,-120,-102,50.5
+2026-08-16T00:00:06,2026-09-05,NCAAF,Michigan Wolverines,Western Michigan Broncos,moneyline,fanduel,-7000,2000,,,
+2026-08-16T00:00:06,2026-09-05,NCAAF,Michigan Wolverines,Western Michigan Broncos,spread,fanduel,-110,-110,,,
+2026-08-16T00:00:06,2026-09-05,NCAAF,Michigan Wolverines,Western Michigan Broncos,total,fanduel,,,-120,-102,47.5
+2026-08-16T00:00:06,2026-09-05,NCAAF,Michigan Wolverines,Western Michigan Broncos,spread,betmgm,-110,-110,,,
+2026-08-16T00:00:06,2026-09-05,NCAAF,Michigan Wolverines,Western Michigan Broncos,total,betmgm,,,-115,-105,47.5
+2026-08-16T00:00:06,2026-09-05,NCAAF,Middle Tennessee Blue Raiders,Murray State Racers,moneyline,fanduel,-2100,1000,,,
+2026-08-16T00:00:06,2026-09-05,NCAAF,Middle Tennessee Blue Raiders,Murray State Racers,spread,fanduel,-105,-115,,,
+2026-08-16T00:00:06,2026-09-05,NCAAF,Middle Tennessee Blue Raiders,Murray State Racers,total,fanduel,,,-110,-110,60.5
+2026-08-16T00:00:06,2026-09-05,NCAAF,Texas A&M Aggies,Missouri State Bears,spread,draftkings,-108,-112,,,
+2026-08-16T00:00:06,2026-09-05,NCAAF,Texas A&M Aggies,Missouri State Bears,total,draftkings,,,-108,-112,52.5
+2026-08-16T00:00:06,2026-09-05,NCAAF,Texas A&M Aggies,Missouri State Bears,spread,fanduel,-115,-105,,,
+2026-08-16T00:00:06,2026-09-05,NCAAF,Texas A&M Aggies,Missouri State Bears,total,fanduel,,,-115,-105,52.5
+2026-08-16T00:00:06,2026-09-05,NCAAF,Texas A&M Aggies,Missouri State Bears,spread,betmgm,-110,-110,,,
+2026-08-16T00:00:06,2026-09-05,NCAAF,Texas A&M Aggies,Missouri State Bears,total,betmgm,,,-115,-105,52.5
+2026-08-16T00:00:06,2026-09-05,NCAAF,Troy Trojans,Sam Houston State Bearkats,moneyline,draftkings,-850,575,,,
+2026-08-16T00:00:06,2026-09-05,NCAAF,Troy Trojans,Sam Houston State Bearkats,spread,draftkings,-110,-110,,,
+2026-08-16T00:00:06,2026-09-05,NCAAF,Troy Trojans,Sam Houston State Bearkats,total,draftkings,,,-115,-105,51.5
+2026-08-16T00:00:06,2026-09-05,NCAAF,Troy Trojans,Sam Houston State Bearkats,moneyline,fanduel,-850,570,,,
+2026-08-16T00:00:06,2026-09-05,NCAAF,Troy Trojans,Sam Houston State Bearkats,spread,fanduel,-110,-110,,,
+2026-08-16T00:00:06,2026-09-05,NCAAF,Troy Trojans,Sam Houston State Bearkats,total,fanduel,,,-110,-110,52.5
+2026-08-16T00:00:06,2026-09-05,NCAAF,Troy Trojans,Sam Houston State Bearkats,spread,betmgm,-110,-110,,,
+2026-08-16T00:00:06,2026-09-05,NCAAF,Troy Trojans,Sam Houston State Bearkats,total,betmgm,,,-110,-110,51.5
+2026-08-16T00:00:06,2026-09-05,NCAAF,South Alabama Jaguars,Southeastern Louisiana Lions,moneyline,fanduel,-500,375,,,
+2026-08-16T00:00:06,2026-09-05,NCAAF,South Alabama Jaguars,Southeastern Louisiana Lions,spread,fanduel,-110,-110,,,
+2026-08-16T00:00:06,2026-09-05,NCAAF,South Alabama Jaguars,Southeastern Louisiana Lions,total,fanduel,,,-115,-105,51.5
+2026-08-16T00:00:06,2026-09-05,NCAAF,LSU Tigers,Clemson Tigers,moneyline,fanduel,-375,290,,,
+2026-08-16T00:00:06,2026-09-05,NCAAF,LSU Tigers,Clemson Tigers,spread,fanduel,-114,-106,,,
+2026-08-16T00:00:06,2026-09-05,NCAAF,LSU Tigers,Clemson Tigers,total,fanduel,,,-120,-102,50.5
 2026-08-10T00:38:29,2026-09-05,NCAAF,LSU Tigers,Clemson Tigers,moneyline,draftkings,-395,310,,,
 2026-08-10T00:38:29,2026-09-05,NCAAF,LSU Tigers,Clemson Tigers,spread,draftkings,-118,-102,,,
 2026-08-10T00:38:29,2026-09-05,NCAAF,LSU Tigers,Clemson Tigers,total,draftkings,,,-112,-108,50.5
-2026-08-15T17:04:54,2026-09-05,NCAAF,LSU Tigers,Clemson Tigers,spread,betmgm,-110,-110,,,
-2026-08-15T17:04:54,2026-09-05,NCAAF,LSU Tigers,Clemson Tigers,total,betmgm,,,-110,-110,51.5
-2026-08-15T17:04:54,2026-09-05,NCAAF,Louisiana Tech Bulldogs,Northwestern State Demons,spread,fanduel,-110,-110,,,
-2026-08-15T17:04:54,2026-09-05,NCAAF,Louisiana Tech Bulldogs,Northwestern State Demons,total,fanduel,,,-115,-105,53.5
+2026-08-16T00:00:06,2026-09-05,NCAAF,LSU Tigers,Clemson Tigers,spread,betmgm,-110,-110,,,
+2026-08-16T00:00:06,2026-09-05,NCAAF,LSU Tigers,Clemson Tigers,total,betmgm,,,-110,-110,51.5
+2026-08-16T00:00:06,2026-09-05,NCAAF,Louisiana Tech Bulldogs,Northwestern State Demons,spread,fanduel,-110,-110,,,
+2026-08-16T00:00:06,2026-09-05,NCAAF,Louisiana Tech Bulldogs,Northwestern State Demons,total,fanduel,,,-115,-105,53.5
 2026-08-10T00:38:29,2026-09-05,NCAAF,Mississippi State Bulldogs,UL Monroe Warhawks,moneyline,draftkings,-9000,2500,,,
 2026-08-10T00:38:29,2026-09-05,NCAAF,Mississippi State Bulldogs,UL Monroe Warhawks,spread,draftkings,-110,-110,,,
 2026-08-10T00:38:29,2026-09-05,NCAAF,Mississippi State Bulldogs,UL Monroe Warhawks,total,draftkings,,,-108,-112,55.5
-2026-08-15T17:04:54,2026-09-05,NCAAF,Mississippi State Bulldogs,UL Monroe Warhawks,moneyline,fanduel,-10000,2400,,,
-2026-08-15T17:04:54,2026-09-05,NCAAF,Mississippi State Bulldogs,UL Monroe Warhawks,spread,fanduel,-115,-105,,,
-2026-08-15T17:04:54,2026-09-05,NCAAF,Mississippi State Bulldogs,UL Monroe Warhawks,total,fanduel,,,-115,-105,55.5
-2026-08-15T17:04:54,2026-09-05,NCAAF,Mississippi State Bulldogs,UL Monroe Warhawks,spread,betmgm,-110,-110,,,
-2026-08-15T17:04:54,2026-09-05,NCAAF,Mississippi State Bulldogs,UL Monroe Warhawks,total,betmgm,,,-110,-110,55.5
-2026-08-15T17:04:54,2026-09-05,NCAAF,Virginia Tech Hokies,VMI Keydets,spread,fanduel,-115,-105,,,
-2026-08-15T17:04:54,2026-09-05,NCAAF,Virginia Tech Hokies,VMI Keydets,total,fanduel,,,-110,-110,58.5
+2026-08-16T00:00:06,2026-09-05,NCAAF,Mississippi State Bulldogs,UL Monroe Warhawks,moneyline,fanduel,-10000,2400,,,
+2026-08-16T00:00:06,2026-09-05,NCAAF,Mississippi State Bulldogs,UL Monroe Warhawks,spread,fanduel,-115,-105,,,
+2026-08-16T00:00:06,2026-09-05,NCAAF,Mississippi State Bulldogs,UL Monroe Warhawks,total,fanduel,,,-115,-105,55.5
+2026-08-16T00:00:06,2026-09-05,NCAAF,Mississippi State Bulldogs,UL Monroe Warhawks,spread,betmgm,-110,-110,,,
+2026-08-16T00:00:06,2026-09-05,NCAAF,Mississippi State Bulldogs,UL Monroe Warhawks,total,betmgm,,,-110,-110,55.5
+2026-08-16T00:00:06,2026-09-05,NCAAF,Virginia Tech Hokies,VMI Keydets,spread,fanduel,-115,-105,,,
+2026-08-16T00:00:06,2026-09-05,NCAAF,Virginia Tech Hokies,VMI Keydets,total,fanduel,,,-110,-110,58.5
 2026-08-10T00:38:29,2026-09-05,NCAAF,Florida Gators,Florida Atlantic Owls,moneyline,draftkings,-4500,1700,,,
 2026-08-10T00:38:29,2026-09-05,NCAAF,Florida Gators,Florida Atlantic Owls,spread,draftkings,-112,-108,,,
 2026-08-10T00:38:29,2026-09-05,NCAAF,Florida Gators,Florida Atlantic Owls,total,draftkings,,,-110,-110,58.5
-2026-08-15T17:04:54,2026-09-05,NCAAF,Florida Gators,Florida Atlantic Owls,moneyline,fanduel,-4500,1600,,,
-2026-08-15T17:04:54,2026-09-05,NCAAF,Florida Gators,Florida Atlantic Owls,spread,fanduel,-110,-110,,,
-2026-08-15T17:04:54,2026-09-05,NCAAF,Florida Gators,Florida Atlantic Owls,total,fanduel,,,-112,-108,58.5
-2026-08-15T17:04:54,2026-09-05,NCAAF,Florida Gators,Florida Atlantic Owls,spread,betmgm,-110,-110,,,
-2026-08-15T17:04:54,2026-09-05,NCAAF,Florida Gators,Florida Atlantic Owls,total,betmgm,,,-110,-110,58.5
-2026-08-15T17:04:54,2026-09-06,NCAAF,BYU Cougars,Utah Tech Trailblazers,spread,fanduel,-110,-110,,,
-2026-08-15T17:04:54,2026-09-06,NCAAF,BYU Cougars,Utah Tech Trailblazers,total,fanduel,,,-110,-110,55.5
-2026-08-15T17:04:54,2026-09-06,NCAAF,Louisiana Ragin Cajuns,Lamar Cardinals,moneyline,fanduel,-2300,1060,,,
-2026-08-15T17:04:54,2026-09-06,NCAAF,Louisiana Ragin Cajuns,Lamar Cardinals,spread,fanduel,-115,-105,,,
-2026-08-15T17:04:54,2026-09-06,NCAAF,Louisiana Ragin Cajuns,Lamar Cardinals,total,fanduel,,,-108,-112,49.5
-2026-08-15T17:04:54,2026-09-06,NCAAF,Northwestern Wildcats,South Dakota State Jackrabbits,moneyline,fanduel,-580,430,,,
-2026-08-15T17:04:54,2026-09-06,NCAAF,Northwestern Wildcats,South Dakota State Jackrabbits,spread,fanduel,-110,-110,,,
-2026-08-15T17:04:54,2026-09-06,NCAAF,Northwestern Wildcats,South Dakota State Jackrabbits,total,fanduel,,,-115,-105,46.5
+2026-08-16T00:00:06,2026-09-05,NCAAF,Florida Gators,Florida Atlantic Owls,moneyline,fanduel,-4500,1600,,,
+2026-08-16T00:00:06,2026-09-05,NCAAF,Florida Gators,Florida Atlantic Owls,spread,fanduel,-110,-110,,,
+2026-08-16T00:00:06,2026-09-05,NCAAF,Florida Gators,Florida Atlantic Owls,total,fanduel,,,-112,-108,58.5
+2026-08-16T00:00:06,2026-09-05,NCAAF,Florida Gators,Florida Atlantic Owls,spread,betmgm,-110,-110,,,
+2026-08-16T00:00:06,2026-09-05,NCAAF,Florida Gators,Florida Atlantic Owls,total,betmgm,,,-110,-110,58.5
+2026-08-16T00:00:06,2026-09-06,NCAAF,BYU Cougars,Utah Tech Trailblazers,spread,fanduel,-110,-110,,,
+2026-08-16T00:00:06,2026-09-06,NCAAF,BYU Cougars,Utah Tech Trailblazers,total,fanduel,,,-110,-110,55.5
+2026-08-16T00:00:06,2026-09-06,NCAAF,Louisiana Ragin Cajuns,Lamar Cardinals,moneyline,fanduel,-2300,1060,,,
+2026-08-16T00:00:06,2026-09-06,NCAAF,Louisiana Ragin Cajuns,Lamar Cardinals,spread,fanduel,-115,-105,,,
+2026-08-16T00:00:06,2026-09-06,NCAAF,Louisiana Ragin Cajuns,Lamar Cardinals,total,fanduel,,,-108,-112,49.5
+2026-08-16T00:00:06,2026-09-06,NCAAF,Northwestern Wildcats,South Dakota State Jackrabbits,moneyline,fanduel,-580,430,,,
+2026-08-16T00:00:06,2026-09-06,NCAAF,Northwestern Wildcats,South Dakota State Jackrabbits,spread,fanduel,-110,-110,,,
+2026-08-16T00:00:06,2026-09-06,NCAAF,Northwestern Wildcats,South Dakota State Jackrabbits,total,fanduel,,,-115,-105,46.5
 2026-08-10T00:38:29,2026-09-06,NCAAF,Hawaii Rainbow Warriors,UNLV Rebels,moneyline,draftkings,110,-130,,,
 2026-08-10T00:38:29,2026-09-06,NCAAF,Hawaii Rainbow Warriors,UNLV Rebels,spread,draftkings,-108,-112,,,
 2026-08-10T00:38:29,2026-09-06,NCAAF,Hawaii Rainbow Warriors,UNLV Rebels,total,draftkings,,,-110,-110,58.5
-2026-08-15T17:04:54,2026-09-06,NCAAF,Hawaii Rainbow Warriors,UNLV Rebels,moneyline,fanduel,126,-152,,,
-2026-08-15T17:04:54,2026-09-06,NCAAF,Hawaii Rainbow Warriors,UNLV Rebels,spread,fanduel,102,-124,,,
-2026-08-15T17:04:54,2026-09-06,NCAAF,Hawaii Rainbow Warriors,UNLV Rebels,total,fanduel,,,-115,-105,58.5
-2026-08-15T17:04:54,2026-09-06,NCAAF,Hawaii Rainbow Warriors,UNLV Rebels,spread,betmgm,-110,-110,,,
-2026-08-15T17:04:54,2026-09-06,NCAAF,Hawaii Rainbow Warriors,UNLV Rebels,total,betmgm,,,-115,-105,58.5
-2026-08-15T17:04:54,2026-09-06,NCAAF,New Mexico State Aggies,Mercyhurst Lakers,moneyline,fanduel,-4500,1600,,,
-2026-08-15T17:04:54,2026-09-06,NCAAF,New Mexico State Aggies,Mercyhurst Lakers,spread,fanduel,-110,-110,,,
-2026-08-15T17:04:54,2026-09-06,NCAAF,New Mexico State Aggies,Mercyhurst Lakers,total,fanduel,,,-110,-110,48.5
-2026-08-15T17:04:54,2026-09-06,NCAAF,Arizona Wildcats,Northern Arizona Lumberjacks,moneyline,fanduel,-10000,3000,,,
-2026-08-15T17:04:54,2026-09-06,NCAAF,Arizona Wildcats,Northern Arizona Lumberjacks,spread,fanduel,-105,-115,,,
-2026-08-15T17:04:54,2026-09-06,NCAAF,Arizona Wildcats,Northern Arizona Lumberjacks,total,fanduel,,,-110,-110,57.5
-2026-08-15T17:04:54,2026-09-06,NCAAF,San Diego State Aztecs,Portland State Vikings,spread,fanduel,-115,-105,,,
-2026-08-15T17:04:54,2026-09-06,NCAAF,San Diego State Aztecs,Portland State Vikings,total,fanduel,,,-110,-110,58.5
-2026-08-15T17:04:54,2026-09-06,NCAAF,Arizona State Sun Devils,Morgan State Bears,spread,fanduel,-106,-114,,,
-2026-08-15T17:04:54,2026-09-06,NCAAF,Arizona State Sun Devils,Morgan State Bears,total,fanduel,,,-115,-105,52.5
+2026-08-16T00:00:06,2026-09-06,NCAAF,Hawaii Rainbow Warriors,UNLV Rebels,moneyline,fanduel,126,-152,,,
+2026-08-16T00:00:06,2026-09-06,NCAAF,Hawaii Rainbow Warriors,UNLV Rebels,spread,fanduel,102,-124,,,
+2026-08-16T00:00:06,2026-09-06,NCAAF,Hawaii Rainbow Warriors,UNLV Rebels,total,fanduel,,,-115,-105,58.5
+2026-08-16T00:00:06,2026-09-06,NCAAF,Hawaii Rainbow Warriors,UNLV Rebels,spread,betmgm,-110,-110,,,
+2026-08-16T00:00:06,2026-09-06,NCAAF,Hawaii Rainbow Warriors,UNLV Rebels,total,betmgm,,,-115,-105,58.5
+2026-08-16T00:00:06,2026-09-06,NCAAF,New Mexico State Aggies,Mercyhurst Lakers,moneyline,fanduel,-4500,1600,,,
+2026-08-16T00:00:06,2026-09-06,NCAAF,New Mexico State Aggies,Mercyhurst Lakers,spread,fanduel,-110,-110,,,
+2026-08-16T00:00:06,2026-09-06,NCAAF,New Mexico State Aggies,Mercyhurst Lakers,total,fanduel,,,-110,-110,48.5
+2026-08-16T00:00:06,2026-09-06,NCAAF,Arizona Wildcats,Northern Arizona Lumberjacks,moneyline,fanduel,-10000,3000,,,
+2026-08-16T00:00:06,2026-09-06,NCAAF,Arizona Wildcats,Northern Arizona Lumberjacks,spread,fanduel,-105,-115,,,
+2026-08-16T00:00:06,2026-09-06,NCAAF,Arizona Wildcats,Northern Arizona Lumberjacks,total,fanduel,,,-110,-110,57.5
+2026-08-16T00:00:06,2026-09-06,NCAAF,San Diego State Aztecs,Portland State Vikings,spread,fanduel,-115,-105,,,
+2026-08-16T00:00:06,2026-09-06,NCAAF,San Diego State Aztecs,Portland State Vikings,total,fanduel,,,-110,-110,58.5
+2026-08-16T00:00:06,2026-09-06,NCAAF,Arizona State Sun Devils,Morgan State Bears,spread,fanduel,-106,-114,,,
+2026-08-16T00:00:06,2026-09-06,NCAAF,Arizona State Sun Devils,Morgan State Bears,total,fanduel,,,-115,-105,52.5
 2026-08-10T00:38:29,2026-09-06,NCAAF,New Mexico Lobos,Central Michigan Chippewas,moneyline,draftkings,-520,390,,,
 2026-08-10T00:38:29,2026-09-06,NCAAF,New Mexico Lobos,Central Michigan Chippewas,spread,draftkings,-110,-110,,,
 2026-08-10T00:38:29,2026-09-06,NCAAF,New Mexico Lobos,Central Michigan Chippewas,total,draftkings,,,-115,-105,48.5
-2026-08-15T17:04:54,2026-09-06,NCAAF,New Mexico Lobos,Central Michigan Chippewas,moneyline,fanduel,-550,400,,,
-2026-08-15T17:04:54,2026-09-06,NCAAF,New Mexico Lobos,Central Michigan Chippewas,spread,fanduel,-110,-110,,,
-2026-08-15T17:04:54,2026-09-06,NCAAF,New Mexico Lobos,Central Michigan Chippewas,total,fanduel,,,-115,-105,48.5
-2026-08-15T17:04:54,2026-09-06,NCAAF,New Mexico Lobos,Central Michigan Chippewas,spread,betmgm,-110,-110,,,
-2026-08-15T17:04:54,2026-09-06,NCAAF,New Mexico Lobos,Central Michigan Chippewas,total,betmgm,,,-110,-110,49.5
-2026-08-15T17:04:54,2026-09-06,NCAAF,Sacramento State Hornets,Mississippi Valley State Delta Devils,spread,fanduel,-110,-110,,,
-2026-08-15T17:04:54,2026-09-06,NCAAF,Sacramento State Hornets,Mississippi Valley State Delta Devils,total,fanduel,,,-115,-105,55.5
-2026-08-15T17:04:54,2026-09-06,NCAAF,California Golden Bears,UCLA Bruins,moneyline,fanduel,-105,-114,,,
-2026-08-15T17:04:54,2026-09-06,NCAAF,California Golden Bears,UCLA Bruins,spread,fanduel,-115,-105,,,
-2026-08-15T17:04:54,2026-09-06,NCAAF,California Golden Bears,UCLA Bruins,total,fanduel,,,-115,-105,54.5
+2026-08-16T00:00:06,2026-09-06,NCAAF,New Mexico Lobos,Central Michigan Chippewas,moneyline,fanduel,-550,400,,,
+2026-08-16T00:00:06,2026-09-06,NCAAF,New Mexico Lobos,Central Michigan Chippewas,spread,fanduel,-110,-110,,,
+2026-08-16T00:00:06,2026-09-06,NCAAF,New Mexico Lobos,Central Michigan Chippewas,total,fanduel,,,-115,-105,48.5
+2026-08-16T00:00:06,2026-09-06,NCAAF,New Mexico Lobos,Central Michigan Chippewas,spread,betmgm,-110,-110,,,
+2026-08-16T00:00:06,2026-09-06,NCAAF,New Mexico Lobos,Central Michigan Chippewas,total,betmgm,,,-110,-110,49.5
+2026-08-16T00:00:06,2026-09-06,NCAAF,Sacramento State Hornets,Mississippi Valley State Delta Devils,spread,fanduel,-110,-110,,,
+2026-08-16T00:00:06,2026-09-06,NCAAF,Sacramento State Hornets,Mississippi Valley State Delta Devils,total,fanduel,,,-115,-105,55.5
+2026-08-16T00:00:06,2026-09-06,NCAAF,California Golden Bears,UCLA Bruins,moneyline,fanduel,-105,-114,,,
+2026-08-16T00:00:06,2026-09-06,NCAAF,California Golden Bears,UCLA Bruins,spread,fanduel,-115,-105,,,
+2026-08-16T00:00:06,2026-09-06,NCAAF,California Golden Bears,UCLA Bruins,total,fanduel,,,-115,-105,54.5
 2026-08-10T00:38:29,2026-09-06,NCAAF,California Golden Bears,UCLA Bruins,moneyline,draftkings,-108,-112,,,
 2026-08-10T00:38:29,2026-09-06,NCAAF,California Golden Bears,UCLA Bruins,spread,draftkings,-115,-105,,,
 2026-08-10T00:38:29,2026-09-06,NCAAF,California Golden Bears,UCLA Bruins,total,draftkings,,,-118,-102,54.5
-2026-08-15T17:04:54,2026-09-06,NCAAF,California Golden Bears,UCLA Bruins,spread,betmgm,-115,-105,,,
-2026-08-15T17:04:54,2026-09-06,NCAAF,California Golden Bears,UCLA Bruins,total,betmgm,,,-115,-105,54.5
+2026-08-16T00:00:06,2026-09-06,NCAAF,California Golden Bears,UCLA Bruins,spread,betmgm,-115,-105,,,
+2026-08-16T00:00:06,2026-09-06,NCAAF,California Golden Bears,UCLA Bruins,total,betmgm,,,-115,-105,54.5
 2026-08-10T00:38:29,2026-09-06,NCAAF,Nevada Wolf Pack,Western Kentucky Hilltoppers,moneyline,draftkings,120,-142,,,
 2026-08-10T00:38:29,2026-09-06,NCAAF,Nevada Wolf Pack,Western Kentucky Hilltoppers,spread,draftkings,-102,-118,,,
 2026-08-10T00:38:29,2026-09-06,NCAAF,Nevada Wolf Pack,Western Kentucky Hilltoppers,total,draftkings,,,-115,-105,52.5
-2026-08-15T17:04:54,2026-09-06,NCAAF,Nevada Wolf Pack,Western Kentucky Hilltoppers,moneyline,fanduel,118,-142,,,
-2026-08-15T17:04:54,2026-09-06,NCAAF,Nevada Wolf Pack,Western Kentucky Hilltoppers,spread,fanduel,-102,-120,,,
-2026-08-15T17:04:54,2026-09-06,NCAAF,Nevada Wolf Pack,Western Kentucky Hilltoppers,total,fanduel,,,-115,-105,52.5
-2026-08-15T17:04:54,2026-09-06,NCAAF,Nevada Wolf Pack,Western Kentucky Hilltoppers,spread,betmgm,-105,-115,,,
-2026-08-15T17:04:54,2026-09-06,NCAAF,Nevada Wolf Pack,Western Kentucky Hilltoppers,total,betmgm,,,-115,-105,52.5
+2026-08-16T00:00:06,2026-09-06,NCAAF,Nevada Wolf Pack,Western Kentucky Hilltoppers,moneyline,fanduel,118,-142,,,
+2026-08-16T00:00:06,2026-09-06,NCAAF,Nevada Wolf Pack,Western Kentucky Hilltoppers,spread,fanduel,-102,-120,,,
+2026-08-16T00:00:06,2026-09-06,NCAAF,Nevada Wolf Pack,Western Kentucky Hilltoppers,total,fanduel,,,-115,-105,52.5
+2026-08-16T00:00:06,2026-09-06,NCAAF,Nevada Wolf Pack,Western Kentucky Hilltoppers,spread,betmgm,-105,-115,,,
+2026-08-16T00:00:06,2026-09-06,NCAAF,Nevada Wolf Pack,Western Kentucky Hilltoppers,total,betmgm,,,-115,-105,52.5
 2026-08-10T00:38:29,2026-09-06,NCAAF,Washington Huskies,Washington State Cougars,moneyline,draftkings,-3200,1400,,,
 2026-08-10T00:38:29,2026-09-06,NCAAF,Washington Huskies,Washington State Cougars,spread,draftkings,-105,-115,,,
 2026-08-10T00:38:29,2026-09-06,NCAAF,Washington Huskies,Washington State Cougars,total,draftkings,,,-108,-112,50.5
-2026-08-15T17:04:54,2026-09-06,NCAAF,Washington Huskies,Washington State Cougars,moneyline,fanduel,-3000,1200,,,
-2026-08-15T17:04:54,2026-09-06,NCAAF,Washington Huskies,Washington State Cougars,spread,fanduel,-110,-110,,,
-2026-08-15T17:04:54,2026-09-06,NCAAF,Washington Huskies,Washington State Cougars,total,fanduel,,,-115,-105,50.5
-2026-08-15T17:04:54,2026-09-06,NCAAF,Washington Huskies,Washington State Cougars,spread,betmgm,-115,-105,,,
-2026-08-15T17:04:54,2026-09-06,NCAAF,Washington Huskies,Washington State Cougars,total,betmgm,,,-110,-110,50.5
+2026-08-16T00:00:06,2026-09-06,NCAAF,Washington Huskies,Washington State Cougars,moneyline,fanduel,-3000,1200,,,
+2026-08-16T00:00:06,2026-09-06,NCAAF,Washington Huskies,Washington State Cougars,spread,fanduel,-110,-110,,,
+2026-08-16T00:00:06,2026-09-06,NCAAF,Washington Huskies,Washington State Cougars,total,fanduel,,,-115,-105,50.5
+2026-08-16T00:00:06,2026-09-06,NCAAF,Washington Huskies,Washington State Cougars,spread,betmgm,-115,-105,,,
+2026-08-16T00:00:06,2026-09-06,NCAAF,Washington Huskies,Washington State Cougars,total,betmgm,,,-110,-110,50.5
 2026-08-10T00:38:29,2026-09-06,NCAAF,Ole Miss Rebels,Louisville Cardinals,moneyline,draftkings,-265,215,,,
 2026-08-10T00:38:29,2026-09-06,NCAAF,Ole Miss Rebels,Louisville Cardinals,spread,draftkings,-118,-102,,,
 2026-08-10T00:38:29,2026-09-06,NCAAF,Ole Miss Rebels,Louisville Cardinals,total,draftkings,,,-105,-115,55.5
-2026-08-15T17:04:54,2026-09-06,NCAAF,Ole Miss Rebels,Louisville Cardinals,moneyline,fanduel,-250,202,,,
-2026-08-15T17:04:54,2026-09-06,NCAAF,Ole Miss Rebels,Louisville Cardinals,spread,fanduel,-115,-105,,,
-2026-08-15T17:04:54,2026-09-06,NCAAF,Ole Miss Rebels,Louisville Cardinals,total,fanduel,,,-115,-105,55.5
-2026-08-15T17:04:54,2026-09-06,NCAAF,Notre Dame Fighting Irish,Wisconsin Badgers,moneyline,fanduel,-2000,980,,,
-2026-08-15T17:04:54,2026-09-06,NCAAF,Notre Dame Fighting Irish,Wisconsin Badgers,spread,fanduel,-110,-110,,,
-2026-08-15T17:04:54,2026-09-06,NCAAF,Notre Dame Fighting Irish,Wisconsin Badgers,total,fanduel,,,-115,-105,47.5
+2026-08-16T00:00:06,2026-09-06,NCAAF,Ole Miss Rebels,Louisville Cardinals,moneyline,fanduel,-250,202,,,
+2026-08-16T00:00:06,2026-09-06,NCAAF,Ole Miss Rebels,Louisville Cardinals,spread,fanduel,-115,-105,,,
+2026-08-16T00:00:06,2026-09-06,NCAAF,Ole Miss Rebels,Louisville Cardinals,total,fanduel,,,-115,-105,55.5
+2026-08-16T00:00:06,2026-09-06,NCAAF,Notre Dame Fighting Irish,Wisconsin Badgers,moneyline,fanduel,-2000,980,,,
+2026-08-16T00:00:06,2026-09-06,NCAAF,Notre Dame Fighting Irish,Wisconsin Badgers,spread,fanduel,-110,-110,,,
+2026-08-16T00:00:06,2026-09-06,NCAAF,Notre Dame Fighting Irish,Wisconsin Badgers,total,fanduel,,,-115,-105,47.5
 2026-08-10T00:38:29,2026-09-06,NCAAF,Notre Dame Fighting Irish,Wisconsin Badgers,moneyline,draftkings,-1800,1000,,,
 2026-08-10T00:38:29,2026-09-06,NCAAF,Notre Dame Fighting Irish,Wisconsin Badgers,spread,draftkings,-112,-108,,,
 2026-08-10T00:38:29,2026-09-06,NCAAF,Notre Dame Fighting Irish,Wisconsin Badgers,total,draftkings,,,-115,-105,47.5
 2026-08-10T00:38:29,2026-09-07,NCAAF,Florida State Seminoles,SMU Mustangs,moneyline,draftkings,110,-130,,,
 2026-08-10T00:38:29,2026-09-07,NCAAF,Florida State Seminoles,SMU Mustangs,spread,draftkings,-105,-115,,,
 2026-08-10T00:38:29,2026-09-07,NCAAF,Florida State Seminoles,SMU Mustangs,total,draftkings,,,-108,-112,53.5
-2026-08-15T17:04:54,2026-09-07,NCAAF,Florida State Seminoles,SMU Mustangs,moneyline,fanduel,106,-128,,,
-2026-08-15T17:04:54,2026-09-07,NCAAF,Florida State Seminoles,SMU Mustangs,spread,fanduel,-110,-110,,,
-2026-08-15T17:04:54,2026-09-07,NCAAF,Florida State Seminoles,SMU Mustangs,total,fanduel,,,-110,-110,53.5
-2026-08-15T17:04:54,2026-09-12,NCAAF,Kansas Jayhawks,Missouri Tigers,moneyline,fanduel,190,-235,,,
-2026-08-15T17:04:54,2026-09-12,NCAAF,Kansas Jayhawks,Missouri Tigers,spread,fanduel,-108,-112,,,
-2026-08-15T17:04:54,2026-09-12,NCAAF,Kansas Jayhawks,Missouri Tigers,total,fanduel,,,-110,-110,51.5
+2026-08-16T00:00:06,2026-09-07,NCAAF,Florida State Seminoles,SMU Mustangs,moneyline,fanduel,106,-128,,,
+2026-08-16T00:00:06,2026-09-07,NCAAF,Florida State Seminoles,SMU Mustangs,spread,fanduel,-110,-110,,,
+2026-08-16T00:00:06,2026-09-07,NCAAF,Florida State Seminoles,SMU Mustangs,total,fanduel,,,-110,-110,53.5
+2026-08-16T00:00:06,2026-09-12,NCAAF,Kansas Jayhawks,Missouri Tigers,moneyline,fanduel,190,-235,,,
+2026-08-16T00:00:06,2026-09-12,NCAAF,Kansas Jayhawks,Missouri Tigers,spread,fanduel,-108,-112,,,
+2026-08-16T00:00:06,2026-09-12,NCAAF,Kansas Jayhawks,Missouri Tigers,total,fanduel,,,-110,-110,51.5
 2026-08-10T00:38:29,2026-09-12,NCAAF,Kansas Jayhawks,Missouri Tigers,moneyline,draftkings,195,-238,,,
 2026-08-10T00:38:29,2026-09-12,NCAAF,Kansas Jayhawks,Missouri Tigers,spread,draftkings,-108,-112,,,
 2026-08-10T00:38:29,2026-09-12,NCAAF,Kansas Jayhawks,Missouri Tigers,total,draftkings,,,-112,-108,52.5
 2026-08-10T00:38:29,2026-09-12,NCAAF,Texas A&M Aggies,Arizona State Sun Devils,moneyline,draftkings,-650,470,,,
 2026-08-10T00:38:29,2026-09-12,NCAAF,Texas A&M Aggies,Arizona State Sun Devils,spread,draftkings,-112,-108,,,
 2026-08-10T00:38:29,2026-09-12,NCAAF,Texas A&M Aggies,Arizona State Sun Devils,total,draftkings,,,-110,-110,51.5
-2026-08-15T17:04:54,2026-09-12,NCAAF,Michigan Wolverines,Oklahoma Sooners,moneyline,fanduel,-113,-106,,,
-2026-08-15T17:04:54,2026-09-12,NCAAF,Michigan Wolverines,Oklahoma Sooners,spread,fanduel,-106,-114,,,
-2026-08-15T17:04:54,2026-09-12,NCAAF,Michigan Wolverines,Oklahoma Sooners,total,fanduel,,,-114,-106,45.5
+2026-08-16T00:00:06,2026-09-12,NCAAF,Michigan Wolverines,Oklahoma Sooners,moneyline,fanduel,-113,-106,,,
+2026-08-16T00:00:06,2026-09-12,NCAAF,Michigan Wolverines,Oklahoma Sooners,spread,fanduel,-106,-114,,,
+2026-08-16T00:00:06,2026-09-12,NCAAF,Michigan Wolverines,Oklahoma Sooners,total,fanduel,,,-114,-106,45.5
 2026-08-10T00:38:29,2026-09-12,NCAAF,Michigan Wolverines,Oklahoma Sooners,moneyline,draftkings,-130,110,,,
 2026-08-10T00:38:29,2026-09-12,NCAAF,Michigan Wolverines,Oklahoma Sooners,spread,draftkings,-112,-108,,,
 2026-08-10T00:38:29,2026-09-12,NCAAF,Michigan Wolverines,Oklahoma Sooners,total,draftkings,,,-108,-112,46.5
-2026-08-15T17:04:54,2026-09-12,NCAAF,Oklahoma State Cowboys,Oregon Ducks,moneyline,fanduel,580,-880,,,
-2026-08-15T17:04:54,2026-09-12,NCAAF,Oklahoma State Cowboys,Oregon Ducks,spread,fanduel,-115,-105,,,
-2026-08-15T17:04:54,2026-09-12,NCAAF,Oklahoma State Cowboys,Oregon Ducks,total,fanduel,,,-110,-110,60.5
+2026-08-16T00:00:06,2026-09-12,NCAAF,Oklahoma State Cowboys,Oregon Ducks,moneyline,fanduel,580,-880,,,
+2026-08-16T00:00:06,2026-09-12,NCAAF,Oklahoma State Cowboys,Oregon Ducks,spread,fanduel,-115,-105,,,
+2026-08-16T00:00:06,2026-09-12,NCAAF,Oklahoma State Cowboys,Oregon Ducks,total,fanduel,,,-110,-110,60.5
 2026-08-10T00:38:29,2026-09-12,NCAAF,Oklahoma State Cowboys,Oregon Ducks,moneyline,draftkings,675,-1050,,,
 2026-08-10T00:38:29,2026-09-12,NCAAF,Oklahoma State Cowboys,Oregon Ducks,spread,draftkings,-108,-112,,,
 2026-08-10T00:38:29,2026-09-12,NCAAF,Oklahoma State Cowboys,Oregon Ducks,total,draftkings,,,-112,-108,60.5
-2026-08-15T17:04:54,2026-09-12,NCAAF,Iowa Hawkeyes,Iowa State Cyclones,moneyline,fanduel,-610,440,,,
-2026-08-15T17:04:54,2026-09-12,NCAAF,Iowa Hawkeyes,Iowa State Cyclones,spread,fanduel,-122,100,,,
-2026-08-15T17:04:54,2026-09-12,NCAAF,Iowa Hawkeyes,Iowa State Cyclones,total,fanduel,,,-105,-115,41.5
+2026-08-16T00:00:06,2026-09-12,NCAAF,Iowa Hawkeyes,Iowa State Cyclones,moneyline,fanduel,-610,440,,,
+2026-08-16T00:00:06,2026-09-12,NCAAF,Iowa Hawkeyes,Iowa State Cyclones,spread,fanduel,-122,100,,,
+2026-08-16T00:00:06,2026-09-12,NCAAF,Iowa Hawkeyes,Iowa State Cyclones,total,fanduel,,,-105,-115,41.5
 2026-08-10T00:38:29,2026-09-12,NCAAF,Iowa Hawkeyes,Iowa State Cyclones,moneyline,draftkings,-650,470,,,
 2026-08-10T00:38:29,2026-09-12,NCAAF,Iowa Hawkeyes,Iowa State Cyclones,spread,draftkings,-108,-112,,,
 2026-08-10T00:38:29,2026-09-12,NCAAF,Iowa Hawkeyes,Iowa State Cyclones,total,draftkings,,,-112,-108,41.5
-2026-08-15T17:04:54,2026-09-12,NCAAF,Texas Longhorns,Ohio State Buckeyes,moneyline,fanduel,-122,102,,,
-2026-08-15T17:04:54,2026-09-12,NCAAF,Texas Longhorns,Ohio State Buckeyes,spread,fanduel,-112,-108,,,
-2026-08-15T17:04:54,2026-09-12,NCAAF,Texas Longhorns,Ohio State Buckeyes,total,fanduel,,,-115,-105,47.5
+2026-08-16T00:00:06,2026-09-12,NCAAF,Texas Longhorns,Ohio State Buckeyes,moneyline,fanduel,-122,102,,,
+2026-08-16T00:00:06,2026-09-12,NCAAF,Texas Longhorns,Ohio State Buckeyes,spread,fanduel,-112,-108,,,
+2026-08-16T00:00:06,2026-09-12,NCAAF,Texas Longhorns,Ohio State Buckeyes,total,fanduel,,,-115,-105,47.5
 2026-08-10T00:38:29,2026-09-12,NCAAF,Texas Longhorns,Ohio State Buckeyes,moneyline,draftkings,-112,-108,,,
 2026-08-10T00:38:29,2026-09-12,NCAAF,Texas Longhorns,Ohio State Buckeyes,spread,draftkings,-105,-115,,,
 2026-08-10T00:38:29,2026-09-12,NCAAF,Texas Longhorns,Ohio State Buckeyes,total,draftkings,,,-115,-105,47.5
@@ -3453,9 +3453,9 @@ captured_at,date,sport,home_team,away_team,market,book,home_odds,away_odds,over_
 2026-08-10T00:38:29,2026-09-13,NCAAF,Utah Utes,Arkansas Razorbacks,moneyline,fanduel,-320,255,,,
 2026-08-10T00:38:29,2026-09-13,NCAAF,Utah Utes,Arkansas Razorbacks,spread,fanduel,-115,-105,,,
 2026-08-10T00:38:29,2026-09-13,NCAAF,Utah Utes,Arkansas Razorbacks,total,fanduel,,,-110,-110,55.5
-2026-08-15T17:04:54,2026-09-19,NCAAF,Arkansas Razorbacks,Georgia Bulldogs,moneyline,fanduel,580,-880,,,
-2026-08-15T17:04:54,2026-09-19,NCAAF,Arkansas Razorbacks,Georgia Bulldogs,spread,fanduel,-110,-110,,,
-2026-08-15T17:04:54,2026-09-19,NCAAF,Arkansas Razorbacks,Georgia Bulldogs,total,fanduel,,,-110,-110,55.5
+2026-08-16T00:00:06,2026-09-19,NCAAF,Arkansas Razorbacks,Georgia Bulldogs,moneyline,fanduel,580,-880,,,
+2026-08-16T00:00:06,2026-09-19,NCAAF,Arkansas Razorbacks,Georgia Bulldogs,spread,fanduel,-110,-110,,,
+2026-08-16T00:00:06,2026-09-19,NCAAF,Arkansas Razorbacks,Georgia Bulldogs,total,fanduel,,,-110,-110,55.5
 2026-08-10T00:38:29,2026-09-19,NCAAF,Alabama Crimson Tide,Florida State Seminoles,moneyline,draftkings,-650,470,,,
 2026-08-10T00:38:29,2026-09-19,NCAAF,Alabama Crimson Tide,Florida State Seminoles,spread,draftkings,-110,-110,,,
 2026-08-10T00:38:29,2026-09-19,NCAAF,Alabama Crimson Tide,Florida State Seminoles,total,draftkings,,,-110,-110,52.5
@@ -3465,9 +3465,9 @@ captured_at,date,sport,home_team,away_team,market,book,home_odds,away_odds,over_
 2026-08-10T00:38:29,2026-09-19,NCAAF,Auburn Tigers,Florida Gators,moneyline,draftkings,-110,-110,,,
 2026-08-10T00:38:29,2026-09-19,NCAAF,Auburn Tigers,Florida Gators,spread,draftkings,-105,-115,,,
 2026-08-10T00:38:29,2026-09-19,NCAAF,Auburn Tigers,Florida Gators,total,draftkings,,,-112,-108,53.5
-2026-08-15T17:04:54,2026-09-19,NCAAF,Ole Miss Rebels,LSU Tigers,moneyline,fanduel,-130,108,,,
-2026-08-15T17:04:54,2026-09-19,NCAAF,Ole Miss Rebels,LSU Tigers,spread,fanduel,-110,-110,,,
-2026-08-15T17:04:54,2026-09-19,NCAAF,Ole Miss Rebels,LSU Tigers,total,fanduel,,,-110,-110,57.5
+2026-08-16T00:00:06,2026-09-19,NCAAF,Ole Miss Rebels,LSU Tigers,moneyline,fanduel,-130,108,,,
+2026-08-16T00:00:06,2026-09-19,NCAAF,Ole Miss Rebels,LSU Tigers,spread,fanduel,-110,-110,,,
+2026-08-16T00:00:06,2026-09-19,NCAAF,Ole Miss Rebels,LSU Tigers,total,fanduel,,,-110,-110,57.5
 2026-08-10T00:38:29,2026-09-19,NCAAF,Ole Miss Rebels,LSU Tigers,moneyline,draftkings,-125,105,,,
 2026-08-10T00:38:29,2026-09-19,NCAAF,Ole Miss Rebels,LSU Tigers,spread,draftkings,-115,-105,,,
 2026-08-10T00:38:29,2026-09-19,NCAAF,Ole Miss Rebels,LSU Tigers,total,draftkings,,,-108,-112,57.5
@@ -3516,15 +3516,15 @@ captured_at,date,sport,home_team,away_team,market,book,home_odds,away_odds,over_
 2026-08-10T00:38:29,2026-10-17,NCAAF,BYU Cougars,Notre Dame Fighting Irish,moneyline,draftkings,330,-425,,,
 2026-08-10T00:38:29,2026-10-17,NCAAF,BYU Cougars,Notre Dame Fighting Irish,spread,draftkings,-108,-112,,,
 2026-08-10T00:38:29,2026-10-17,NCAAF,BYU Cougars,Notre Dame Fighting Irish,total,draftkings,,,-112,-108,54.5
-2026-08-15T17:04:54,2026-10-17,NCAAF,Indiana Hoosiers,Ohio State Buckeyes,moneyline,fanduel,-102,-118,,,
-2026-08-15T17:04:54,2026-10-17,NCAAF,Indiana Hoosiers,Ohio State Buckeyes,spread,fanduel,-110,-110,,,
-2026-08-15T17:04:54,2026-10-17,NCAAF,Indiana Hoosiers,Ohio State Buckeyes,total,fanduel,,,-115,-105,48.5
-2026-08-15T17:04:54,2026-11-08,NCAAF,Notre Dame Fighting Irish,Miami Hurricanes,moneyline,fanduel,-220,180,,,
-2026-08-15T17:04:54,2026-11-08,NCAAF,Notre Dame Fighting Irish,Miami Hurricanes,spread,fanduel,-115,-105,,,
-2026-08-15T17:04:54,2026-11-08,NCAAF,Notre Dame Fighting Irish,Miami Hurricanes,total,fanduel,,,-115,-105,55.5
-2026-08-15T17:04:54,2026-11-28,NCAAF,Ohio State Buckeyes,Michigan Wolverines,moneyline,fanduel,-480,360,,,
-2026-08-15T17:04:54,2026-11-28,NCAAF,Ohio State Buckeyes,Michigan Wolverines,spread,fanduel,-110,-110,,,
-2026-08-15T17:04:54,2026-11-28,NCAAF,Ohio State Buckeyes,Michigan Wolverines,total,fanduel,,,-110,-110,45.5
+2026-08-16T00:00:06,2026-10-17,NCAAF,Indiana Hoosiers,Ohio State Buckeyes,moneyline,fanduel,-102,-118,,,
+2026-08-16T00:00:06,2026-10-17,NCAAF,Indiana Hoosiers,Ohio State Buckeyes,spread,fanduel,-110,-110,,,
+2026-08-16T00:00:06,2026-10-17,NCAAF,Indiana Hoosiers,Ohio State Buckeyes,total,fanduel,,,-115,-105,48.5
+2026-08-16T00:00:06,2026-11-08,NCAAF,Notre Dame Fighting Irish,Miami Hurricanes,moneyline,fanduel,-220,180,,,
+2026-08-16T00:00:06,2026-11-08,NCAAF,Notre Dame Fighting Irish,Miami Hurricanes,spread,fanduel,-115,-105,,,
+2026-08-16T00:00:06,2026-11-08,NCAAF,Notre Dame Fighting Irish,Miami Hurricanes,total,fanduel,,,-115,-105,55.5
+2026-08-16T00:00:06,2026-11-28,NCAAF,Ohio State Buckeyes,Michigan Wolverines,moneyline,fanduel,-480,360,,,
+2026-08-16T00:00:06,2026-11-28,NCAAF,Ohio State Buckeyes,Michigan Wolverines,spread,fanduel,-110,-110,,,
+2026-08-16T00:00:06,2026-11-28,NCAAF,Ohio State Buckeyes,Michigan Wolverines,total,fanduel,,,-110,-110,45.5
 2026-08-02T17:45:56,2026-08-02,MLB,San Diego Padres,San Francisco Giants,moneyline,draftkings,-130,108,,,
 2026-08-02T17:45:56,2026-08-02,MLB,San Diego Padres,San Francisco Giants,spread,draftkings,160,-195,,,
 2026-08-02T17:45:56,2026-08-02,MLB,San Diego Padres,San Francisco Giants,total,draftkings,,,-112,-107,8.0
@@ -3689,46 +3689,46 @@ captured_at,date,sport,home_team,away_team,market,book,home_odds,away_odds,over_
 2026-08-04T01:09:56,2026-08-04,MLB,Arizona Diamondbacks,San Diego Padres,moneyline,betmgm,-110,-110,,,
 2026-08-04T01:09:56,2026-08-04,MLB,Arizona Diamondbacks,San Diego Padres,spread,betmgm,-190,154,,,
 2026-08-04T01:09:56,2026-08-04,MLB,Arizona Diamondbacks,San Diego Padres,total,betmgm,,,-115,-105,8.5
-2026-08-15T17:04:54,2026-08-29,NCAAF,TCU Horned Frogs,North Carolina Tar Heels,moneyline,betmgm,-300,250,,,
-2026-08-15T17:04:54,2026-08-29,NCAAF,Virginia Cavaliers,NC State Wolfpack,moneyline,betmgm,-210,170,,,
-2026-08-15T17:04:54,2026-08-29,NCAAF,North Dakota State Bison,Jacksonville State Gamecocks,moneyline,betmgm,-275,220,,,
-2026-08-15T17:04:54,2026-08-29,NCAAF,Eastern Michigan Eagles,Sacramento State Hornets,moneyline,betmgm,-325,260,,,
-2026-08-15T17:04:54,2026-08-29,NCAAF,Florida State Seminoles,New Mexico State Aggies,moneyline,betmgm,-10000,1800,,,
-2026-08-15T17:04:54,2026-08-29,NCAAF,Stanford Cardinal,Hawaii Rainbow Warriors,moneyline,betmgm,-220,180,,,
-2026-08-15T17:04:54,2026-08-30,NCAAF,UNLV Rebels,Memphis Tigers,moneyline,betmgm,-220,180,,,
-2026-08-15T17:04:54,2026-09-03,NCAAF,Wake Forest Demon Deacons,Akron Zips,moneyline,betmgm,-3000,1200,,,
-2026-08-15T17:04:54,2026-09-04,NCAAF,Georgia Tech Yellow Jackets,Colorado Buffaloes,moneyline,betmgm,-275,220,,,
-2026-08-15T17:04:54,2026-09-04,NCAAF,Illinois Fighting Illini,UAB Blazers,moneyline,betmgm,-10000,1800,,,
-2026-08-15T17:04:54,2026-09-04,NCAAF,Eastern Michigan Eagles,San Jose State Spartans,moneyline,betmgm,-200,165,,,
-2026-08-15T17:04:54,2026-09-05,NCAAF,Michigan State Spartans,Toledo Rockets,moneyline,betmgm,-450,350,,,
-2026-08-15T17:04:54,2026-09-05,NCAAF,USC Trojans,Fresno State Bulldogs,moneyline,betmgm,-3000,1200,,,
-2026-08-15T17:04:54,2026-09-05,NCAAF,Stanford Cardinal,Miami Hurricanes,moneyline,betmgm,1200,-3000,,,
-2026-08-15T17:04:54,2026-09-05,NCAAF,West Virginia Mountaineers,Coastal Carolina Chanticleers,moneyline,betmgm,-2000,1000,,,
-2026-08-15T17:04:54,2026-09-05,NCAAF,Houston Cougars,Oregon State Beavers,moneyline,betmgm,-1400,800,,,
-2026-08-15T17:04:54,2026-09-05,NCAAF,James Madison Dukes,Liberty Flames,moneyline,betmgm,-250,200,,,
-2026-08-15T17:04:54,2026-09-05,NCAAF,Pittsburgh Panthers,Miami (OH) RedHawks,moneyline,betmgm,-800,575,,,
-2026-08-15T17:04:54,2026-09-05,NCAAF,Nebraska Cornhuskers,Ohio Bobcats,moneyline,betmgm,-3000,1200,,,
-2026-08-15T17:04:54,2026-09-05,NCAAF,Auburn Tigers,Baylor Bears,moneyline,betmgm,-300,240,,,
-2026-08-15T17:04:54,2026-09-05,NCAAF,Oregon Ducks,Boise State Broncos,moneyline,betmgm,-3000,1200,,,
-2026-08-15T17:04:54,2026-09-05,NCAAF,Cincinnati Bearcats,Boston College Eagles,moneyline,betmgm,-275,220,,,
-2026-08-15T17:04:54,2026-09-05,NCAAF,Duke Blue Devils,Tulane Green Wave,moneyline,betmgm,-425,320,,,
-2026-08-15T17:04:54,2026-09-05,NCAAF,Penn State Nittany Lions,Marshall Thundering Herd,moneyline,betmgm,-3000,1200,,,
-2026-08-15T17:04:54,2026-09-05,NCAAF,Tulsa Golden Hurricane,Oklahoma State Cowboys,moneyline,betmgm,425,-600,,,
-2026-08-15T17:04:54,2026-09-05,NCAAF,Colorado State Rams,Wyoming Cowboys,moneyline,betmgm,-185,150,,,
-2026-08-15T17:04:54,2026-09-05,NCAAF,Memphis Tigers,Arkansas State Red Wolves,moneyline,betmgm,-375,290,,,
-2026-08-15T17:04:54,2026-09-05,NCAAF,South Florida Bulls,Florida International Panthers,moneyline,betmgm,-550,400,,,
-2026-08-15T17:04:54,2026-09-05,NCAAF,Michigan Wolverines,Western Michigan Broncos,moneyline,betmgm,-10000,1800,,,
-2026-08-15T17:04:54,2026-09-05,NCAAF,Troy Trojans,Sam Houston State Bearkats,moneyline,betmgm,-800,550,,,
-2026-08-15T17:04:54,2026-09-05,NCAAF,LSU Tigers,Clemson Tigers,moneyline,betmgm,-400,310,,,
-2026-08-15T17:04:54,2026-09-05,NCAAF,Florida Gators,Florida Atlantic Owls,moneyline,betmgm,-3000,1200,,,
-2026-08-15T17:04:54,2026-09-06,NCAAF,Hawaii Rainbow Warriors,UNLV Rebels,moneyline,betmgm,120,-145,,,
-2026-08-15T17:04:54,2026-09-06,NCAAF,New Mexico Lobos,Central Michigan Chippewas,moneyline,betmgm,-550,400,,,
-2026-08-15T17:04:54,2026-09-06,NCAAF,California Golden Bears,UCLA Bruins,moneyline,betmgm,-115,-105,,,
-2026-08-15T17:04:54,2026-09-06,NCAAF,Nevada Wolf Pack,Western Kentucky Hilltoppers,moneyline,betmgm,120,-145,,,
-2026-08-15T17:04:54,2026-09-06,NCAAF,Washington Huskies,Washington State Cougars,moneyline,betmgm,-2000,1000,,,
-2026-08-15T17:04:54,2026-09-06,NCAAF,Ole Miss Rebels,Louisville Cardinals,moneyline,betmgm,-250,200,,,
-2026-08-15T17:04:54,2026-09-06,NCAAF,Ole Miss Rebels,Louisville Cardinals,spread,betmgm,-110,-110,,,
-2026-08-15T17:04:54,2026-09-06,NCAAF,Ole Miss Rebels,Louisville Cardinals,total,betmgm,,,-110,-110,55.5
+2026-08-16T00:00:06,2026-08-29,NCAAF,TCU Horned Frogs,North Carolina Tar Heels,moneyline,betmgm,-300,250,,,
+2026-08-16T00:00:06,2026-08-29,NCAAF,Virginia Cavaliers,NC State Wolfpack,moneyline,betmgm,-210,170,,,
+2026-08-16T00:00:06,2026-08-29,NCAAF,North Dakota State Bison,Jacksonville State Gamecocks,moneyline,betmgm,-275,220,,,
+2026-08-16T00:00:06,2026-08-29,NCAAF,Eastern Michigan Eagles,Sacramento State Hornets,moneyline,betmgm,-325,260,,,
+2026-08-16T00:00:06,2026-08-29,NCAAF,Florida State Seminoles,New Mexico State Aggies,moneyline,betmgm,-10000,1800,,,
+2026-08-16T00:00:06,2026-08-29,NCAAF,Stanford Cardinal,Hawaii Rainbow Warriors,moneyline,betmgm,-220,180,,,
+2026-08-16T00:00:06,2026-08-30,NCAAF,UNLV Rebels,Memphis Tigers,moneyline,betmgm,-220,180,,,
+2026-08-16T00:00:06,2026-09-03,NCAAF,Wake Forest Demon Deacons,Akron Zips,moneyline,betmgm,-3000,1200,,,
+2026-08-16T00:00:06,2026-09-04,NCAAF,Georgia Tech Yellow Jackets,Colorado Buffaloes,moneyline,betmgm,-275,220,,,
+2026-08-16T00:00:06,2026-09-04,NCAAF,Illinois Fighting Illini,UAB Blazers,moneyline,betmgm,-10000,1800,,,
+2026-08-16T00:00:06,2026-09-04,NCAAF,Eastern Michigan Eagles,San Jose State Spartans,moneyline,betmgm,-200,165,,,
+2026-08-16T00:00:06,2026-09-05,NCAAF,Michigan State Spartans,Toledo Rockets,moneyline,betmgm,-450,350,,,
+2026-08-16T00:00:06,2026-09-05,NCAAF,USC Trojans,Fresno State Bulldogs,moneyline,betmgm,-3000,1200,,,
+2026-08-16T00:00:06,2026-09-05,NCAAF,Stanford Cardinal,Miami Hurricanes,moneyline,betmgm,1200,-3000,,,
+2026-08-16T00:00:06,2026-09-05,NCAAF,West Virginia Mountaineers,Coastal Carolina Chanticleers,moneyline,betmgm,-2000,1000,,,
+2026-08-16T00:00:06,2026-09-05,NCAAF,Houston Cougars,Oregon State Beavers,moneyline,betmgm,-1400,800,,,
+2026-08-16T00:00:06,2026-09-05,NCAAF,James Madison Dukes,Liberty Flames,moneyline,betmgm,-250,200,,,
+2026-08-16T00:00:06,2026-09-05,NCAAF,Pittsburgh Panthers,Miami (OH) RedHawks,moneyline,betmgm,-800,575,,,
+2026-08-16T00:00:06,2026-09-05,NCAAF,Nebraska Cornhuskers,Ohio Bobcats,moneyline,betmgm,-3000,1200,,,
+2026-08-16T00:00:06,2026-09-05,NCAAF,Auburn Tigers,Baylor Bears,moneyline,betmgm,-300,240,,,
+2026-08-16T00:00:06,2026-09-05,NCAAF,Oregon Ducks,Boise State Broncos,moneyline,betmgm,-3000,1200,,,
+2026-08-16T00:00:06,2026-09-05,NCAAF,Cincinnati Bearcats,Boston College Eagles,moneyline,betmgm,-275,220,,,
+2026-08-16T00:00:06,2026-09-05,NCAAF,Duke Blue Devils,Tulane Green Wave,moneyline,betmgm,-425,320,,,
+2026-08-16T00:00:06,2026-09-05,NCAAF,Penn State Nittany Lions,Marshall Thundering Herd,moneyline,betmgm,-3000,1200,,,
+2026-08-16T00:00:06,2026-09-05,NCAAF,Tulsa Golden Hurricane,Oklahoma State Cowboys,moneyline,betmgm,425,-600,,,
+2026-08-16T00:00:06,2026-09-05,NCAAF,Colorado State Rams,Wyoming Cowboys,moneyline,betmgm,-185,150,,,
+2026-08-16T00:00:06,2026-09-05,NCAAF,Memphis Tigers,Arkansas State Red Wolves,moneyline,betmgm,-375,290,,,
+2026-08-16T00:00:06,2026-09-05,NCAAF,South Florida Bulls,Florida International Panthers,moneyline,betmgm,-550,400,,,
+2026-08-16T00:00:06,2026-09-05,NCAAF,Michigan Wolverines,Western Michigan Broncos,moneyline,betmgm,-10000,1800,,,
+2026-08-16T00:00:06,2026-09-05,NCAAF,Troy Trojans,Sam Houston State Bearkats,moneyline,betmgm,-800,550,,,
+2026-08-16T00:00:06,2026-09-05,NCAAF,LSU Tigers,Clemson Tigers,moneyline,betmgm,-400,310,,,
+2026-08-16T00:00:06,2026-09-05,NCAAF,Florida Gators,Florida Atlantic Owls,moneyline,betmgm,-3000,1200,,,
+2026-08-16T00:00:06,2026-09-06,NCAAF,Hawaii Rainbow Warriors,UNLV Rebels,moneyline,betmgm,120,-145,,,
+2026-08-16T00:00:06,2026-09-06,NCAAF,New Mexico Lobos,Central Michigan Chippewas,moneyline,betmgm,-550,400,,,
+2026-08-16T00:00:06,2026-09-06,NCAAF,California Golden Bears,UCLA Bruins,moneyline,betmgm,-115,-105,,,
+2026-08-16T00:00:06,2026-09-06,NCAAF,Nevada Wolf Pack,Western Kentucky Hilltoppers,moneyline,betmgm,120,-145,,,
+2026-08-16T00:00:06,2026-09-06,NCAAF,Washington Huskies,Washington State Cougars,moneyline,betmgm,-2000,1000,,,
+2026-08-16T00:00:06,2026-09-06,NCAAF,Ole Miss Rebels,Louisville Cardinals,moneyline,betmgm,-250,200,,,
+2026-08-16T00:00:06,2026-09-06,NCAAF,Ole Miss Rebels,Louisville Cardinals,spread,betmgm,-110,-110,,,
+2026-08-16T00:00:06,2026-09-06,NCAAF,Ole Miss Rebels,Louisville Cardinals,total,betmgm,,,-110,-110,55.5
 2026-08-04T01:09:56,2026-08-03,MLB,Philadelphia Phillies,Washington Nationals,moneyline,betmgm,-10000,3300,,,
 2026-08-04T01:09:56,2026-08-03,MLB,Philadelphia Phillies,Washington Nationals,spread,betmgm,-500,340,,,
 2026-08-04T01:09:56,2026-08-03,MLB,Philadelphia Phillies,Washington Nationals,total,betmgm,,,190,-250,9.5
@@ -3836,9 +3836,9 @@ captured_at,date,sport,home_team,away_team,market,book,home_odds,away_odds,over_
 2026-08-05T01:09:39,2026-08-05,MLB,Seattle Mariners,Detroit Tigers,moneyline,fanduel,-120,110,,,
 2026-08-05T01:09:39,2026-08-05,MLB,Seattle Mariners,Detroit Tigers,spread,fanduel,-200,164,,,
 2026-08-05T01:09:39,2026-08-05,MLB,Seattle Mariners,Detroit Tigers,total,fanduel,,,-124,102,7.5
-2026-08-15T17:04:54,2026-09-06,NCAAF,Notre Dame Fighting Irish,Wisconsin Badgers,moneyline,betmgm,-2000,1000,,,
-2026-08-15T17:04:54,2026-09-06,NCAAF,Notre Dame Fighting Irish,Wisconsin Badgers,spread,betmgm,-110,-110,,,
-2026-08-15T17:04:54,2026-09-06,NCAAF,Notre Dame Fighting Irish,Wisconsin Badgers,total,betmgm,,,-115,-105,47.5
+2026-08-16T00:00:06,2026-09-06,NCAAF,Notre Dame Fighting Irish,Wisconsin Badgers,moneyline,betmgm,-2000,1000,,,
+2026-08-16T00:00:06,2026-09-06,NCAAF,Notre Dame Fighting Irish,Wisconsin Badgers,spread,betmgm,-110,-110,,,
+2026-08-16T00:00:06,2026-09-06,NCAAF,Notre Dame Fighting Irish,Wisconsin Badgers,total,betmgm,,,-115,-105,47.5
 2026-08-05T01:09:39,2026-08-04,MLB,New York Yankees,St. Louis Cardinals,moneyline,betmgm,-1200,700,,,
 2026-08-05T01:09:39,2026-08-04,MLB,New York Yankees,St. Louis Cardinals,spread,betmgm,-275,210,,,
 2026-08-05T01:09:39,2026-08-04,MLB,New York Yankees,St. Louis Cardinals,total,betmgm,,,130,-165,3.5
@@ -4488,111 +4488,111 @@ captured_at,date,sport,home_team,away_team,market,book,home_odds,away_odds,over_
 2026-08-11T00:37:21,2026-08-11,MLB,San Francisco Giants,Houston Astros,moneyline,betmgm,125,-155,,,
 2026-08-11T00:37:21,2026-08-11,MLB,San Francisco Giants,Houston Astros,spread,betmgm,-135,110,,,
 2026-08-11T00:37:21,2026-08-11,MLB,San Francisco Giants,Houston Astros,total,betmgm,,,-102,-118,8.5
-2026-08-15T17:04:54,2026-09-03,NCAAF,Buffalo Bulls,Albany,moneyline,draftkings,-8000,2200,,,
-2026-08-15T17:04:54,2026-09-03,NCAAF,Buffalo Bulls,Albany,spread,draftkings,-108,-112,,,
-2026-08-15T17:04:54,2026-09-03,NCAAF,Buffalo Bulls,Albany,total,draftkings,,,-108,-112,48.5
-2026-08-15T17:04:54,2026-09-03,NCAAF,UCF Knights,Bethune-Cookman Wildcats,spread,draftkings,-110,-110,,,
-2026-08-15T17:04:54,2026-09-03,NCAAF,UCF Knights,Bethune-Cookman Wildcats,total,draftkings,,,-112,-108,59.5
-2026-08-15T17:04:54,2026-09-03,NCAAF,Delaware Blue Hens,Merrimack Warriors,moneyline,draftkings,-8000,2200,,,
-2026-08-15T17:04:54,2026-09-03,NCAAF,Delaware Blue Hens,Merrimack Warriors,spread,draftkings,-108,-112,,,
-2026-08-15T17:04:54,2026-09-03,NCAAF,Delaware Blue Hens,Merrimack Warriors,total,draftkings,,,-108,-112,55.5
-2026-08-15T17:04:54,2026-09-03,NCAAF,Kennesaw State Owls,West Georgia Wolves,moneyline,draftkings,-3600,1500,,,
-2026-08-15T17:04:54,2026-09-03,NCAAF,Kennesaw State Owls,West Georgia Wolves,spread,draftkings,-105,-115,,,
-2026-08-15T17:04:54,2026-09-03,NCAAF,Kennesaw State Owls,West Georgia Wolves,total,draftkings,,,-108,-112,51.5
-2026-08-15T17:04:54,2026-09-04,NCAAF,Minnesota Golden Gophers,Eastern Illinois Panthers,spread,draftkings,-112,-108,,,
-2026-08-15T17:04:54,2026-09-04,NCAAF,Minnesota Golden Gophers,Eastern Illinois Panthers,total,draftkings,,,-112,-108,51.5
-2026-08-15T17:04:54,2026-09-04,NCAAF,Utah Utes,Idaho Vandals,moneyline,draftkings,-50000,4000,,,
-2026-08-15T17:04:54,2026-09-04,NCAAF,Utah Utes,Idaho Vandals,spread,draftkings,-108,-112,,,
-2026-08-15T17:04:54,2026-09-04,NCAAF,Utah Utes,Idaho Vandals,total,draftkings,,,-108,-112,56.5
-2026-08-15T17:04:54,2026-09-04,NCAAF,Georgia State Panthers,North Carolina A&T Aggies,moneyline,draftkings,-4500,1700,,,
-2026-08-15T17:04:54,2026-09-04,NCAAF,Georgia State Panthers,North Carolina A&T Aggies,spread,draftkings,-108,-112,,,
-2026-08-15T17:04:54,2026-09-04,NCAAF,Georgia State Panthers,North Carolina A&T Aggies,total,draftkings,,,-108,-112,63.5
-2026-08-15T17:04:54,2026-09-04,NCAAF,Purdue Boilermakers,Indiana State Sycamores,spread,draftkings,-118,-102,,,
-2026-08-15T17:04:54,2026-09-04,NCAAF,Purdue Boilermakers,Indiana State Sycamores,total,draftkings,,,-112,-108,56.5
-2026-08-15T17:04:54,2026-09-05,NCAAF,Kansas Jayhawks,LIU Sharks,spread,draftkings,-105,-115,,,
-2026-08-15T17:04:54,2026-09-05,NCAAF,Kansas Jayhawks,LIU Sharks,total,draftkings,,,-112,-108,53.5
-2026-08-15T17:04:54,2026-09-05,NCAAF,Arkansas Razorbacks,North Alabama Lions,spread,draftkings,-112,-108,,,
-2026-08-15T17:04:54,2026-09-05,NCAAF,Arkansas Razorbacks,North Alabama Lions,total,draftkings,,,-112,-108,63.5
-2026-08-15T17:04:54,2026-09-05,NCAAF,Army Black Knights,Bryant Bulldogs,spread,draftkings,-108,-112,,,
-2026-08-15T17:04:54,2026-09-05,NCAAF,Army Black Knights,Bryant Bulldogs,total,draftkings,,,-108,-112,51.5
-2026-08-15T17:04:54,2026-09-05,NCAAF,Bowling Green Falcons,Tarleton State Texans,moneyline,draftkings,-135,114,,,
-2026-08-15T17:04:54,2026-09-05,NCAAF,Bowling Green Falcons,Tarleton State Texans,spread,draftkings,-112,-108,,,
-2026-08-15T17:04:54,2026-09-05,NCAAF,Bowling Green Falcons,Tarleton State Texans,total,draftkings,,,-112,-108,47.5
-2026-08-15T17:04:54,2026-09-05,NCAAF,UConn Huskies,Lafayette Leopards,moneyline,draftkings,-1050,675,,,
-2026-08-15T17:04:54,2026-09-05,NCAAF,UConn Huskies,Lafayette Leopards,spread,draftkings,-112,-108,,,
-2026-08-15T17:04:54,2026-09-05,NCAAF,UConn Huskies,Lafayette Leopards,total,draftkings,,,-112,-108,58.5
-2026-08-15T17:04:54,2026-09-05,NCAAF,Syracuse Orange,New Hampshire Wildcats,moneyline,draftkings,-100000,5000,,,
-2026-08-15T17:04:54,2026-09-05,NCAAF,Syracuse Orange,New Hampshire Wildcats,spread,draftkings,-112,-108,,,
-2026-08-15T17:04:54,2026-09-05,NCAAF,Syracuse Orange,New Hampshire Wildcats,total,draftkings,,,-112,-108,55.5
-2026-08-15T17:04:54,2026-09-05,NCAAF,Air Force Falcons,Duquesne Dukes,moneyline,draftkings,-8000,2200,,,
-2026-08-15T17:04:54,2026-09-05,NCAAF,Air Force Falcons,Duquesne Dukes,spread,draftkings,-110,-110,,,
-2026-08-15T17:04:54,2026-09-05,NCAAF,Air Force Falcons,Duquesne Dukes,total,draftkings,,,-110,-110,58.5
-2026-08-15T17:04:54,2026-09-05,NCAAF,Iowa State Cyclones,Southeast Missouri State Redhawks,moneyline,draftkings,-10000,3000,,,
-2026-08-15T17:04:54,2026-09-05,NCAAF,Iowa State Cyclones,Southeast Missouri State Redhawks,spread,draftkings,-110,-110,,,
-2026-08-15T17:04:54,2026-09-05,NCAAF,Iowa State Cyclones,Southeast Missouri State Redhawks,total,draftkings,,,-112,-108,53.5
-2026-08-15T17:04:54,2026-09-05,NCAAF,Kentucky Wildcats,Youngstown St Penguins,moneyline,draftkings,-3200,1400,,,
-2026-08-15T17:04:54,2026-09-05,NCAAF,Kentucky Wildcats,Youngstown St Penguins,spread,draftkings,-110,-110,,,
-2026-08-15T17:04:54,2026-09-05,NCAAF,Kentucky Wildcats,Youngstown St Penguins,total,draftkings,,,-110,-110,62.5
-2026-08-15T17:04:54,2026-09-05,NCAAF,Temple Owls,Rhode Island Rams,moneyline,draftkings,-470,360,,,
-2026-08-15T17:04:54,2026-09-05,NCAAF,Temple Owls,Rhode Island Rams,spread,draftkings,-112,-108,,,
-2026-08-15T17:04:54,2026-09-05,NCAAF,Temple Owls,Rhode Island Rams,total,draftkings,,,-112,-108,51.5
-2026-08-15T17:04:54,2026-09-05,NCAAF,Georgia Bulldogs,Tennessee State Tigers,spread,draftkings,-102,-118,,,
-2026-08-15T17:04:54,2026-09-05,NCAAF,Georgia Bulldogs,Tennessee State Tigers,total,draftkings,,,-105,-115,56.5
-2026-08-15T17:04:54,2026-09-05,NCAAF,Appalachian State Mountaineers,Maine Black Bears,moneyline,draftkings,-1350,800,,,
-2026-08-15T17:04:54,2026-09-05,NCAAF,Appalachian State Mountaineers,Maine Black Bears,spread,draftkings,-108,-112,,,
-2026-08-15T17:04:54,2026-09-05,NCAAF,Appalachian State Mountaineers,Maine Black Bears,total,draftkings,,,-115,-105,53.5
-2026-08-15T17:04:54,2026-09-05,NCAAF,Charlotte 49ers,Citadel Bulldogs,moneyline,draftkings,-800,550,,,
-2026-08-15T17:04:54,2026-09-05,NCAAF,Charlotte 49ers,Citadel Bulldogs,spread,draftkings,-110,-110,,,
-2026-08-15T17:04:54,2026-09-05,NCAAF,Charlotte 49ers,Citadel Bulldogs,total,draftkings,,,-112,-108,46.5
-2026-08-15T17:04:54,2026-09-05,NCAAF,North Dakota State Bison,Fordham Rams,spread,draftkings,-110,-110,,,
-2026-08-15T17:04:54,2026-09-05,NCAAF,North Dakota State Bison,Fordham Rams,total,draftkings,,,-112,-108,57.5
-2026-08-15T17:04:54,2026-09-05,NCAAF,Tennessee Volunteers,Furman Paladins,spread,draftkings,-112,-108,,,
-2026-08-15T17:04:54,2026-09-05,NCAAF,Tennessee Volunteers,Furman Paladins,total,draftkings,,,-112,-108,66.5
-2026-08-15T17:04:54,2026-09-05,NCAAF,Navy Midshipmen,Towson Tigers,moneyline,draftkings,-50000,4000,,,
-2026-08-15T17:04:54,2026-09-05,NCAAF,Navy Midshipmen,Towson Tigers,spread,draftkings,-110,-110,,,
-2026-08-15T17:04:54,2026-09-05,NCAAF,Navy Midshipmen,Towson Tigers,total,draftkings,,,-112,-108,53.5
-2026-08-15T17:04:54,2026-09-05,NCAAF,UTSA Roadrunners,UT Rio Grande Valley Vaqueros,moneyline,draftkings,-9000,2500,,,
-2026-08-15T17:04:54,2026-09-05,NCAAF,UTSA Roadrunners,UT Rio Grande Valley Vaqueros,spread,draftkings,-112,-108,,,
-2026-08-15T17:04:54,2026-09-05,NCAAF,UTSA Roadrunners,UT Rio Grande Valley Vaqueros,total,draftkings,,,-110,-110,59.5
-2026-08-15T17:04:54,2026-09-05,NCAAF,Southern Mississippi Golden Eagles,Alcorn State Braves,moneyline,draftkings,-2800,1300,,,
-2026-08-15T17:04:54,2026-09-05,NCAAF,Southern Mississippi Golden Eagles,Alcorn State Braves,spread,draftkings,-108,-112,,,
-2026-08-15T17:04:54,2026-09-05,NCAAF,Southern Mississippi Golden Eagles,Alcorn State Braves,total,draftkings,,,-108,-112,50.5
-2026-08-15T17:04:54,2026-09-05,NCAAF,Old Dominion Monarchs,Norfolk State Spartans,spread,draftkings,-110,-110,,,
-2026-08-15T17:04:54,2026-09-05,NCAAF,Old Dominion Monarchs,Norfolk State Spartans,total,draftkings,,,-112,-108,55.5
-2026-08-15T17:04:54,2026-09-05,NCAAF,Texas Tech Red Raiders,Abilene Christian Wildcats,spread,draftkings,-110,-110,,,
-2026-08-15T17:04:54,2026-09-05,NCAAF,Texas Tech Red Raiders,Abilene Christian Wildcats,total,draftkings,,,-108,-112,59.5
-2026-08-15T17:04:54,2026-09-05,NCAAF,Vanderbilt Commodores,Austin Peay Governors,moneyline,draftkings,-50000,4000,,,
-2026-08-15T17:04:54,2026-09-05,NCAAF,Vanderbilt Commodores,Austin Peay Governors,spread,draftkings,-110,-110,,,
-2026-08-15T17:04:54,2026-09-05,NCAAF,Vanderbilt Commodores,Austin Peay Governors,total,draftkings,,,-112,-108,61.5
-2026-08-15T17:04:54,2026-09-05,NCAAF,Georgia Southern Eagles,Charleston Southern Buccaneers,moneyline,draftkings,-6500,2000,,,
-2026-08-15T17:04:54,2026-09-05,NCAAF,Georgia Southern Eagles,Charleston Southern Buccaneers,spread,draftkings,-110,-110,,,
-2026-08-15T17:04:54,2026-09-05,NCAAF,Georgia Southern Eagles,Charleston Southern Buccaneers,total,draftkings,,,-115,-105,51.5
-2026-08-15T17:04:54,2026-09-05,NCAAF,Jacksonville State Gamecocks,Eastern Kentucky Colonels,moneyline,draftkings,-1800,1000,,,
-2026-08-15T17:04:54,2026-09-05,NCAAF,Jacksonville State Gamecocks,Eastern Kentucky Colonels,spread,draftkings,-110,-110,,,
-2026-08-15T17:04:54,2026-09-05,NCAAF,Jacksonville State Gamecocks,Eastern Kentucky Colonels,total,draftkings,,,-112,-108,52.5
-2026-08-15T17:04:54,2026-09-05,NCAAF,Rice Owls,Houston Baptist Huskies,moneyline,draftkings,-5000,1800,,,
-2026-08-15T17:04:54,2026-09-05,NCAAF,Rice Owls,Houston Baptist Huskies,spread,draftkings,-112,-108,,,
-2026-08-15T17:04:54,2026-09-05,NCAAF,Rice Owls,Houston Baptist Huskies,total,draftkings,,,-112,-108,47.5
-2026-08-15T17:04:54,2026-09-05,NCAAF,Utah State Aggies,Idaho State Bengals,moneyline,draftkings,-535,400,,,
-2026-08-15T17:04:54,2026-09-05,NCAAF,Utah State Aggies,Idaho State Bengals,spread,draftkings,-108,-112,,,
-2026-08-15T17:04:54,2026-09-05,NCAAF,Utah State Aggies,Idaho State Bengals,total,draftkings,,,-108,-112,64.5
+2026-08-16T00:00:06,2026-09-03,NCAAF,Buffalo Bulls,Albany,moneyline,draftkings,-8000,2200,,,
+2026-08-16T00:00:06,2026-09-03,NCAAF,Buffalo Bulls,Albany,spread,draftkings,-108,-112,,,
+2026-08-16T00:00:06,2026-09-03,NCAAF,Buffalo Bulls,Albany,total,draftkings,,,-108,-112,48.5
+2026-08-16T00:00:06,2026-09-03,NCAAF,UCF Knights,Bethune-Cookman Wildcats,spread,draftkings,-110,-110,,,
+2026-08-16T00:00:06,2026-09-03,NCAAF,UCF Knights,Bethune-Cookman Wildcats,total,draftkings,,,-112,-108,59.5
+2026-08-16T00:00:06,2026-09-03,NCAAF,Delaware Blue Hens,Merrimack Warriors,moneyline,draftkings,-8000,2200,,,
+2026-08-16T00:00:06,2026-09-03,NCAAF,Delaware Blue Hens,Merrimack Warriors,spread,draftkings,-108,-112,,,
+2026-08-16T00:00:06,2026-09-03,NCAAF,Delaware Blue Hens,Merrimack Warriors,total,draftkings,,,-108,-112,55.5
+2026-08-16T00:00:06,2026-09-03,NCAAF,Kennesaw State Owls,West Georgia Wolves,moneyline,draftkings,-3600,1500,,,
+2026-08-16T00:00:06,2026-09-03,NCAAF,Kennesaw State Owls,West Georgia Wolves,spread,draftkings,-105,-115,,,
+2026-08-16T00:00:06,2026-09-03,NCAAF,Kennesaw State Owls,West Georgia Wolves,total,draftkings,,,-108,-112,51.5
+2026-08-16T00:00:06,2026-09-04,NCAAF,Minnesota Golden Gophers,Eastern Illinois Panthers,spread,draftkings,-112,-108,,,
+2026-08-16T00:00:06,2026-09-04,NCAAF,Minnesota Golden Gophers,Eastern Illinois Panthers,total,draftkings,,,-112,-108,51.5
+2026-08-16T00:00:06,2026-09-04,NCAAF,Utah Utes,Idaho Vandals,moneyline,draftkings,-50000,4000,,,
+2026-08-16T00:00:06,2026-09-04,NCAAF,Utah Utes,Idaho Vandals,spread,draftkings,-108,-112,,,
+2026-08-16T00:00:06,2026-09-04,NCAAF,Utah Utes,Idaho Vandals,total,draftkings,,,-108,-112,56.5
+2026-08-16T00:00:06,2026-09-04,NCAAF,Georgia State Panthers,North Carolina A&T Aggies,moneyline,draftkings,-4500,1700,,,
+2026-08-16T00:00:06,2026-09-04,NCAAF,Georgia State Panthers,North Carolina A&T Aggies,spread,draftkings,-108,-112,,,
+2026-08-16T00:00:06,2026-09-04,NCAAF,Georgia State Panthers,North Carolina A&T Aggies,total,draftkings,,,-108,-112,63.5
+2026-08-16T00:00:06,2026-09-04,NCAAF,Purdue Boilermakers,Indiana State Sycamores,spread,draftkings,-118,-102,,,
+2026-08-16T00:00:06,2026-09-04,NCAAF,Purdue Boilermakers,Indiana State Sycamores,total,draftkings,,,-112,-108,56.5
+2026-08-16T00:00:06,2026-09-05,NCAAF,Kansas Jayhawks,LIU Sharks,spread,draftkings,-105,-115,,,
+2026-08-16T00:00:06,2026-09-05,NCAAF,Kansas Jayhawks,LIU Sharks,total,draftkings,,,-112,-108,53.5
+2026-08-16T00:00:06,2026-09-05,NCAAF,Arkansas Razorbacks,North Alabama Lions,spread,draftkings,-112,-108,,,
+2026-08-16T00:00:06,2026-09-05,NCAAF,Arkansas Razorbacks,North Alabama Lions,total,draftkings,,,-112,-108,63.5
+2026-08-16T00:00:06,2026-09-05,NCAAF,Army Black Knights,Bryant Bulldogs,spread,draftkings,-108,-112,,,
+2026-08-16T00:00:06,2026-09-05,NCAAF,Army Black Knights,Bryant Bulldogs,total,draftkings,,,-108,-112,51.5
+2026-08-16T00:00:06,2026-09-05,NCAAF,Bowling Green Falcons,Tarleton State Texans,moneyline,draftkings,-135,114,,,
+2026-08-16T00:00:06,2026-09-05,NCAAF,Bowling Green Falcons,Tarleton State Texans,spread,draftkings,-112,-108,,,
+2026-08-16T00:00:06,2026-09-05,NCAAF,Bowling Green Falcons,Tarleton State Texans,total,draftkings,,,-112,-108,47.5
+2026-08-16T00:00:06,2026-09-05,NCAAF,UConn Huskies,Lafayette Leopards,moneyline,draftkings,-1050,675,,,
+2026-08-16T00:00:06,2026-09-05,NCAAF,UConn Huskies,Lafayette Leopards,spread,draftkings,-112,-108,,,
+2026-08-16T00:00:06,2026-09-05,NCAAF,UConn Huskies,Lafayette Leopards,total,draftkings,,,-112,-108,58.5
+2026-08-16T00:00:06,2026-09-05,NCAAF,Syracuse Orange,New Hampshire Wildcats,moneyline,draftkings,-100000,5000,,,
+2026-08-16T00:00:06,2026-09-05,NCAAF,Syracuse Orange,New Hampshire Wildcats,spread,draftkings,-112,-108,,,
+2026-08-16T00:00:06,2026-09-05,NCAAF,Syracuse Orange,New Hampshire Wildcats,total,draftkings,,,-112,-108,55.5
+2026-08-16T00:00:06,2026-09-05,NCAAF,Air Force Falcons,Duquesne Dukes,moneyline,draftkings,-8000,2200,,,
+2026-08-16T00:00:06,2026-09-05,NCAAF,Air Force Falcons,Duquesne Dukes,spread,draftkings,-110,-110,,,
+2026-08-16T00:00:06,2026-09-05,NCAAF,Air Force Falcons,Duquesne Dukes,total,draftkings,,,-110,-110,58.5
+2026-08-16T00:00:06,2026-09-05,NCAAF,Iowa State Cyclones,Southeast Missouri State Redhawks,moneyline,draftkings,-10000,3000,,,
+2026-08-16T00:00:06,2026-09-05,NCAAF,Iowa State Cyclones,Southeast Missouri State Redhawks,spread,draftkings,-110,-110,,,
+2026-08-16T00:00:06,2026-09-05,NCAAF,Iowa State Cyclones,Southeast Missouri State Redhawks,total,draftkings,,,-112,-108,53.5
+2026-08-16T00:00:06,2026-09-05,NCAAF,Kentucky Wildcats,Youngstown St Penguins,moneyline,draftkings,-3200,1400,,,
+2026-08-16T00:00:06,2026-09-05,NCAAF,Kentucky Wildcats,Youngstown St Penguins,spread,draftkings,-110,-110,,,
+2026-08-16T00:00:06,2026-09-05,NCAAF,Kentucky Wildcats,Youngstown St Penguins,total,draftkings,,,-110,-110,62.5
+2026-08-16T00:00:06,2026-09-05,NCAAF,Temple Owls,Rhode Island Rams,moneyline,draftkings,-470,360,,,
+2026-08-16T00:00:06,2026-09-05,NCAAF,Temple Owls,Rhode Island Rams,spread,draftkings,-112,-108,,,
+2026-08-16T00:00:06,2026-09-05,NCAAF,Temple Owls,Rhode Island Rams,total,draftkings,,,-112,-108,51.5
+2026-08-16T00:00:06,2026-09-05,NCAAF,Georgia Bulldogs,Tennessee State Tigers,spread,draftkings,-102,-118,,,
+2026-08-16T00:00:06,2026-09-05,NCAAF,Georgia Bulldogs,Tennessee State Tigers,total,draftkings,,,-105,-115,56.5
+2026-08-16T00:00:06,2026-09-05,NCAAF,Appalachian State Mountaineers,Maine Black Bears,moneyline,draftkings,-1350,800,,,
+2026-08-16T00:00:06,2026-09-05,NCAAF,Appalachian State Mountaineers,Maine Black Bears,spread,draftkings,-108,-112,,,
+2026-08-16T00:00:06,2026-09-05,NCAAF,Appalachian State Mountaineers,Maine Black Bears,total,draftkings,,,-115,-105,53.5
+2026-08-16T00:00:06,2026-09-05,NCAAF,Charlotte 49ers,Citadel Bulldogs,moneyline,draftkings,-800,550,,,
+2026-08-16T00:00:06,2026-09-05,NCAAF,Charlotte 49ers,Citadel Bulldogs,spread,draftkings,-110,-110,,,
+2026-08-16T00:00:06,2026-09-05,NCAAF,Charlotte 49ers,Citadel Bulldogs,total,draftkings,,,-112,-108,46.5
+2026-08-16T00:00:06,2026-09-05,NCAAF,North Dakota State Bison,Fordham Rams,spread,draftkings,-110,-110,,,
+2026-08-16T00:00:06,2026-09-05,NCAAF,North Dakota State Bison,Fordham Rams,total,draftkings,,,-112,-108,57.5
+2026-08-16T00:00:06,2026-09-05,NCAAF,Tennessee Volunteers,Furman Paladins,spread,draftkings,-112,-108,,,
+2026-08-16T00:00:06,2026-09-05,NCAAF,Tennessee Volunteers,Furman Paladins,total,draftkings,,,-112,-108,66.5
+2026-08-16T00:00:06,2026-09-05,NCAAF,Navy Midshipmen,Towson Tigers,moneyline,draftkings,-50000,4000,,,
+2026-08-16T00:00:06,2026-09-05,NCAAF,Navy Midshipmen,Towson Tigers,spread,draftkings,-110,-110,,,
+2026-08-16T00:00:06,2026-09-05,NCAAF,Navy Midshipmen,Towson Tigers,total,draftkings,,,-112,-108,53.5
+2026-08-16T00:00:06,2026-09-05,NCAAF,UTSA Roadrunners,UT Rio Grande Valley Vaqueros,moneyline,draftkings,-9000,2500,,,
+2026-08-16T00:00:06,2026-09-05,NCAAF,UTSA Roadrunners,UT Rio Grande Valley Vaqueros,spread,draftkings,-112,-108,,,
+2026-08-16T00:00:06,2026-09-05,NCAAF,UTSA Roadrunners,UT Rio Grande Valley Vaqueros,total,draftkings,,,-110,-110,59.5
+2026-08-16T00:00:06,2026-09-05,NCAAF,Southern Mississippi Golden Eagles,Alcorn State Braves,moneyline,draftkings,-2800,1300,,,
+2026-08-16T00:00:06,2026-09-05,NCAAF,Southern Mississippi Golden Eagles,Alcorn State Braves,spread,draftkings,-108,-112,,,
+2026-08-16T00:00:06,2026-09-05,NCAAF,Southern Mississippi Golden Eagles,Alcorn State Braves,total,draftkings,,,-108,-112,50.5
+2026-08-16T00:00:06,2026-09-05,NCAAF,Old Dominion Monarchs,Norfolk State Spartans,spread,draftkings,-110,-110,,,
+2026-08-16T00:00:06,2026-09-05,NCAAF,Old Dominion Monarchs,Norfolk State Spartans,total,draftkings,,,-112,-108,55.5
+2026-08-16T00:00:06,2026-09-05,NCAAF,Texas Tech Red Raiders,Abilene Christian Wildcats,spread,draftkings,-110,-110,,,
+2026-08-16T00:00:06,2026-09-05,NCAAF,Texas Tech Red Raiders,Abilene Christian Wildcats,total,draftkings,,,-108,-112,59.5
+2026-08-16T00:00:06,2026-09-05,NCAAF,Vanderbilt Commodores,Austin Peay Governors,moneyline,draftkings,-50000,4000,,,
+2026-08-16T00:00:06,2026-09-05,NCAAF,Vanderbilt Commodores,Austin Peay Governors,spread,draftkings,-110,-110,,,
+2026-08-16T00:00:06,2026-09-05,NCAAF,Vanderbilt Commodores,Austin Peay Governors,total,draftkings,,,-112,-108,61.5
+2026-08-16T00:00:06,2026-09-05,NCAAF,Georgia Southern Eagles,Charleston Southern Buccaneers,moneyline,draftkings,-6500,2000,,,
+2026-08-16T00:00:06,2026-09-05,NCAAF,Georgia Southern Eagles,Charleston Southern Buccaneers,spread,draftkings,-110,-110,,,
+2026-08-16T00:00:06,2026-09-05,NCAAF,Georgia Southern Eagles,Charleston Southern Buccaneers,total,draftkings,,,-115,-105,51.5
+2026-08-16T00:00:06,2026-09-05,NCAAF,Jacksonville State Gamecocks,Eastern Kentucky Colonels,moneyline,draftkings,-1800,1000,,,
+2026-08-16T00:00:06,2026-09-05,NCAAF,Jacksonville State Gamecocks,Eastern Kentucky Colonels,spread,draftkings,-110,-110,,,
+2026-08-16T00:00:06,2026-09-05,NCAAF,Jacksonville State Gamecocks,Eastern Kentucky Colonels,total,draftkings,,,-112,-108,52.5
+2026-08-16T00:00:06,2026-09-05,NCAAF,Rice Owls,Houston Baptist Huskies,moneyline,draftkings,-5000,1800,,,
+2026-08-16T00:00:06,2026-09-05,NCAAF,Rice Owls,Houston Baptist Huskies,spread,draftkings,-112,-108,,,
+2026-08-16T00:00:06,2026-09-05,NCAAF,Rice Owls,Houston Baptist Huskies,total,draftkings,,,-112,-108,47.5
+2026-08-16T00:00:06,2026-09-05,NCAAF,Utah State Aggies,Idaho State Bengals,moneyline,draftkings,-535,400,,,
+2026-08-16T00:00:06,2026-09-05,NCAAF,Utah State Aggies,Idaho State Bengals,spread,draftkings,-108,-112,,,
+2026-08-16T00:00:06,2026-09-05,NCAAF,Utah State Aggies,Idaho State Bengals,total,draftkings,,,-108,-112,64.5
 2026-08-13T00:45:22,2026-09-05,NCAAF,Kansas State Wildcats,Nicholls State Colonels,spread,draftkings,-112,-108,,,
 2026-08-13T00:45:22,2026-09-05,NCAAF,Kansas State Wildcats,Nicholls State Colonels,total,draftkings,,,-112,-108,55.5
-2026-08-15T17:04:54,2026-09-05,NCAAF,Middle Tennessee Blue Raiders,Murray State Racers,moneyline,draftkings,-1800,1000,,,
-2026-08-15T17:04:54,2026-09-05,NCAAF,Middle Tennessee Blue Raiders,Murray State Racers,spread,draftkings,-110,-110,,,
-2026-08-15T17:04:54,2026-09-05,NCAAF,Middle Tennessee Blue Raiders,Murray State Racers,total,draftkings,,,-112,-108,59.5
-2026-08-15T17:04:54,2026-09-05,NCAAF,South Alabama Jaguars,Southeastern Louisiana Lions,moneyline,draftkings,-500,380,,,
-2026-08-15T17:04:54,2026-09-05,NCAAF,South Alabama Jaguars,Southeastern Louisiana Lions,spread,draftkings,-112,-108,,,
-2026-08-15T17:04:54,2026-09-05,NCAAF,South Alabama Jaguars,Southeastern Louisiana Lions,total,draftkings,,,-115,-105,52.5
-2026-08-15T17:04:54,2026-09-12,NCAAF,Utah Utes,Arkansas Razorbacks,moneyline,fanduel,-320,255,,,
-2026-08-15T17:04:54,2026-09-12,NCAAF,Utah Utes,Arkansas Razorbacks,spread,fanduel,-115,-105,,,
-2026-08-15T17:04:54,2026-09-12,NCAAF,Utah Utes,Arkansas Razorbacks,total,fanduel,,,-110,-110,55.5
-2026-08-15T17:04:54,2026-10-10,NCAAF,Oklahoma Sooners,Texas Longhorns,moneyline,fanduel,188,-230,,,
-2026-08-15T17:04:54,2026-10-10,NCAAF,Oklahoma Sooners,Texas Longhorns,spread,fanduel,-110,-110,,,
-2026-08-15T17:04:54,2026-10-10,NCAAF,Oklahoma Sooners,Texas Longhorns,total,fanduel,,,-115,-105,47.5
-2026-08-15T17:04:54,2026-10-11,NCAAF,Alabama Crimson Tide,Georgia Bulldogs,moneyline,fanduel,122,-146,,,
-2026-08-15T17:04:54,2026-10-11,NCAAF,Alabama Crimson Tide,Georgia Bulldogs,spread,fanduel,100,-122,,,
-2026-08-15T17:04:54,2026-10-11,NCAAF,Alabama Crimson Tide,Georgia Bulldogs,total,fanduel,,,-108,-112,49.5
+2026-08-16T00:00:06,2026-09-05,NCAAF,Middle Tennessee Blue Raiders,Murray State Racers,moneyline,draftkings,-1800,1000,,,
+2026-08-16T00:00:06,2026-09-05,NCAAF,Middle Tennessee Blue Raiders,Murray State Racers,spread,draftkings,-110,-110,,,
+2026-08-16T00:00:06,2026-09-05,NCAAF,Middle Tennessee Blue Raiders,Murray State Racers,total,draftkings,,,-112,-108,59.5
+2026-08-16T00:00:06,2026-09-05,NCAAF,South Alabama Jaguars,Southeastern Louisiana Lions,moneyline,draftkings,-500,380,,,
+2026-08-16T00:00:06,2026-09-05,NCAAF,South Alabama Jaguars,Southeastern Louisiana Lions,spread,draftkings,-112,-108,,,
+2026-08-16T00:00:06,2026-09-05,NCAAF,South Alabama Jaguars,Southeastern Louisiana Lions,total,draftkings,,,-115,-105,52.5
+2026-08-16T00:00:06,2026-09-12,NCAAF,Utah Utes,Arkansas Razorbacks,moneyline,fanduel,-320,255,,,
+2026-08-16T00:00:06,2026-09-12,NCAAF,Utah Utes,Arkansas Razorbacks,spread,fanduel,-115,-105,,,
+2026-08-16T00:00:06,2026-09-12,NCAAF,Utah Utes,Arkansas Razorbacks,total,fanduel,,,-110,-110,55.5
+2026-08-16T00:00:06,2026-10-10,NCAAF,Oklahoma Sooners,Texas Longhorns,moneyline,fanduel,188,-230,,,
+2026-08-16T00:00:06,2026-10-10,NCAAF,Oklahoma Sooners,Texas Longhorns,spread,fanduel,-110,-110,,,
+2026-08-16T00:00:06,2026-10-10,NCAAF,Oklahoma Sooners,Texas Longhorns,total,fanduel,,,-115,-105,47.5
+2026-08-16T00:00:06,2026-10-11,NCAAF,Alabama Crimson Tide,Georgia Bulldogs,moneyline,fanduel,122,-146,,,
+2026-08-16T00:00:06,2026-10-11,NCAAF,Alabama Crimson Tide,Georgia Bulldogs,spread,fanduel,100,-122,,,
+2026-08-16T00:00:06,2026-10-11,NCAAF,Alabama Crimson Tide,Georgia Bulldogs,total,fanduel,,,-108,-112,49.5
 2026-08-11T00:37:21,2026-08-10,MLB,Minnesota Twins,Baltimore Orioles,spread,betmgm,130,-165,,,
 2026-08-12T00:44:05,2026-08-11,MLB,Detroit Tigers,Cleveland Guardians,moneyline,fanduel,-6000,4600,,,
 2026-08-12T00:44:05,2026-08-11,MLB,Detroit Tigers,Cleveland Guardians,spread,fanduel,188,-260,,,
@@ -4907,8 +4907,8 @@ captured_at,date,sport,home_team,away_team,market,book,home_odds,away_odds,over_
 2026-08-14T00:44:51,2026-08-14,MLB,Los Angeles Angels,Texas Rangers,moneyline,betmgm,125,-155,,,
 2026-08-14T00:44:51,2026-08-14,MLB,Los Angeles Angels,Texas Rangers,spread,betmgm,-145,118,,,
 2026-08-14T00:44:51,2026-08-14,MLB,Los Angeles Angels,Texas Rangers,total,betmgm,,,105,-125,7.5
-2026-08-15T17:04:54,2026-09-04,NCAAF,Missouri Tigers,Arkansas Pine Bluff Golden Lions,spread,draftkings,-108,-112,,,
-2026-08-15T17:04:54,2026-09-04,NCAAF,Missouri Tigers,Arkansas Pine Bluff Golden Lions,total,draftkings,,,-112,-108,60.5
+2026-08-16T00:00:06,2026-09-04,NCAAF,Missouri Tigers,Arkansas Pine Bluff Golden Lions,spread,draftkings,-108,-112,,,
+2026-08-16T00:00:06,2026-09-04,NCAAF,Missouri Tigers,Arkansas Pine Bluff Golden Lions,total,draftkings,,,-112,-108,60.5
 2026-08-14T00:44:51,2026-08-13,MLB,Minnesota Twins,Philadelphia Phillies,spread,betmgm,-125,-102,,,
 2026-08-14T17:40:43,2026-08-14,MLB,Chicago Cubs,St. Louis Cardinals,moneyline,draftkings,-180,168,,,
 2026-08-14T17:40:43,2026-08-14,MLB,Chicago Cubs,St. Louis Cardinals,spread,draftkings,106,-127,,,
@@ -4964,30 +4964,30 @@ captured_at,date,sport,home_team,away_team,market,book,home_odds,away_odds,over_
 2026-08-15T00:26:42,2026-08-14,MLB,Toronto Blue Jays,New York Yankees,moneyline,betmgm,-105,-120,,,
 2026-08-15T00:26:42,2026-08-14,MLB,Toronto Blue Jays,New York Yankees,spread,betmgm,-250,190,,,
 2026-08-15T00:26:42,2026-08-14,MLB,Toronto Blue Jays,New York Yankees,total,betmgm,,,-135,105,3.5
-2026-08-15T17:04:54,2026-08-15,MLB,Houston Astros,Seattle Mariners,moneyline,fanduel,-120,110,,,
-2026-08-15T17:04:54,2026-08-15,MLB,Houston Astros,Seattle Mariners,spread,fanduel,172,-205,,,
-2026-08-15T17:04:54,2026-08-15,MLB,Houston Astros,Seattle Mariners,total,fanduel,,,-118,-104,8.5
-2026-08-15T17:04:54,2026-08-15,MLB,Houston Astros,Seattle Mariners,moneyline,draftkings,-119,111,,,
-2026-08-15T17:04:54,2026-08-15,MLB,Houston Astros,Seattle Mariners,spread,draftkings,159,-194,,,
-2026-08-15T17:04:54,2026-08-15,MLB,Houston Astros,Seattle Mariners,total,draftkings,,,-116,-104,8.5
-2026-08-15T17:04:54,2026-08-15,MLB,Houston Astros,Seattle Mariners,moneyline,betmgm,-125,105,,,
-2026-08-15T17:04:54,2026-08-15,MLB,Houston Astros,Seattle Mariners,spread,betmgm,155,-190,,,
-2026-08-15T17:04:54,2026-08-15,MLB,Houston Astros,Seattle Mariners,total,betmgm,,,-118,-102,8.5
+2026-08-16T00:00:06,2026-08-15,MLB,Houston Astros,Seattle Mariners,moneyline,fanduel,185,-210,,,
+2026-08-16T00:00:06,2026-08-15,MLB,Houston Astros,Seattle Mariners,spread,fanduel,-112,-118,,,
+2026-08-16T00:00:06,2026-08-15,MLB,Houston Astros,Seattle Mariners,total,fanduel,,,-118,-112,11.5
+2026-08-16T00:00:06,2026-08-15,MLB,Houston Astros,Seattle Mariners,moneyline,draftkings,138,-159,,,
+2026-08-16T00:00:06,2026-08-15,MLB,Houston Astros,Seattle Mariners,spread,draftkings,-135,104,,,
+2026-08-16T00:00:06,2026-08-15,MLB,Houston Astros,Seattle Mariners,total,draftkings,,,-102,-128,12.5
+2026-08-16T00:00:06,2026-08-15,MLB,Houston Astros,Seattle Mariners,moneyline,betmgm,190,-250,,,
+2026-08-16T00:00:06,2026-08-15,MLB,Houston Astros,Seattle Mariners,spread,betmgm,-105,-120,,,
+2026-08-16T00:00:06,2026-08-15,MLB,Houston Astros,Seattle Mariners,total,betmgm,,,-115,-110,11.5
 2026-08-15T00:26:42,2026-08-15,MLB,Los Angeles Angels,Kansas City Royals,moneyline,fanduel,100,-108,,,
 2026-08-15T00:26:42,2026-08-15,MLB,Los Angeles Angels,Kansas City Royals,spread,fanduel,-178,146,,,
 2026-08-15T00:26:42,2026-08-15,MLB,Los Angeles Angels,Kansas City Royals,total,fanduel,,,-114,-106,8.5
 2026-08-15T00:26:42,2026-08-15,MLB,Los Angeles Angels,Kansas City Royals,moneyline,draftkings,-103,-105,,,
 2026-08-15T00:26:42,2026-08-15,MLB,Los Angeles Angels,Kansas City Royals,spread,draftkings,-186,153,,,
 2026-08-15T00:26:42,2026-08-15,MLB,Los Angeles Angels,Kansas City Royals,total,draftkings,,,-108,-112,8.5
-2026-08-15T17:04:54,2026-08-15,MLB,Los Angeles Dodgers,Milwaukee Brewers,moneyline,fanduel,116,-126,,,
-2026-08-15T17:04:54,2026-08-15,MLB,Los Angeles Dodgers,Milwaukee Brewers,spread,fanduel,-160,132,,,
-2026-08-15T17:04:54,2026-08-15,MLB,Los Angeles Dodgers,Milwaukee Brewers,total,fanduel,,,-104,-118,7.5
-2026-08-15T17:04:54,2026-08-15,MLB,Los Angeles Dodgers,Milwaukee Brewers,moneyline,draftkings,114,-123,,,
-2026-08-15T17:04:54,2026-08-15,MLB,Los Angeles Dodgers,Milwaukee Brewers,spread,draftkings,-157,130,,,
-2026-08-15T17:04:54,2026-08-15,MLB,Los Angeles Dodgers,Milwaukee Brewers,total,draftkings,,,-102,-118,7.5
-2026-08-15T17:04:54,2026-08-15,MLB,Los Angeles Dodgers,Milwaukee Brewers,moneyline,betmgm,105,-125,,,
-2026-08-15T17:04:54,2026-08-15,MLB,Los Angeles Dodgers,Milwaukee Brewers,spread,betmgm,-155,125,,,
-2026-08-15T17:04:54,2026-08-15,MLB,Los Angeles Dodgers,Milwaukee Brewers,total,betmgm,,,-105,-115,7.5
+2026-08-16T00:00:06,2026-08-15,MLB,Los Angeles Dodgers,Milwaukee Brewers,moneyline,fanduel,220,-250,,,
+2026-08-16T00:00:06,2026-08-15,MLB,Los Angeles Dodgers,Milwaukee Brewers,spread,fanduel,112,-148,,,
+2026-08-16T00:00:06,2026-08-15,MLB,Los Angeles Dodgers,Milwaukee Brewers,total,fanduel,,,108,-144,7.5
+2026-08-16T00:00:06,2026-08-15,MLB,Los Angeles Dodgers,Milwaukee Brewers,moneyline,draftkings,215,-252,,,
+2026-08-16T00:00:06,2026-08-15,MLB,Los Angeles Dodgers,Milwaukee Brewers,spread,draftkings,117,-152,,,
+2026-08-16T00:00:06,2026-08-15,MLB,Los Angeles Dodgers,Milwaukee Brewers,total,draftkings,,,106,-138,7.5
+2026-08-16T00:00:06,2026-08-15,MLB,Los Angeles Dodgers,Milwaukee Brewers,moneyline,betmgm,210,-275,,,
+2026-08-16T00:00:06,2026-08-15,MLB,Los Angeles Dodgers,Milwaukee Brewers,spread,betmgm,100,-130,,,
+2026-08-16T00:00:06,2026-08-15,MLB,Los Angeles Dodgers,Milwaukee Brewers,total,betmgm,,,110,-145,7.5
 2026-08-15T17:04:54,2026-08-15,MLB,San Francisco Giants,Colorado Rockies,moneyline,fanduel,-160,148,,,
 2026-08-15T17:04:54,2026-08-15,MLB,San Francisco Giants,Colorado Rockies,spread,fanduel,132,-160,,,
 2026-08-15T17:04:54,2026-08-15,MLB,San Francisco Giants,Colorado Rockies,total,fanduel,,,-110,-110,7.5
@@ -5039,12 +5039,12 @@ captured_at,date,sport,home_team,away_team,market,book,home_odds,away_odds,over_
 2026-08-15T17:04:54,2026-08-15,MLB,Chicago Cubs,St. Louis Cardinals,moneyline,fanduel,-178,164,,,
 2026-08-15T17:04:54,2026-08-15,MLB,Chicago Cubs,St. Louis Cardinals,spread,fanduel,118,-142,,,
 2026-08-15T17:04:54,2026-08-15,MLB,Chicago Cubs,St. Louis Cardinals,total,fanduel,,,-102,-120,9.0
-2026-08-15T17:04:54,2026-08-15,MLB,Cincinnati Reds,Miami Marlins,moneyline,fanduel,-106,-102,,,
-2026-08-15T17:04:54,2026-08-15,MLB,Cincinnati Reds,Miami Marlins,spread,fanduel,-182,150,,,
-2026-08-15T17:04:54,2026-08-15,MLB,Cincinnati Reds,Miami Marlins,total,fanduel,,,102,-124,9.5
-2026-08-15T17:04:54,2026-08-15,MLB,Pittsburgh Pirates,Boston Red Sox,moneyline,fanduel,102,-112,,,
-2026-08-15T17:04:54,2026-08-15,MLB,Pittsburgh Pirates,Boston Red Sox,spread,fanduel,-172,142,,,
-2026-08-15T17:04:54,2026-08-15,MLB,Pittsburgh Pirates,Boston Red Sox,total,fanduel,,,-118,-104,7.5
+2026-08-16T00:00:06,2026-08-15,MLB,Cincinnati Reds,Miami Marlins,moneyline,fanduel,-120,105,,,
+2026-08-16T00:00:06,2026-08-15,MLB,Cincinnati Reds,Miami Marlins,spread,fanduel,230,-330,,,
+2026-08-16T00:00:06,2026-08-15,MLB,Cincinnati Reds,Miami Marlins,total,fanduel,,,-102,-130,10.5
+2026-08-16T00:00:06,2026-08-15,MLB,Pittsburgh Pirates,Boston Red Sox,moneyline,fanduel,155,-175,,,
+2026-08-16T00:00:06,2026-08-15,MLB,Pittsburgh Pirates,Boston Red Sox,spread,fanduel,-140,106,,,
+2026-08-16T00:00:06,2026-08-15,MLB,Pittsburgh Pirates,Boston Red Sox,total,fanduel,,,-114,-114,6.5
 2026-08-15T17:04:54,2026-08-15,MLB,Detroit Tigers,Chicago White Sox,moneyline,draftkings,-140,130,,,
 2026-08-15T17:04:54,2026-08-15,MLB,Detroit Tigers,Chicago White Sox,spread,draftkings,153,-186,,,
 2026-08-15T17:04:54,2026-08-15,MLB,Detroit Tigers,Chicago White Sox,total,draftkings,,,-106,-114,8.0
@@ -5060,62 +5060,62 @@ captured_at,date,sport,home_team,away_team,market,book,home_odds,away_odds,over_
 2026-08-15T17:04:54,2026-08-15,MLB,Chicago Cubs,St. Louis Cardinals,moneyline,betmgm,-190,155,,,
 2026-08-15T17:04:54,2026-08-15,MLB,Chicago Cubs,St. Louis Cardinals,spread,betmgm,100,-120,,,
 2026-08-15T17:04:54,2026-08-15,MLB,Chicago Cubs,St. Louis Cardinals,total,betmgm,,,-105,-115,9.0
-2026-08-15T17:04:54,2026-08-15,MLB,Tampa Bay Rays,Baltimore Orioles,moneyline,fanduel,-142,132,,,
-2026-08-15T17:04:54,2026-08-15,MLB,Tampa Bay Rays,Baltimore Orioles,spread,fanduel,158,-192,,,
-2026-08-15T17:04:54,2026-08-15,MLB,Tampa Bay Rays,Baltimore Orioles,total,fanduel,,,100,-122,7.5
-2026-08-15T17:04:54,2026-08-15,MLB,Tampa Bay Rays,Baltimore Orioles,moneyline,draftkings,-146,136,,,
-2026-08-15T17:04:54,2026-08-15,MLB,Tampa Bay Rays,Baltimore Orioles,spread,draftkings,144,-175,,,
-2026-08-15T17:04:54,2026-08-15,MLB,Tampa Bay Rays,Baltimore Orioles,total,draftkings,,,101,-122,7.5
-2026-08-15T17:04:54,2026-08-15,MLB,Tampa Bay Rays,Baltimore Orioles,moneyline,betmgm,-150,125,,,
-2026-08-15T17:04:54,2026-08-15,MLB,Tampa Bay Rays,Baltimore Orioles,spread,betmgm,150,-185,,,
-2026-08-15T17:04:54,2026-08-15,MLB,Tampa Bay Rays,Baltimore Orioles,total,betmgm,,,100,-120,7.5
-2026-08-15T17:04:54,2026-08-15,MLB,Cincinnati Reds,Miami Marlins,moneyline,draftkings,-105,-102,,,
-2026-08-15T17:04:54,2026-08-15,MLB,Cincinnati Reds,Miami Marlins,spread,draftkings,-177,146,,,
-2026-08-15T17:04:54,2026-08-15,MLB,Cincinnati Reds,Miami Marlins,total,draftkings,,,-122,101,9.0
-2026-08-15T17:04:54,2026-08-15,MLB,Cincinnati Reds,Miami Marlins,moneyline,betmgm,-110,-110,,,
-2026-08-15T17:04:54,2026-08-15,MLB,Cincinnati Reds,Miami Marlins,spread,betmgm,-185,150,,,
-2026-08-15T17:04:54,2026-08-15,MLB,Cincinnati Reds,Miami Marlins,total,betmgm,,,-120,100,9.0
-2026-08-15T17:04:54,2026-08-15,MLB,Minnesota Twins,Philadelphia Phillies,moneyline,fanduel,116,-126,,,
-2026-08-15T17:04:54,2026-08-15,MLB,Minnesota Twins,Philadelphia Phillies,spread,fanduel,-150,125,,,
-2026-08-15T17:04:54,2026-08-15,MLB,Minnesota Twins,Philadelphia Phillies,total,fanduel,,,-115,-105,8.0
-2026-08-15T17:04:54,2026-08-15,MLB,Minnesota Twins,Philadelphia Phillies,moneyline,draftkings,120,-129,,,
-2026-08-15T17:04:54,2026-08-15,MLB,Minnesota Twins,Philadelphia Phillies,spread,draftkings,-149,124,,,
-2026-08-15T17:04:54,2026-08-15,MLB,Minnesota Twins,Philadelphia Phillies,total,draftkings,,,-117,-103,8.0
-2026-08-15T17:04:54,2026-08-15,MLB,Minnesota Twins,Philadelphia Phillies,moneyline,betmgm,115,-140,,,
-2026-08-15T17:04:54,2026-08-15,MLB,Minnesota Twins,Philadelphia Phillies,total,betmgm,,,-115,-105,8.0
-2026-08-15T17:04:54,2026-08-15,MLB,Atlanta Braves,Arizona Diamondbacks,moneyline,draftkings,-129,120,,,
-2026-08-15T17:04:54,2026-08-15,MLB,Atlanta Braves,Arizona Diamondbacks,spread,draftkings,147,-178,,,
-2026-08-15T17:04:54,2026-08-15,MLB,Atlanta Braves,Arizona Diamondbacks,total,draftkings,,,-108,-111,9.0
-2026-08-15T17:04:54,2026-08-15,MLB,Atlanta Braves,Arizona Diamondbacks,moneyline,fanduel,-132,122,,,
-2026-08-15T17:04:54,2026-08-15,MLB,Atlanta Braves,Arizona Diamondbacks,spread,fanduel,138,-166,,,
-2026-08-15T17:04:54,2026-08-15,MLB,Atlanta Braves,Arizona Diamondbacks,total,fanduel,,,-110,-110,9.0
-2026-08-15T17:04:54,2026-08-15,MLB,Atlanta Braves,Arizona Diamondbacks,moneyline,betmgm,-135,110,,,
+2026-08-16T00:00:06,2026-08-15,MLB,Tampa Bay Rays,Baltimore Orioles,moneyline,fanduel,115,-130,,,
+2026-08-16T00:00:06,2026-08-15,MLB,Tampa Bay Rays,Baltimore Orioles,spread,fanduel,-330,225,,,
+2026-08-16T00:00:06,2026-08-15,MLB,Tampa Bay Rays,Baltimore Orioles,total,fanduel,,,-122,-108,7.5
+2026-08-16T00:00:06,2026-08-15,MLB,Tampa Bay Rays,Baltimore Orioles,moneyline,draftkings,107,-123,,,
+2026-08-16T00:00:06,2026-08-15,MLB,Tampa Bay Rays,Baltimore Orioles,spread,draftkings,-298,217,,,
+2026-08-16T00:00:06,2026-08-15,MLB,Tampa Bay Rays,Baltimore Orioles,total,draftkings,,,-132,101,7.5
+2026-08-16T00:00:06,2026-08-15,MLB,Tampa Bay Rays,Baltimore Orioles,moneyline,betmgm,118,-150,,,
+2026-08-16T00:00:06,2026-08-15,MLB,Tampa Bay Rays,Baltimore Orioles,spread,betmgm,-300,225,,,
+2026-08-16T00:00:06,2026-08-15,MLB,Tampa Bay Rays,Baltimore Orioles,total,betmgm,,,-130,100,7.5
+2026-08-16T00:00:06,2026-08-15,MLB,Cincinnati Reds,Miami Marlins,moneyline,draftkings,-215,185,,,
+2026-08-16T00:00:06,2026-08-15,MLB,Cincinnati Reds,Miami Marlins,spread,draftkings,150,-198,,,
+2026-08-16T00:00:06,2026-08-15,MLB,Cincinnati Reds,Miami Marlins,total,draftkings,,,-143,110,10.5
+2026-08-16T00:00:06,2026-08-15,MLB,Cincinnati Reds,Miami Marlins,moneyline,betmgm,-275,210,,,
+2026-08-16T00:00:06,2026-08-15,MLB,Cincinnati Reds,Miami Marlins,spread,betmgm,120,-155,,,
+2026-08-16T00:00:06,2026-08-15,MLB,Cincinnati Reds,Miami Marlins,total,betmgm,,,110,-145,11.5
+2026-08-16T00:00:06,2026-08-15,MLB,Minnesota Twins,Philadelphia Phillies,moneyline,fanduel,185,-210,,,
+2026-08-16T00:00:06,2026-08-15,MLB,Minnesota Twins,Philadelphia Phillies,spread,fanduel,-122,-108,,,
+2026-08-16T00:00:06,2026-08-15,MLB,Minnesota Twins,Philadelphia Phillies,total,fanduel,,,-125,-106,5.5
+2026-08-16T00:00:06,2026-08-15,MLB,Minnesota Twins,Philadelphia Phillies,moneyline,draftkings,177,-206,,,
+2026-08-16T00:00:06,2026-08-15,MLB,Minnesota Twins,Philadelphia Phillies,spread,draftkings,-123,-105,,,
+2026-08-16T00:00:06,2026-08-15,MLB,Minnesota Twins,Philadelphia Phillies,total,draftkings,,,101,-131,6.5
+2026-08-16T00:00:06,2026-08-15,MLB,Minnesota Twins,Philadelphia Phillies,moneyline,betmgm,160,-200,,,
+2026-08-16T00:00:06,2026-08-15,MLB,Minnesota Twins,Philadelphia Phillies,total,betmgm,,,-135,105,5.5
+2026-08-16T00:00:06,2026-08-15,MLB,Atlanta Braves,Arizona Diamondbacks,moneyline,draftkings,131,-150,,,
+2026-08-16T00:00:06,2026-08-15,MLB,Atlanta Braves,Arizona Diamondbacks,spread,draftkings,-141,109,,,
+2026-08-16T00:00:06,2026-08-15,MLB,Atlanta Braves,Arizona Diamondbacks,total,draftkings,,,-112,-116,12.5
+2026-08-16T00:00:06,2026-08-15,MLB,Atlanta Braves,Arizona Diamondbacks,moneyline,fanduel,155,-180,,,
+2026-08-16T00:00:06,2026-08-15,MLB,Atlanta Braves,Arizona Diamondbacks,spread,fanduel,-110,-120,,,
+2026-08-16T00:00:06,2026-08-15,MLB,Atlanta Braves,Arizona Diamondbacks,total,fanduel,,,-112,-118,12.5
+2026-08-16T00:00:06,2026-08-15,MLB,Atlanta Braves,Arizona Diamondbacks,moneyline,betmgm,150,-190,,,
 2026-08-15T17:04:54,2026-08-15,MLB,Atlanta Braves,Arizona Diamondbacks,spread,betmgm,150,-185,,,
-2026-08-15T17:04:54,2026-08-15,MLB,Atlanta Braves,Arizona Diamondbacks,total,betmgm,,,-110,-110,9.0
-2026-08-15T17:04:54,2026-08-15,MLB,Pittsburgh Pirates,Boston Red Sox,moneyline,draftkings,105,-112,,,
-2026-08-15T17:04:54,2026-08-15,MLB,Pittsburgh Pirates,Boston Red Sox,spread,draftkings,-182,150,,,
-2026-08-15T17:04:54,2026-08-15,MLB,Pittsburgh Pirates,Boston Red Sox,total,draftkings,,,-115,-104,7.5
-2026-08-15T17:04:54,2026-08-15,MLB,Pittsburgh Pirates,Boston Red Sox,moneyline,betmgm,-105,-115,,,
-2026-08-15T17:04:54,2026-08-15,MLB,Pittsburgh Pirates,Boston Red Sox,spread,betmgm,-185,150,,,
-2026-08-15T17:04:54,2026-08-15,MLB,Pittsburgh Pirates,Boston Red Sox,total,betmgm,,,-115,-105,7.5
-2026-08-15T17:04:54,2026-08-16,MLB,Los Angeles Angels,Kansas City Royals,moneyline,draftkings,-148,138,,,
-2026-08-15T17:04:54,2026-08-16,MLB,Los Angeles Angels,Kansas City Royals,spread,draftkings,135,-163,,,
-2026-08-15T17:04:54,2026-08-16,MLB,Los Angeles Angels,Kansas City Royals,total,draftkings,,,-103,-117,8.0
-2026-08-15T17:04:54,2026-08-16,MLB,Los Angeles Angels,Kansas City Royals,moneyline,fanduel,-144,134,,,
-2026-08-15T17:04:54,2026-08-16,MLB,Los Angeles Angels,Kansas City Royals,spread,fanduel,142,-172,,,
-2026-08-15T17:04:54,2026-08-16,MLB,Los Angeles Angels,Kansas City Royals,total,fanduel,,,-105,-115,8.0
-2026-08-15T17:04:54,2026-08-16,MLB,Los Angeles Angels,Kansas City Royals,moneyline,betmgm,-165,135,,,
-2026-08-15T17:04:54,2026-08-16,MLB,Los Angeles Angels,Kansas City Royals,spread,betmgm,135,-160,,,
-2026-08-15T17:04:54,2026-08-16,MLB,Los Angeles Angels,Kansas City Royals,total,betmgm,,,-102,-118,8.0
-2026-08-15T17:04:54,2026-08-16,MLB,Athletics,Texas Rangers,moneyline,draftkings,139,-150,,,
-2026-08-15T17:04:54,2026-08-16,MLB,Athletics,Texas Rangers,spread,draftkings,-121,100,,,
-2026-08-15T17:04:54,2026-08-16,MLB,Athletics,Texas Rangers,total,draftkings,,,101,-122,9.5
-2026-08-15T17:04:54,2026-08-16,MLB,Athletics,Texas Rangers,moneyline,fanduel,136,-146,,,
-2026-08-15T17:04:54,2026-08-16,MLB,Athletics,Texas Rangers,spread,fanduel,-128,106,,,
-2026-08-15T17:04:54,2026-08-16,MLB,Athletics,Texas Rangers,total,fanduel,,,100,-122,9.5
-2026-08-15T17:04:54,2026-08-16,MLB,Athletics,Texas Rangers,moneyline,betmgm,135,-160,,,
-2026-08-15T17:04:54,2026-08-16,MLB,Athletics,Texas Rangers,spread,betmgm,-120,100,,,
-2026-08-15T17:04:54,2026-08-16,MLB,Athletics,Texas Rangers,total,betmgm,,,100,-120,9.5
+2026-08-16T00:00:06,2026-08-15,MLB,Atlanta Braves,Arizona Diamondbacks,total,betmgm,,,-110,-115,12.5
+2026-08-16T00:00:06,2026-08-15,MLB,Pittsburgh Pirates,Boston Red Sox,moneyline,draftkings,170,-197,,,
+2026-08-16T00:00:06,2026-08-15,MLB,Pittsburgh Pirates,Boston Red Sox,spread,draftkings,-137,105,,,
+2026-08-16T00:00:06,2026-08-15,MLB,Pittsburgh Pirates,Boston Red Sox,total,draftkings,,,103,-133,6.5
+2026-08-16T00:00:06,2026-08-15,MLB,Pittsburgh Pirates,Boston Red Sox,moneyline,betmgm,160,-200,,,
+2026-08-16T00:00:06,2026-08-15,MLB,Pittsburgh Pirates,Boston Red Sox,spread,betmgm,-135,105,,,
+2026-08-16T00:00:06,2026-08-15,MLB,Pittsburgh Pirates,Boston Red Sox,total,betmgm,,,-102,-125,6.5
+2026-08-16T00:00:06,2026-08-16,MLB,Los Angeles Angels,Kansas City Royals,moneyline,draftkings,101,-121,,,
+2026-08-16T00:00:06,2026-08-16,MLB,Los Angeles Angels,Kansas City Royals,spread,draftkings,-156,129,,,
+2026-08-16T00:00:06,2026-08-16,MLB,Los Angeles Angels,Kansas City Royals,total,draftkings,,,-102,-118,9.5
+2026-08-16T00:00:06,2026-08-16,MLB,Los Angeles Angels,Kansas City Royals,moneyline,fanduel,102,-120,,,
+2026-08-16T00:00:06,2026-08-16,MLB,Los Angeles Angels,Kansas City Royals,spread,fanduel,-150,125,,,
+2026-08-16T00:00:06,2026-08-16,MLB,Los Angeles Angels,Kansas City Royals,total,fanduel,,,-102,-120,9.5
+2026-08-16T00:00:06,2026-08-16,MLB,Los Angeles Angels,Kansas City Royals,moneyline,betmgm,100,-120,,,
+2026-08-16T00:00:06,2026-08-16,MLB,Los Angeles Angels,Kansas City Royals,spread,betmgm,-160,135,,,
+2026-08-16T00:00:06,2026-08-16,MLB,Los Angeles Angels,Kansas City Royals,total,betmgm,,,100,-120,9.5
+2026-08-16T00:00:06,2026-08-16,MLB,Athletics,Texas Rangers,moneyline,draftkings,118,-142,,,
+2026-08-16T00:00:06,2026-08-16,MLB,Athletics,Texas Rangers,spread,draftkings,-131,109,,,
+2026-08-16T00:00:06,2026-08-16,MLB,Athletics,Texas Rangers,total,draftkings,,,-108,-112,10.5
+2026-08-16T00:00:06,2026-08-16,MLB,Athletics,Texas Rangers,moneyline,fanduel,118,-138,,,
+2026-08-16T00:00:06,2026-08-16,MLB,Athletics,Texas Rangers,spread,fanduel,-132,110,,,
+2026-08-16T00:00:06,2026-08-16,MLB,Athletics,Texas Rangers,total,fanduel,,,-105,-115,10.5
+2026-08-16T00:00:06,2026-08-16,MLB,Athletics,Texas Rangers,moneyline,betmgm,115,-140,,,
+2026-08-16T00:00:06,2026-08-16,MLB,Athletics,Texas Rangers,spread,betmgm,-135,110,,,
+2026-08-16T00:00:06,2026-08-16,MLB,Athletics,Texas Rangers,total,betmgm,,,-110,-110,10.5
 2026-08-15T17:04:54,2026-08-15,MLB,Toronto Blue Jays,New York Yankees,moneyline,fanduel,168,-180,,,
 2026-08-15T17:04:54,2026-08-15,MLB,Toronto Blue Jays,New York Yankees,spread,fanduel,-115,-104,,,
 2026-08-15T17:04:54,2026-08-15,MLB,Toronto Blue Jays,New York Yankees,total,fanduel,,,100,-122,7.5
@@ -5134,12 +5134,128 @@ captured_at,date,sport,home_team,away_team,market,book,home_odds,away_odds,over_
 2026-08-15T17:04:54,2026-08-15,MLB,New York Mets,Washington Nationals,moneyline,draftkings,-135,126,,,
 2026-08-15T17:04:54,2026-08-15,MLB,New York Mets,Washington Nationals,spread,draftkings,149,-181,,,
 2026-08-15T17:04:54,2026-08-15,MLB,New York Mets,Washington Nationals,total,draftkings,,,-102,-118,8.0
-2026-08-15T17:04:54,2026-08-15,MLB,Cleveland Guardians,San Diego Padres,moneyline,fanduel,-116,106,,,
-2026-08-15T17:04:54,2026-08-15,MLB,Cleveland Guardians,San Diego Padres,spread,fanduel,-210,172,,,
-2026-08-15T17:04:54,2026-08-15,MLB,Cleveland Guardians,San Diego Padres,total,fanduel,,,-110,-110,8.5
-2026-08-15T17:04:54,2026-08-15,MLB,Cleveland Guardians,San Diego Padres,moneyline,draftkings,-116,108,,,
-2026-08-15T17:04:54,2026-08-15,MLB,Cleveland Guardians,San Diego Padres,spread,draftkings,-205,167,,,
-2026-08-15T17:04:54,2026-08-15,MLB,Cleveland Guardians,San Diego Padres,total,draftkings,,,-105,-114,8.5
-2026-08-15T17:04:54,2026-08-15,MLB,Cleveland Guardians,San Diego Padres,moneyline,betmgm,-120,100,,,
-2026-08-15T17:04:54,2026-08-15,MLB,Cleveland Guardians,San Diego Padres,spread,betmgm,165,-220,,,
-2026-08-15T17:04:54,2026-08-15,MLB,Cleveland Guardians,San Diego Padres,total,betmgm,,,-105,-115,8.5
+2026-08-16T00:00:06,2026-08-15,MLB,Cleveland Guardians,San Diego Padres,moneyline,fanduel,-220,195,,,
+2026-08-16T00:00:06,2026-08-15,MLB,Cleveland Guardians,San Diego Padres,spread,fanduel,100,-132,,,
+2026-08-16T00:00:06,2026-08-15,MLB,Cleveland Guardians,San Diego Padres,total,fanduel,,,110,-146,9.5
+2026-08-16T00:00:06,2026-08-15,MLB,Cleveland Guardians,San Diego Padres,moneyline,draftkings,-200,173,,,
+2026-08-16T00:00:06,2026-08-15,MLB,Cleveland Guardians,San Diego Padres,spread,draftkings,108,-140,,,
+2026-08-16T00:00:06,2026-08-15,MLB,Cleveland Guardians,San Diego Padres,total,draftkings,,,-118,-110,8.5
+2026-08-16T00:00:06,2026-08-15,MLB,Cleveland Guardians,San Diego Padres,moneyline,betmgm,-250,190,,,
+2026-08-16T00:00:06,2026-08-15,MLB,Cleveland Guardians,San Diego Padres,spread,betmgm,105,-135,,,
+2026-08-16T00:00:06,2026-08-15,MLB,Cleveland Guardians,San Diego Padres,total,betmgm,,,-140,110,8.5
+2026-08-16T00:00:06,2026-08-16,MLB,Tampa Bay Rays,Baltimore Orioles,moneyline,fanduel,-144,122,,,
+2026-08-16T00:00:06,2026-08-16,MLB,Tampa Bay Rays,Baltimore Orioles,spread,fanduel,162,-196,,,
+2026-08-16T00:00:06,2026-08-16,MLB,Tampa Bay Rays,Baltimore Orioles,total,fanduel,,,-115,-105,7.5
+2026-08-16T00:00:06,2026-08-16,MLB,Tampa Bay Rays,Baltimore Orioles,moneyline,draftkings,-149,123,,,
+2026-08-16T00:00:06,2026-08-16,MLB,Tampa Bay Rays,Baltimore Orioles,spread,draftkings,149,-181,,,
+2026-08-16T00:00:06,2026-08-16,MLB,Tampa Bay Rays,Baltimore Orioles,total,draftkings,,,-116,-104,7.5
+2026-08-16T00:00:06,2026-08-16,MLB,Tampa Bay Rays,Baltimore Orioles,moneyline,betmgm,-145,120,,,
+2026-08-16T00:00:06,2026-08-16,MLB,Tampa Bay Rays,Baltimore Orioles,spread,betmgm,145,-180,,,
+2026-08-16T00:00:06,2026-08-16,MLB,Tampa Bay Rays,Baltimore Orioles,total,betmgm,,,-118,-102,7.5
+2026-08-16T00:00:06,2026-08-16,MLB,Atlanta Braves,Arizona Diamondbacks,moneyline,fanduel,-126,108,,,
+2026-08-16T00:00:06,2026-08-16,MLB,Atlanta Braves,Arizona Diamondbacks,spread,fanduel,172,-210,,,
+2026-08-16T00:00:06,2026-08-16,MLB,Atlanta Braves,Arizona Diamondbacks,total,fanduel,,,-106,-114,9.0
+2026-08-16T00:00:06,2026-08-16,MLB,Atlanta Braves,Arizona Diamondbacks,moneyline,draftkings,-131,109,,,
+2026-08-16T00:00:06,2026-08-16,MLB,Atlanta Braves,Arizona Diamondbacks,spread,draftkings,169,-207,,,
+2026-08-16T00:00:06,2026-08-16,MLB,Atlanta Braves,Arizona Diamondbacks,total,draftkings,,,-120,100,8.5
+2026-08-16T00:00:06,2026-08-16,MLB,Atlanta Braves,Arizona Diamondbacks,moneyline,betmgm,-125,105,,,
+2026-08-16T00:00:06,2026-08-16,MLB,Atlanta Braves,Arizona Diamondbacks,spread,betmgm,165,-200,,,
+2026-08-16T00:00:06,2026-08-16,MLB,Atlanta Braves,Arizona Diamondbacks,total,betmgm,,,-120,100,8.5
+2026-08-16T00:00:06,2026-08-16,MLB,Pittsburgh Pirates,Boston Red Sox,moneyline,fanduel,-120,102,,,
+2026-08-16T00:00:06,2026-08-16,MLB,Pittsburgh Pirates,Boston Red Sox,spread,fanduel,-200,164,,,
+2026-08-16T00:00:06,2026-08-16,MLB,Pittsburgh Pirates,Boston Red Sox,total,fanduel,,,-102,-120,8.5
+2026-08-16T00:00:06,2026-08-16,MLB,Pittsburgh Pirates,Boston Red Sox,moneyline,draftkings,-118,-102,,,
+2026-08-16T00:00:06,2026-08-16,MLB,Pittsburgh Pirates,Boston Red Sox,spread,draftkings,-193,158,,,
+2026-08-16T00:00:06,2026-08-16,MLB,Pittsburgh Pirates,Boston Red Sox,total,draftkings,,,-118,-102,8.0
+2026-08-16T00:00:06,2026-08-16,MLB,Pittsburgh Pirates,Boston Red Sox,moneyline,betmgm,-120,100,,,
+2026-08-16T00:00:06,2026-08-16,MLB,Pittsburgh Pirates,Boston Red Sox,spread,betmgm,170,-210,,,
+2026-08-16T00:00:06,2026-08-16,MLB,Pittsburgh Pirates,Boston Red Sox,total,betmgm,,,-120,100,8.0
+2026-08-16T00:00:06,2026-08-16,MLB,Toronto Blue Jays,New York Yankees,moneyline,fanduel,-120,102,,,
+2026-08-16T00:00:06,2026-08-16,MLB,Toronto Blue Jays,New York Yankees,spread,fanduel,-210,172,,,
+2026-08-16T00:00:06,2026-08-16,MLB,Toronto Blue Jays,New York Yankees,total,fanduel,,,-104,-118,7.5
+2026-08-16T00:00:06,2026-08-16,MLB,Toronto Blue Jays,New York Yankees,moneyline,draftkings,-120,100,,,
+2026-08-16T00:00:06,2026-08-16,MLB,Toronto Blue Jays,New York Yankees,spread,draftkings,-205,168,,,
+2026-08-16T00:00:06,2026-08-16,MLB,Toronto Blue Jays,New York Yankees,total,draftkings,,,100,-120,7.5
+2026-08-16T00:00:06,2026-08-16,MLB,Toronto Blue Jays,New York Yankees,moneyline,betmgm,-120,100,,,
+2026-08-16T00:00:06,2026-08-16,MLB,Toronto Blue Jays,New York Yankees,spread,betmgm,-200,165,,,
+2026-08-16T00:00:06,2026-08-16,MLB,Toronto Blue Jays,New York Yankees,total,betmgm,,,100,-120,7.5
+2026-08-16T00:00:06,2026-08-16,MLB,Detroit Tigers,Chicago White Sox,moneyline,fanduel,-104,-112,,,
+2026-08-16T00:00:06,2026-08-16,MLB,Detroit Tigers,Chicago White Sox,spread,fanduel,-178,146,,,
+2026-08-16T00:00:06,2026-08-16,MLB,Detroit Tigers,Chicago White Sox,total,fanduel,,,-105,-115,8.5
+2026-08-16T00:00:06,2026-08-16,MLB,Detroit Tigers,Chicago White Sox,moneyline,draftkings,-112,-108,,,
+2026-08-16T00:00:06,2026-08-16,MLB,Detroit Tigers,Chicago White Sox,spread,draftkings,-189,155,,,
+2026-08-16T00:00:06,2026-08-16,MLB,Detroit Tigers,Chicago White Sox,total,draftkings,,,-109,-110,8.0
+2026-08-16T00:00:06,2026-08-16,MLB,Detroit Tigers,Chicago White Sox,moneyline,betmgm,-110,-110,,,
+2026-08-16T00:00:06,2026-08-16,MLB,Detroit Tigers,Chicago White Sox,spread,betmgm,-190,155,,,
+2026-08-16T00:00:06,2026-08-16,MLB,Detroit Tigers,Chicago White Sox,total,betmgm,,,-110,-110,8.0
+2026-08-16T00:00:06,2026-08-16,MLB,Cincinnati Reds,Miami Marlins,moneyline,fanduel,104,-122,,,
+2026-08-16T00:00:06,2026-08-16,MLB,Cincinnati Reds,Miami Marlins,spread,fanduel,-156,130,,,
+2026-08-16T00:00:06,2026-08-16,MLB,Cincinnati Reds,Miami Marlins,total,fanduel,,,-102,-120,9.5
+2026-08-16T00:00:06,2026-08-16,MLB,Cincinnati Reds,Miami Marlins,moneyline,draftkings,104,-126,,,
+2026-08-16T00:00:06,2026-08-16,MLB,Cincinnati Reds,Miami Marlins,spread,draftkings,-143,119,,,
+2026-08-16T00:00:06,2026-08-16,MLB,Cincinnati Reds,Miami Marlins,total,draftkings,,,-119,-101,9.0
+2026-08-16T00:00:06,2026-08-16,MLB,Cincinnati Reds,Miami Marlins,moneyline,betmgm,105,-125,,,
+2026-08-16T00:00:06,2026-08-16,MLB,Cincinnati Reds,Miami Marlins,spread,betmgm,-155,125,,,
+2026-08-16T00:00:06,2026-08-16,MLB,Cincinnati Reds,Miami Marlins,total,betmgm,,,-118,-102,9.0
+2026-08-16T00:00:06,2026-08-16,MLB,Cleveland Guardians,San Diego Padres,moneyline,fanduel,-104,-112,,,
+2026-08-16T00:00:06,2026-08-16,MLB,Cleveland Guardians,San Diego Padres,spread,fanduel,-178,146,,,
+2026-08-16T00:00:06,2026-08-16,MLB,Cleveland Guardians,San Diego Padres,total,fanduel,,,100,-122,8.5
+2026-08-16T00:00:06,2026-08-16,MLB,Cleveland Guardians,San Diego Padres,moneyline,draftkings,-107,-112,,,
+2026-08-16T00:00:06,2026-08-16,MLB,Cleveland Guardians,San Diego Padres,spread,draftkings,-175,144,,,
+2026-08-16T00:00:06,2026-08-16,MLB,Cleveland Guardians,San Diego Padres,total,draftkings,,,-107,-113,8.5
+2026-08-16T00:00:06,2026-08-16,MLB,Cleveland Guardians,San Diego Padres,moneyline,betmgm,-105,-115,,,
+2026-08-16T00:00:06,2026-08-16,MLB,Cleveland Guardians,San Diego Padres,spread,betmgm,-180,145,,,
+2026-08-16T00:00:06,2026-08-16,MLB,Cleveland Guardians,San Diego Padres,total,betmgm,,,-105,-115,8.5
+2026-08-16T00:00:06,2026-08-16,MLB,New York Mets,Washington Nationals,moneyline,fanduel,-178,150,,,
+2026-08-16T00:00:06,2026-08-16,MLB,New York Mets,Washington Nationals,spread,fanduel,125,-150,,,
+2026-08-16T00:00:06,2026-08-16,MLB,New York Mets,Washington Nationals,total,fanduel,,,-106,-114,8.5
+2026-08-16T00:00:06,2026-08-16,MLB,New York Mets,Washington Nationals,moneyline,draftkings,-171,141,,,
+2026-08-16T00:00:06,2026-08-16,MLB,New York Mets,Washington Nationals,spread,draftkings,124,-149,,,
+2026-08-16T00:00:06,2026-08-16,MLB,New York Mets,Washington Nationals,total,draftkings,,,-102,-118,8.5
+2026-08-16T00:00:06,2026-08-16,MLB,New York Mets,Washington Nationals,moneyline,betmgm,-170,140,,,
+2026-08-16T00:00:06,2026-08-16,MLB,New York Mets,Washington Nationals,spread,betmgm,125,-150,,,
+2026-08-16T00:00:06,2026-08-16,MLB,New York Mets,Washington Nationals,total,betmgm,,,100,-120,8.5
+2026-08-16T00:00:06,2026-08-16,MLB,Minnesota Twins,Philadelphia Phillies,moneyline,fanduel,-108,-108,,,
+2026-08-16T00:00:06,2026-08-16,MLB,Minnesota Twins,Philadelphia Phillies,spread,fanduel,-182,150,,,
+2026-08-16T00:00:06,2026-08-16,MLB,Minnesota Twins,Philadelphia Phillies,total,fanduel,,,100,-122,9.5
+2026-08-16T00:00:06,2026-08-16,MLB,Minnesota Twins,Philadelphia Phillies,moneyline,draftkings,-105,-115,,,
+2026-08-16T00:00:06,2026-08-16,MLB,Minnesota Twins,Philadelphia Phillies,spread,draftkings,-171,141,,,
+2026-08-16T00:00:06,2026-08-16,MLB,Minnesota Twins,Philadelphia Phillies,total,draftkings,,,-113,-106,9.0
+2026-08-16T00:00:06,2026-08-16,MLB,Minnesota Twins,Philadelphia Phillies,moneyline,betmgm,-105,-115,,,
+2026-08-16T00:00:06,2026-08-16,MLB,Minnesota Twins,Philadelphia Phillies,total,betmgm,,,-125,105,9.0
+2026-08-16T00:00:06,2026-08-16,MLB,Chicago Cubs,St. Louis Cardinals,moneyline,fanduel,-162,136,,,
+2026-08-16T00:00:06,2026-08-16,MLB,Chicago Cubs,St. Louis Cardinals,spread,fanduel,134,-162,,,
+2026-08-16T00:00:06,2026-08-16,MLB,Chicago Cubs,St. Louis Cardinals,total,fanduel,,,-104,-118,9.0
+2026-08-16T00:00:06,2026-08-16,MLB,Chicago Cubs,St. Louis Cardinals,moneyline,draftkings,-162,134,,,
+2026-08-16T00:00:06,2026-08-16,MLB,Chicago Cubs,St. Louis Cardinals,spread,draftkings,129,-156,,,
+2026-08-16T00:00:06,2026-08-16,MLB,Chicago Cubs,St. Louis Cardinals,total,draftkings,,,100,-120,9.0
+2026-08-16T00:00:06,2026-08-16,MLB,Chicago Cubs,St. Louis Cardinals,moneyline,betmgm,-165,135,,,
+2026-08-16T00:00:06,2026-08-16,MLB,Chicago Cubs,St. Louis Cardinals,spread,betmgm,125,-150,,,
+2026-08-16T00:00:06,2026-08-16,MLB,Chicago Cubs,St. Louis Cardinals,total,betmgm,,,100,-120,9.0
+2026-08-16T00:00:06,2026-08-16,MLB,San Francisco Giants,Colorado Rockies,moneyline,draftkings,-135,112,,,
+2026-08-16T00:00:06,2026-08-16,MLB,San Francisco Giants,Colorado Rockies,spread,draftkings,158,-193,,,
+2026-08-16T00:00:06,2026-08-16,MLB,San Francisco Giants,Colorado Rockies,total,draftkings,,,-112,-107,8.0
+2026-08-16T00:00:06,2026-08-16,MLB,San Francisco Giants,Colorado Rockies,moneyline,fanduel,-134,116,,,
+2026-08-16T00:00:06,2026-08-16,MLB,San Francisco Giants,Colorado Rockies,spread,fanduel,172,-210,,,
+2026-08-16T00:00:06,2026-08-16,MLB,San Francisco Giants,Colorado Rockies,total,fanduel,,,-110,-110,8.0
+2026-08-16T00:00:06,2026-08-16,MLB,San Francisco Giants,Colorado Rockies,moneyline,betmgm,-135,110,,,
+2026-08-16T00:00:06,2026-08-16,MLB,San Francisco Giants,Colorado Rockies,spread,betmgm,155,-190,,,
+2026-08-16T00:00:06,2026-08-16,MLB,San Francisco Giants,Colorado Rockies,total,betmgm,,,-118,-102,8.0
+2026-08-16T00:00:06,2026-08-16,MLB,Los Angeles Dodgers,Milwaukee Brewers,moneyline,draftkings,-175,144,,,
+2026-08-16T00:00:06,2026-08-16,MLB,Los Angeles Dodgers,Milwaukee Brewers,spread,draftkings,129,-156,,,
+2026-08-16T00:00:06,2026-08-16,MLB,Los Angeles Dodgers,Milwaukee Brewers,total,draftkings,,,-110,-109,7.5
+2026-08-16T00:00:06,2026-08-16,MLB,Los Angeles Dodgers,Milwaukee Brewers,moneyline,fanduel,-184,154,,,
+2026-08-16T00:00:06,2026-08-16,MLB,Los Angeles Dodgers,Milwaukee Brewers,spread,fanduel,122,-146,,,
+2026-08-16T00:00:06,2026-08-16,MLB,Los Angeles Dodgers,Milwaukee Brewers,total,fanduel,,,-114,-106,7.5
+2026-08-16T00:00:06,2026-08-16,MLB,Los Angeles Dodgers,Milwaukee Brewers,moneyline,betmgm,-180,145,,,
+2026-08-16T00:00:06,2026-08-16,MLB,Los Angeles Dodgers,Milwaukee Brewers,spread,betmgm,125,-155,,,
+2026-08-16T00:00:06,2026-08-16,MLB,Los Angeles Dodgers,Milwaukee Brewers,total,betmgm,,,-110,-110,7.5
+2026-08-16T00:00:06,2026-08-16,MLB,Houston Astros,Seattle Mariners,moneyline,draftkings,-136,113,,,
+2026-08-16T00:00:06,2026-08-16,MLB,Houston Astros,Seattle Mariners,spread,draftkings,153,-186,,,
+2026-08-16T00:00:06,2026-08-16,MLB,Houston Astros,Seattle Mariners,total,draftkings,,,-118,-102,7.5
+2026-08-16T00:00:06,2026-08-16,MLB,Houston Astros,Seattle Mariners,moneyline,fanduel,-136,116,,,
+2026-08-16T00:00:06,2026-08-16,MLB,Houston Astros,Seattle Mariners,spread,fanduel,158,-192,,,
+2026-08-16T00:00:06,2026-08-16,MLB,Houston Astros,Seattle Mariners,total,fanduel,,,-105,-115,8.0
+2026-08-16T00:00:06,2026-08-16,MLB,Houston Astros,Seattle Mariners,moneyline,betmgm,-135,110,,,
+2026-08-16T00:00:06,2026-08-16,MLB,Houston Astros,Seattle Mariners,spread,betmgm,155,-190,,,
+2026-08-16T00:00:06,2026-08-16,MLB,Houston Astros,Seattle Mariners,total,betmgm,,,-102,-118,8.0
